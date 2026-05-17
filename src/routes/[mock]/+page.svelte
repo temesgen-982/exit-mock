@@ -1,23 +1,28 @@
 <script lang="ts">
-	import type { QuizData, MockMeta } from '$lib/types';
-	import MockSelector from '$lib/components/MockSelector.svelte';
+	import type { QuizData } from '$lib/types';
+	import Quiz from '$lib/components/Quiz.svelte';
 	import SettingsDialog from '$lib/components/SettingsDialog.svelte';
 	import AnalysisDialog from '$lib/components/AnalysisDialog.svelte';
+	import ChevronLeft from '@lucide/svelte/icons/chevron-left';
 	import Moon from '@lucide/svelte/icons/moon';
 	import Sun from '@lucide/svelte/icons/sun';
 	import { toggleMode } from 'mode-watcher';
 	import { Button } from '$lib/components/ui/button/index.js';
-	import { goto } from '$app/navigation';
 
-	let { data }: { data: { mocks: Record<string, QuizData>; mockMeta: MockMeta[] } } = $props();
-	let selectedMock = $state('mock1');
+	let { data }: { data: { quizData: QuizData; mockKey: string } } = $props();
 </script>
 
 <main class="flex h-screen flex-col">
 	<nav class="flex-none border-b p-4">
 		<div class="flex items-center justify-between">
-			<SettingsDialog />
+			<SettingsDialog mockKey={data.mockKey} />
 			<div class="flex gap-2">
+				<a
+					href="/"
+					class="flex items-center gap-1 border p-2 text-sm text-muted-foreground hover:text-foreground"
+				>
+					<ChevronLeft /> Back
+				</a>
 				<AnalysisDialog />
 				<Button onclick={toggleMode} variant="outline" size="icon">
 					<Sun
@@ -31,17 +36,9 @@
 			</div>
 		</div>
 	</nav>
-
 	<div class="honeycomb-bg flex flex-1 items-center justify-center p-4">
-		<div
-			class="grid h-full max-h-[450px] w-full max-w-[800px] grid-cols-12 border-2 bg-card shadow-xl"
-		>
-			<MockSelector
-				mockMeta={data.mockMeta}
-				mocks={data.mocks}
-				bind:selectedMock
-				onstart={() => goto(`/${selectedMock}`)}
-			/>
+		<div class="grid h-full max-h-[450px] w-full max-w-[800px] grid-cols-12 border-2 bg-card shadow-xl">
+			<Quiz quizData={data.quizData} mockKey={data.mockKey} />
 		</div>
 	</div>
 </main>
