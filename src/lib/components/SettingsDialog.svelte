@@ -16,7 +16,9 @@
 				const parsed = JSON.parse(saved);
 				if (parsed.revealMode) revealMode = parsed.revealMode;
 			}
-		} catch { /* ignore */ }
+		} catch {
+			/* ignore */
+		}
 	});
 
 	$effect(() => {
@@ -37,11 +39,11 @@
 	}
 </script>
 
-<Dialog.Root bind:open={open}>
+<Dialog.Root bind:open>
 	<Dialog.Trigger
 		class="flex items-center gap-1 border p-2 text-sm text-muted-foreground hover:text-foreground"
 	>
-		<Settings /> Settings
+		<Settings />
 	</Dialog.Trigger>
 	<Dialog.Content class="sm:max-w-md">
 		<Dialog.Header>
@@ -79,7 +81,7 @@
 						</div>
 						<Alert.Root>
 							<Alert.Trigger
-								class="rounded-md bg-destructive px-3 py-1.5 text-xs font-medium text-destructive-foreground transition-opacity hover:opacity-90"
+								class="text-destructive-foreground rounded-md bg-destructive px-3 py-1.5 text-xs font-medium transition-opacity hover:opacity-90"
 							>
 								Reset
 							</Alert.Trigger>
@@ -105,7 +107,7 @@
 					</div>
 					<Alert.Root>
 						<Alert.Trigger
-							class="rounded-md bg-destructive px-3 py-1.5 text-xs font-medium text-destructive-foreground transition-opacity hover:opacity-90"
+							class="text-destructive-foreground rounded-md bg-destructive px-3 py-1.5 text-xs font-medium transition-opacity hover:opacity-90"
 						>
 							Reset All
 						</Alert.Trigger>

@@ -17,17 +17,18 @@
 	<nav class="flex-none border-b p-4">
 		<div class="flex items-center justify-between">
 			<SettingsDialog />
-			<div class="flex gap-2">
+			<div class="flex items-center gap-2">
 				<AnalysisDialog />
-				<Button onclick={toggleMode} variant="outline" size="icon">
-					<Sun
-						class="h-[1.2rem] w-[1.2rem] scale-100 rotate-0 !transition-all dark:scale-0 dark:-rotate-90"
-					/>
+				<button
+					onclick={toggleMode}
+					class="relative inline-flex items-center justify-center border border-border p-2 hover:bg-input/50"
+				>
+					<Sun class="size-5 scale-100 rotate-0 !transition-all dark:scale-0 dark:-rotate-90" />
 					<Moon
-						class="absolute h-[1.2rem] w-[1.2rem] scale-0 rotate-90 !transition-all dark:scale-100 dark:rotate-0"
+						class="absolute size-5 scale-0 rotate-90 !transition-all dark:scale-100 dark:rotate-0"
 					/>
 					<span class="sr-only">Toggle theme</span>
-				</Button>
+				</button>
 			</div>
 		</div>
 	</nav>

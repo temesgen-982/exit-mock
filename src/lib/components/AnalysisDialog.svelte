@@ -6,6 +6,7 @@
 	import mock1 from '$lib/data/mock1.json';
 	import mock2 from '$lib/data/mock2.json';
 	import type { QuizData } from '$lib/types';
+	import { SvelteMap } from 'svelte/reactivity';
 
 	type MockKey = 'all' | 'mock1' | 'mock2';
 	type MockStat = { key: MockKey; total: number; correct: number; percentage: number };
@@ -29,11 +30,11 @@
 			mock2: mock2 as QuizData
 		};
 
-		const allCourseMap = new Map<string, number[]>();
-		const mock1CourseMap = new Map<string, number[]>();
-		const mock2CourseMap = new Map<string, number[]>();
+		const allCourseMap = new SvelteMap<string, number[]>();
+		const mock1CourseMap = new SvelteMap<string, number[]>();
+		const mock2CourseMap = new SvelteMap<string, number[]>();
 
-		function processMock(key: string, quizData: QuizData, courseMap: Map<string, number[]>) {
+		function processMock(key: string, quizData: QuizData, courseMap: SvelteMap<string, number[]>) {
 			const saved = localStorage.getItem(`exit-mock-${key}`);
 			let answers: Record<string, Record<number, string>> = {};
 			if (saved) {
@@ -145,7 +146,7 @@
 							{displayStats.correct}/{displayStats.total}
 						</p>
 					</button>
-					{#each mockResults as mock}
+					{#each mockResults as mock (mock.key)}
 						<button
 							class="rounded-lg border p-3 text-left transition-colors
 								{selectedView === mock.key
@@ -179,7 +180,7 @@
 						<p class="text-xs font-medium text-muted-foreground">Weakest Courses</p>
 					</div>
 					<div class="space-y-1">
-						{#each displayStats.courses as course}
+						{#each displayStats.courses as course (course.name)}
 							<div class="flex items-center justify-between rounded px-2 py-1 hover:bg-muted">
 								<span class="truncate text-sm">{course.name}</span>
 								<span class="shrink-0 text-xs tabular-nums text-muted-foreground">
