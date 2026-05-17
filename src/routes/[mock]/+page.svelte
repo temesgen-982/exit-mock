@@ -6,7 +6,25 @@
 	import ThemeToggle from '$lib/components/ThemeToggle.svelte';
 	import ChevronLeft from '@lucide/svelte/icons/chevron-left';
 
-	let { data }: { data: { quizData: QuizData; mockKey: string } } = $props();
+	let { data }: { data: { quizData: QuizData | null; mockKey: string } } = $props();
+	let quizData = $state<QuizData | null>(null);
+
+	$effect(() => {
+		if (data.quizData) {
+			quizData = data.quizData;
+			return;
+		}
+		try {
+			const stored = localStorage.getItem('exit-mock-custom-mocks');
+			if (stored) {
+				const mocks = JSON.parse(stored);
+				const mock = mocks.find((m: any) => m.key === data.mockKey);
+				if (mock) quizData = mock.data;
+			}
+		} catch {
+			/* ignore */
+		}
+	});
 </script>
 
 <main class="flex h-screen flex-col">
@@ -28,7 +46,13 @@
 	<div class="honeycomb-bg paused relative flex flex-1 items-center justify-center p-4">
 		<div class="absolute inset-0 bg-background/40 backdrop-blur-sm"></div>
 		<div class="relative grid h-full max-h-[450px] w-full max-w-[800px] grid-cols-12 border-2 bg-card shadow-xl">
-			<Quiz quizData={data.quizData} mockKey={data.mockKey} />
+			{#if quizData}
+				<Quiz {quizData} mockKey={data.mockKey} />
+			{:else}
+				<div class="col-span-12 flex items-center justify-center text-sm text-muted-foreground">
+					Loading...
+				</div>
+			{/if}
 		</div>
 	</div>
 </main>

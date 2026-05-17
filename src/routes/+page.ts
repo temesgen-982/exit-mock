@@ -9,8 +9,8 @@ export const load: PageLoad = () => {
 	return {
 		mocks: { mock1: mock1 as QuizData, mock2: mock2 as QuizData },
 		mockMeta: [
-			{ key: 'mock1', label: 'Mock 1' },
-			{ key: 'mock2', label: 'Mock 2' }
+			{ key: 'mock1', label: 'Mock 1', source: 'builtin' },
+			{ key: 'mock2', label: 'Mock 2', source: 'builtin' }
 		]
 	} as { mocks: Record<string, QuizData>; mockMeta: MockMeta[] };
 };
