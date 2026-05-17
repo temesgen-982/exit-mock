@@ -1,12 +1,9 @@
 <script lang="ts">
 	import type { QuizData, MockMeta } from '$lib/types';
 	import MockSelector from '$lib/components/MockSelector.svelte';
+	import ThemeToggle from '$lib/components/ThemeToggle.svelte';
 	import SettingsDialog from '$lib/components/SettingsDialog.svelte';
 	import AnalysisDialog from '$lib/components/AnalysisDialog.svelte';
-	import Moon from '@lucide/svelte/icons/moon';
-	import Sun from '@lucide/svelte/icons/sun';
-	import { toggleMode } from 'mode-watcher';
-	import { Button } from '$lib/components/ui/button/index.js';
 	import { goto } from '$app/navigation';
 
 	let { data }: { data: { mocks: Record<string, QuizData>; mockMeta: MockMeta[] } } = $props();
@@ -19,16 +16,7 @@
 			<SettingsDialog />
 			<div class="flex items-center gap-2">
 				<AnalysisDialog />
-				<button
-					onclick={toggleMode}
-					class="relative inline-flex items-center justify-center border border-border p-2 hover:bg-input/50"
-				>
-					<Sun class="size-5 scale-100 rotate-0 !transition-all dark:scale-0 dark:-rotate-90" />
-					<Moon
-						class="absolute size-5 scale-0 rotate-90 !transition-all dark:scale-100 dark:rotate-0"
-					/>
-					<span class="sr-only">Toggle theme</span>
-				</button>
+				<ThemeToggle />
 			</div>
 		</div>
 	</nav>
