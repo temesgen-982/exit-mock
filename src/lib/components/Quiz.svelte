@@ -3,6 +3,7 @@
 	import QuestionCard from '$lib/components/QuestionCard.svelte';
 	import PanelLeftClose from '@lucide/svelte/icons/panel-left-close';
 	import PanelLeftOpen from '@lucide/svelte/icons/panel-left-open';
+	import { IsMobile } from '$lib/hooks/is-mobile.svelte';
 
 	let { quizData, mockKey }: { quizData: QuizData; mockKey?: string } = $props();
 
@@ -13,7 +14,9 @@
 	let showSummary = $state(false);
 	let autoCompleted = $state(false);
 	let revealMode = $state('per-question');
-	let sidebarCollapsed = $state(false);
+
+	const isMobile = new IsMobile();
+	let sidebarCollapsed = $state(isMobile.current);
 
 	$effect(() => {
 		if (!mockKey) {
