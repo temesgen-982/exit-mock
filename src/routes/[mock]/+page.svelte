@@ -25,8 +25,9 @@
 			</div>
 		</div>
 	</nav>
-	<div class="honeycomb-bg flex flex-1 items-center justify-center p-4">
-		<div class="grid h-full max-h-[450px] w-full max-w-[800px] grid-cols-12 border-2 bg-card shadow-xl">
+	<div class="honeycomb-bg paused relative flex flex-1 items-center justify-center p-4">
+		<div class="absolute inset-0 bg-background/40 backdrop-blur-sm"></div>
+		<div class="relative grid h-full max-h-[450px] w-full max-w-[800px] grid-cols-12 border-2 bg-card shadow-xl">
 			<Quiz quizData={data.quizData} mockKey={data.mockKey} />
 		</div>
 	</div>
