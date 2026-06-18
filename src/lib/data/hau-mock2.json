@@ -1,0 +1,1360 @@
+{
+  "Computer Programming": [
+    {
+      "id": "5",
+      "question": "In C++ Function variables scopes, which one is defined the incorrect statements in terms of the variable can be accessed?",
+      "options": [
+        "A local variable declared inside a function and only accessible within that function or block.",
+        "A global variable declared outside any function and accessible anywhere in the program",
+        "A static variable declared inside a function and only accessible within that function.",
+        "None of the above"
+      ],
+      "answer": "None of the above"
+    },
+    {
+      "id": "6",
+      "question": "Which statement is not true about pointer in C++?",
+      "options": [
+        "Passing a pointer variable as an argument is same as passing by reference.",
+        "a void pointer is a special pointer where it could be points to any data type variables.",
+        "The pre increment (++) operator in pointer variable increases the value of a pointer variable by one.",
+        "None of the Above"
+      ],
+      "answer": "The pre increment (++) operator in pointer variable increases the value of a pointer variable by one."
+    },
+    {
+      "id": "7",
+      "question": "Which statement is correct about functions for array of characters or string comparison?",
+      "options": [
+        "Returns 0, if two strings are equal character length",
+        "Returns negative value, if the second string is less than the first string",
+        "Returns positive value, if the first string is greater than the second string",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "id": "8",
+      "question": "What will be the output of the following C++ code?",
+      "options": [
+        "25",
+        "Address of a",
+        "Garbage value",
+        "Compilation error"
+      ],
+      "answer": "Garbage value"
+    },
+    {
+      "id": "33",
+      "question": "One of the following Object oriented programming principle is used to take the traits from other classes to establish a hierarchy across classes.",
+      "options": [
+        "Encapsulation",
+        "Inheritance",
+        "Polymorphism",
+        "Abstraction"
+      ],
+      "answer": "Inheritance"
+    },
+    {
+      "id": "34",
+      "question": "Why java doesn’t use pointer directly?",
+      "options": [
+        "Java runs on the Java Virtual Machine (JVM), which abstracts memory management.",
+        "Because java uses reference object",
+        "Direct memory access through pointer is platform dependent",
+        "All"
+      ],
+      "answer": "Java runs on the Java Virtual Machine (JVM), which abstracts memory management."
+    },
+    {
+      "id": "35",
+      "question": "Which one is true about java programming language?",
+      "options": [
+        "The name of every java file should match with its class name",
+        "Java is case sensitive language",
+        "We can use more than one main method inside a single class",
+        "A and B are correct"
+      ],
+      "answer": "We can use more than one main method inside a single class"
+    },
+    {
+      "id": "36",
+      "question": "One is not the valid use of finally block in java",
+      "options": [
+        "Clearing objects from main memory",
+        "Closing opened database connection",
+        "Closing the opened files",
+        "None"
+      ],
+      "answer": "Clearing objects from main memory"
+    },
+    {
+      "id": "37",
+      "question": "Assume we have a parent class called person and a student class that inherits from a person class. Based on this scenario which one is true?",
+      "options": [
+        "We can access methods and instance variables of parent class using student’s object",
+        "We can access methods and instance variables of student class using parent’s object",
+        "Both classes have super() by default",
+        "All"
+      ],
+      "answer": "All"
+    },
+    {
+      "id": "38",
+      "question": "Due to an ambiguity issues, Java does not support one the inheritance type.",
+      "options": [
+        "Single inheritance",
+        "Multiple inheritances",
+        "Multilevel inheritance",
+        "Hierarchal inheritance"
+      ],
+      "answer": "Multilevel inheritance"
+    },
+    {
+      "id": "39",
+      "question": "One is true about the Delegation Event Model in java",
+      "options": [
+        "Source is an object on which the event occurs Constructors",
+        "listener is responsible for generating a response to an event",
+        "A listener is an instance of a class that implements a listener interface",
+        "All"
+      ],
+      "answer": "All"
+    },
+    {
+      "id": "40",
+      "question": "Which one is false about constructor in java?",
+      "options": [
+        "It is special methods.",
+        "Has same name with class name.",
+        "It invoked during object creation.",
+        "Has void return type."
+      ],
+      "answer": "It invoked during object creation."
+    },
+    {
+      "id": "41",
+      "question": "How many times is the phrase ″in the loop printed when the following code is executed?",
+      "options": [
+        "20",
+        "10",
+        "3",
+        "2"
+      ],
+      "answer": "20"
+    },
+    {
+      "id": "42",
+      "question": "Which control flow statement is represented by the flowchart shown in the figure below?",
+      "options": [
+        "While Loop",
+        "Do…while loop",
+        "If …else statement",
+        "For loop"
+      ],
+      "answer": "Do…while loop"
+    },
+    {
+      "id": "43",
+      "question": "Which of the following is a correct identifier in C++?",
+      "options": [
+        "VAR_1234",
+        "7VARNAME",
+        "$var_name",
+        "7var _ name"
+      ],
+      "answer": "VAR_1234"
+    },
+    {
+      "id": "44",
+      "question": "What will be the output of the following C++ code?",
+      "options": [
+        "I",
+        "J",
+        "A",
+        "N"
+      ],
+      "answer": "N"
+    },
+    {
+      "id": "77",
+      "question": "Which type of class relationship can be described as “is part of”?",
+      "options": [
+        "Generalization",
+        "Association",
+        "Aggregation",
+        "Inheritance"
+      ],
+      "answer": "Generalization"
+    },
+    {
+      "id": "78",
+      "question": "Inheritance in object-oriented system is used to",
+      "options": [
+        "Add new attributes to existing attributes",
+        "Add new methods to existing methods",
+        "Create new classes from existing classes",
+        "Add new attributes and methods to existing classes."
+      ],
+      "answer": "Add new attributes to existing attributes"
+    },
+    {
+      "id": "79",
+      "question": "Which of the following statement is TRUE?",
+      "options": [
+        "Class is a template from which objects are created.",
+        "Class is a group of objects having attributes and methods.",
+        "An object is more general than a class.",
+        "All of the above."
+      ],
+      "answer": "Class is a template from which objects are created."
+    },
+    {
+      "id": "80",
+      "question": "In object-oriented system analysis and design________ is the concept that if one class wants information about another class, it should have to ask for it, instead of taking it.",
+      "options": [
+        "Polymorphism",
+        "Encapsulation",
+        "Composition",
+        "Information Hiding"
+      ],
+      "answer": "Encapsulation"
+    },
+    {
+      "id": "81",
+      "question": "Which of the following pointer NOT help you to improve your interviewing skills?",
+      "options": [
+        "Thank the person",
+        "Verify the Schedule",
+        "Shut down users",
+        "End by summarizing"
+      ],
+      "answer": "Shut down users"
+    },
+    {
+      "id": "82",
+      "question": "_________ is a technique that can be used to test domain model.",
+      "options": [
+        "Use Case Scenario Testing",
+        "User Interface walkthroughs",
+        "Requirement reviews",
+        "All of the above"
+      ],
+      "answer": "Use Case Scenario Testing"
+    },
+    {
+      "id": "83",
+      "question": "The acronym CRC stands for _____________",
+      "options": [
+        "Collecting Responsibilities Classes",
+        "Collaborating with Relevant Classes",
+        "Class Responsibility Collaborator",
+        "Collaborating Responsibilities and Classes"
+      ],
+      "answer": "Collaborating with Relevant Classes"
+    },
+    {
+      "id": "84",
+      "question": "Which one of the following is an interaction diagram that emphasizes the time ordering of messages?",
+      "options": [
+        "Sequence diagram",
+        "Activity diagram",
+        "State machine diagram",
+        "Collaboration diagram"
+      ],
+      "answer": "Sequence diagram"
+    }
+  ],
+  "Introduction to Information Retrieval": [
+    {
+      "id": "9",
+      "question": "A crude heuristic process that chops off the ends of the words to reduce inflectional forms of words and reduce the size of the vocabulary is called:",
+      "options": [
+        "Lemmatization",
+        "Case Folding",
+        "True casing",
+        "Stemming"
+      ],
+      "answer": "Stemming"
+    },
+    {
+      "id": "10",
+      "question": "Which one is true about the Bag of words model?",
+      "options": [
+        "It considers a document as a collection of term frequencies.",
+        "It considers a document as a collection of terms",
+        "Vector representation does not consider the ordering of words in a document.",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "id": "11",
+      "question": "In an information retrieval system, 100 documents are retrieved for a query. Out of these, 40 documents are relevant, and there are 60 other relevant documents in the collection that were not retrieved. What is the precision of the retrieval system?",
+      "options": [
+        "0.14",
+        "0.41",
+        "0.3",
+        "0.4"
+      ],
+      "answer": "0.4"
+    },
+    {
+      "id": "12",
+      "question": "Relevance judgment in the context of document-query correspondence is influenced by several factors. Which of the following statements is true about relevance judgment?",
+      "options": [
+        "Relevance judgment ignores situational aspects.",
+        "Relevance judgment is determined only by external judges, not by users.",
+        "Relevance judgment is dynamic and changes over time.",
+        "None"
+      ],
+      "answer": "Relevance judgment is dynamic and changes over time."
+    },
+    {
+      "id": "13",
+      "question": "Why might some web search engines choose not to preprocess text documents?",
+      "options": [
+        "Preprocessing increases the complexity of information retrieval systems.",
+        "Using all words as index terms might improve recall for certain queries.",
+        "Preprocessing eliminates too many essential terms from the document.",
+        "Search engines rely solely on human judgment for relevance."
+      ],
+      "answer": "Using all words as index terms might improve recall for certain queries."
+    },
+    {
+      "id": "14",
+      "question": "What is the purpose of canonicalizing tokens in text preprocessing?",
+      "options": [
+        "To ensure matches occur despite superficial differences in token character sequences.",
+        "To convert uppercase letters into special symbols for better indexing.",
+        "To remove all nouns and verbs from the indexed text for simplicity.",
+        "To remove special characters and punctuation from the text."
+      ],
+      "answer": "To ensure matches occur despite superficial differences in token character sequences."
+    },
+    {
+      "id": "15",
+      "question": "A document vector is represented as d = (5,2,3) and a query vector as q = (4,5,4). What is the dot product of the given vectors?",
+      "options": [
+        "44",
+        "29",
+        "42",
+        "52"
+      ],
+      "answer": "42"
+    },
+    {
+      "id": "16",
+      "question": "The most widely used weighting technique is ______________________________________",
+      "options": [
+        "Similarity measurement",
+        "Recall and precision",
+        "TF*IDF",
+        "Ranking set of documents"
+      ],
+      "answer": "TF*IDF"
+    }
+  ],
+  "Enterprise Systems": [
+    {
+      "id": "17",
+      "question": "Which of the following is a key characteristic of Enterprise Systems (ES)?",
+      "options": [
+        "Primarily developed in-house to meet unique business needs",
+        "Focus solely on individual departmental data and processes",
+        "Aim for seamless integration of information across a company.",
+        "Designed to be inflexible and resistant to evolving IT industry changes"
+      ],
+      "answer": "Aim for seamless integration of information across a company."
+    },
+    {
+      "id": "18",
+      "question": "In a traditional organization, what is a common challenge related to data and information?",
+      "options": [
+        "All departments have instant access to a centralized database.",
+        "Departments often function in isolation with their own data systems.",
+        "Data is easily shared and integrated between different departments.",
+        "Departments strictly follow organizational strategies, and have less to do with departmental goals."
+      ],
+      "answer": "Departments often function in isolation with their own data systems."
+    },
+    {
+      "id": "19",
+      "question": "What is the primary purpose of Enterprise Application Integration (EAI)?",
+      "options": [
+        "To replace existing systems with a single, monolithic application",
+        "To provide a method for connecting and coordinating related (and separate) systems within an organization",
+        "To eliminate the need for centralized databases",
+        "To create completely customized programs."
+      ],
+      "answer": "To provide a method for connecting and coordinating related (and separate) systems within an organization"
+    },
+    {
+      "id": "20",
+      "question": "Which of the following is a potential challenge associated with implementing Enterprise Systems?",
+      "options": [
+        "Guaranteed immediate cost savings and benefit realization",
+        "Straightforward implementation without impacting existing business processes",
+        "Reliance on standardized models that may not fit unique business requirements.",
+        "Limited reliance on complex technologies, with EAI and similar methods."
+      ],
+      "answer": "Reliance on standardized models that may not fit unique business requirements."
+    },
+    {
+      "id": "21",
+      "question": "What is the primary goal of ERP (Enterprise Resource Planning) systems?",
+      "options": [
+        "To focus on individual departmental needs.",
+        "To replace all existing software with a single program.",
+        "To integrate all business functions into a single, integrated software program.",
+        "To minimize communication between different departments."
+      ],
+      "answer": "To integrate all business functions into a single, integrated software program."
+    },
+    {
+      "id": "22",
+      "question": "Which of the following is a common myth associated with ERP implementations?",
+      "options": [
+        "ERP can be easily implemented and requires minimal changes in the way a business operates.",
+        "ERP is just for the managers/decision-makers/ERP implementation team.",
+        "ERP only addresses the needs of manufacturing organizations.",
+        "ERP always guarantees immediate improvements in business performance."
+      ],
+      "answer": "ERP can be easily implemented and requires minimal changes in the way a business operates."
+    },
+    {
+      "id": "23",
+      "question": "What is a key function of CRM (Customer Relationship Management) systems?",
+      "options": [
+        "To replace all marketing campaigns with automated processes.",
+        "To track and manage all aspects of customer interactions and improve customer service.",
+        "To solely focus on streamlining financial accounting processes.",
+        "To outsource customer services to international business process offshoring."
+      ],
+      "answer": "To track and manage all aspects of customer interactions and improve customer service."
+    },
+    {
+      "id": "24",
+      "question": "  What is the primary focus of supply chain management (SCM) systems?",
+      "options": [
+        "Managing financial accounting within a single organization",
+        "Streamlining the flow of materials, information, and finances from supplier to retailer to customer",
+        "Automating human resources operations and streamlining processes with the HR department",
+        "Primarily focus on sales and service performance"
+      ],
+      "answer": "Streamlining the flow of materials, information, and finances from supplier to retailer to customer"
+    }
+  ],
+  "Data Communication and Computer Networks": [
+    {
+      "id": "25",
+      "question": "Which wireless technology is used for short-range communication like wireless keyboards?",
+      "options": [
+        "Radio waves",
+        "Microwaves",
+        "Infrared",
+        "Satellite"
+      ],
+      "answer": "Radio waves"
+    },
+    {
+      "id": "26",
+      "question": "What type of transmission impairment causes signal energy loss over distance?",
+      "options": [
+        "Attenuation",
+        "Dispersion",
+        "Delay distortion",
+        "Crosstalk"
+      ],
+      "answer": "Attenuation"
+    },
+    {
+      "id": "27",
+      "question": "Which communication mode is used in telephone conversations?",
+      "options": [
+        "Simplex",
+        "Half-duplex",
+        "Full-duplex",
+        "Asynchronous"
+      ],
+      "answer": "Full-duplex"
+    },
+    {
+      "id": "28",
+      "question": "Which coaxial cable type was historically used for Ethernet backbones?",
+      "options": [
+        "Thinnet",
+        "Thicknet",
+        "UTP",
+        "STP"
+      ],
+      "answer": "Thicknet"
+    },
+    {
+      "id": "29",
+      "question": "What is the primary role of intermediary devices in a network?",
+      "options": [
+        "Generate data for transmission",
+        "Provide end-user services",
+        "Regenerate signals and direct data flow",
+        "Encrypt messages for security"
+      ],
+      "answer": "Regenerate signals and direct data flow"
+    },
+    {
+      "id": "30",
+      "question": "How many usable host addresses are available in a subnet with a mask of 255.255.255.240?",
+      "options": [
+        "14",
+        "16",
+        "30",
+        "254"
+      ],
+      "answer": "14"
+    },
+    {
+      "id": "31",
+      "question": "Which address space is used for multicasting?",
+      "options": [
+        "Class A",
+        "Class B",
+        "Class D",
+        "Class E"
+      ],
+      "answer": "Class D"
+    },
+    {
+      "id": "32",
+      "question": "What does the CIDR notation /24 represent?",
+      "options": [
+        "24-bit network prefix",
+        "24-bit host suffix",
+        "24 total addresses",
+        "24 subnets"
+      ],
+      "answer": "24-bit host suffix"
+    }
+  ],
+  "Information Systems Project Management": [
+    {
+      "id": "45",
+      "question": "You cannot start editing a technical report until someone else completes the first draft. What type of dependency does this represent?",
+      "options": [
+        "Finish-to-start",
+        "Start-to-start",
+        "Finish-to-finish",
+        "Start-to-finish"
+      ],
+      "answer": "Finish-to-start"
+    },
+    {
+      "id": "46",
+      "question": "_______________ is a method that considers limited resources when creating a project schedule and includes buffers to protect the project completion date.",
+      "options": [
+        "Gantt charts",
+        "PERT",
+        "Critical path analysis",
+        "Critical chain scheduling"
+      ],
+      "answer": "Critical chain scheduling"
+    },
+    {
+      "id": "47",
+      "question": "What is the main goal of project cost management?",
+      "options": [
+        "To complete a project for as little cost as possible",
+        "To complete a project within an approved budget",
+        "To provide truthful and accurate cost information on projects",
+        "To ensure that an organization’s money is used wisely"
+      ],
+      "answer": "To provide truthful and accurate cost information on projects"
+    },
+    {
+      "id": "48",
+      "question": "You are preparing a cost estimate for a building based on its location, purpose, number of square feet, and other characteristics. What cost-estimating technique are you using?",
+      "options": [
+        "Parametric",
+        "Analogous",
+        "Bottom-up",
+        "Top-down"
+      ],
+      "answer": "Parametric"
+    },
+    {
+      "id": "49",
+      "question": "If a project is halfway completed, its schedule performance index is 110 percent, and its cost performance index is 95 percent, how is it progressing?",
+      "options": [
+        "It is ahead of schedule and under budget.",
+        "It is ahead of schedule and over budget.",
+        "It is behind schedule and under budget.",
+        "It is behind schedule and over budget."
+      ],
+      "answer": "It is ahead of schedule and over budget."
+    },
+    {
+      "id": "50",
+      "question": "Your project involves using a new release of a common software application, but if that release is not available, your team has _____________ plans to use the current release.",
+      "options": [
+        "Contingency",
+        "Fallback",
+        "Reserve",
+        "Mitigation"
+      ],
+      "answer": "Fallback"
+    },
+    {
+      "id": "51",
+      "question": "Which risk identification tool involves deriving a consensus among a panel of experts by using anonymous input regarding future events?",
+      "options": [
+        "SWOT analysis",
+        "Brainstorming",
+        "Interviewing",
+        "Delphi technique"
+      ],
+      "answer": "Delphi technique"
+    },
+    {
+      "id": "52",
+      "question": "A risk __________________ is a document that contains results of various risk management processes, and is often displayed in a table or spreadsheet format.",
+      "options": [
+        "Management plan",
+        "Register",
+        "Breakdown structure",
+        "Probability/impact matrix"
+      ],
+      "answer": "Register"
+    }
+  ],
+  "Database Systems": [
+    {
+      "id": "53",
+      "question": "What is the purpose of encryption in database security?",
+      "options": [
+        "To allow users to propagate privileges",
+        "To protect sensitive data during transmission",
+        "To create views",
+        "To enforce mandatory access control",
+        "None"
+      ],
+      "answer": "To create views"
+    },
+    {
+      "id": "55",
+      "question": "What is the purpose of database auditing?",
+      "options": [
+        "To track and log database activities",
+        "To improve query performance",
+        "To design database schemas",
+        "To replicate data across servers"
+      ],
+      "answer": "To track and log database activities"
+    },
+    {
+      "id": "56",
+      "question": "What is the main difference between an OODBMS and a relational DBMS?",
+      "options": [
+        "OODBMS uses tables, while relational DBMS uses objects.",
+        "Relational DBMS is faster for complex queries.",
+        "OODBMS supports inheritance, while relational DBMS does not.",
+        "OODBMS does not support SQL"
+      ],
+      "answer": "OODBMS supports inheritance, while relational DBMS does not."
+    },
+    {
+      "id": "57",
+      "question": "What is the purpose of an index in a database?",
+      "options": [
+        "To enforce referential integrity",
+        "To store backup data",
+        "To define table relationships",
+        "To speed up data retrieval operations"
+      ],
+      "answer": "To enforce referential integrity"
+    },
+    {
+      "id": "58",
+      "question": "Which normal form ensures there are no partial dependencies?",
+      "options": [
+        "1NF",
+        "2NF",
+        "3NF",
+        "BCNF"
+      ],
+      "answer": "2NF"
+    },
+    {
+      "id": "59",
+      "question": "Which of the following is NOT a DDL (Data Definition Language) command?",
+      "options": [
+        "CREATE",
+        "ALTER",
+        "SELECT",
+        "DROP"
+      ],
+      "answer": "DROP"
+    },
+    {
+      "id": "60",
+      "question": "Which of the following is a property of the relational database model?",
+      "options": [
+        "Data is stored in a hierarchical structure",
+        "Data is organized in tables with rows and columns",
+        "Data is stored in a network of nodes",
+        "Data is stored in key-value pairs"
+      ],
+      "answer": "Data is stored in key-value pairs"
+    }
+  ],
+  "Machine learning/Data Sciences/Data Mining": [
+    {
+      "id": "54",
+      "question": "What is the primary goal of data mining?",
+      "options": [
+        "To optimize database storage",
+        "To enforce security policies",
+        "To discover new information in terms of patterns or rules",
+        "To manage distributed databases"
+      ],
+      "answer": "To enforce security policies"
+    },
+    {
+      "id": "85",
+      "question": "Imagine a Newly-Born starts to learn walking. It will try to find a suitable policy to learn walking after repeated falling and getting up. Specify what type of machine learning is best suited?",
+      "options": [
+        "Regression",
+        "Means algorithm",
+        "Reinforcement learning",
+        "Supervised learning"
+      ],
+      "answer": "Reinforcement learning"
+    },
+    {
+      "id": "86",
+      "question": "Which of the following example would you address using a supervised learning Algorithm?",
+      "options": [
+        "Given a set of news articles found on the web, group them into set of articles about the same story",
+        "Given email labeled as spam or not spam, learn a spam filter",
+        "Given a database of customer data, automatically discover market segments and group customers into different market segments",
+        "Find the patterns in market basket analysis"
+      ],
+      "answer": "Given email labeled as spam or not spam, learn a spam filter"
+    },
+    {
+      "id": "87",
+      "question": "Imagine your Machine learning instructor select an attribute that can take certain values: A+, A, A-, B+, B, B-, C+, C, C-, D & F which represents grade of students in the Machine learning course. Here attribute type is ______________",
+      "options": [
+        "Nominal",
+        "Ordinal",
+        "Interval",
+        "Categorical"
+      ],
+      "answer": "Ordinal"
+    },
+    {
+      "id": "88",
+      "question": "Among the following options identify the one which is false regarding regression.",
+      "options": [
+        "It is used for the prediction",
+        "It is used for interpretation",
+        "It relates inputs to outputs",
+        "It discovers casual relationships"
+      ],
+      "answer": "It discovers casual relationships"
+    },
+    {
+      "id": "89",
+      "question": " Which of the following is NOT true about machine learning (ML)?",
+      "options": [
+        "The main focus of ML is to allow computer systems to learn from experience with being explicitly programmed or human intervention.",
+        "ML is a type of artificial intelligence that extracts patterns out of raw data by using an algorithm.",
+        "The Goal of machine learning is to build a model from inputs in order to make strictly static program instructions.",
+        "With machine learning we can gain insight from a dataset."
+      ],
+      "answer": "The Goal of machine learning is to build a model from inputs in order to make strictly static program instructions."
+    },
+    {
+      "id": "90",
+      "question": "What is the term known as on which the machine learning algorithms build a model based on sample data?",
+      "options": [
+        "Validating data",
+        "Training data",
+        "Transfer data",
+        "Testing data"
+      ],
+      "answer": "Training data"
+    },
+    {
+      "id": "91",
+      "question": "Identify the types of Machine learning with WRONG combination",
+      "options": [
+        "Supervised learning: labeled training data",
+        "Unsupervised learning: unlabeled training data",
+        "Semi-unsupervised learning: labeled and unlabeled training data",
+        "Reinforcement learning: the state space of possible inputs and outputs in order tomaximize a reward"
+      ],
+      "answer": "Semi-unsupervised learning: labeled and unlabeled training data"
+    },
+    {
+      "id": "92",
+      "question": "Which of the following algorithm is an adaptive heuristic search algorithm inspired by \"Darwin's theory of evolution in Nature.\"",
+      "options": [
+        "Convolutional Neural Networks",
+        "Neural Networks",
+        "Genetic algorithm",
+        "Bayesian Belief Networks"
+      ],
+      "answer": "Genetic algorithm"
+    }
+  ],
+  "Knowledge Management": [
+    {
+      "id": "61",
+      "question": "What is the primary goal of knowledge management within an organization?",
+      "options": [
+        "To store all information indefinitely",
+        "To improve organizational efficiency and make knowledge easily accessible",
+        "To eliminate the use of technology in information sharing",
+        "To focus solely on employee training programs"
+      ],
+      "answer": "To eliminate the use of technology in information sharing"
+    },
+    {
+      "id": "62",
+      "question": "Which of the following best describes Tacit knowledge?",
+      "options": [
+        "Knowledge that is easily documented and stored in databases.",
+        "Knowledge that is outdated and irrelevant.",
+        "Knowledge that is only theoretical and not applicable in practice.",
+        "Subconscious knowledge that is difficult to articulate and often requires personal interaction for transfer."
+      ],
+      "answer": "Knowledge that is only theoretical and not applicable in practice."
+    },
+    {
+      "id": "63",
+      "question": "What is one significant challenge faced when implementing a Knowledge Management system?",
+      "options": [
+        "Abundance of willing participants",
+        "The high cost of technology solutions",
+        "Excessive data availability",
+        "Difficulty in convincing employees to share their knowledge"
+      ],
+      "answer": "Excessive data availability"
+    },
+    {
+      "id": "64",
+      "question": "What is a recommended practice for ensuring the ongoing effectiveness of a Knowledge Management system?",
+      "options": [
+        "Limit access to information to only senior management",
+        "Set an optimization calendar to regularly assess and improve knowledge resources",
+        "Focus solely on technology without considering team dynamics",
+        "Disregard feedback from employees regarding the system"
+      ],
+      "answer": "Limit access to information to only senior management"
+    },
+    {
+      "id": "65",
+      "question": "What characterizes interactive collection in the context of lesson gathering?",
+      "options": [
+        "A system collaborates with the author to refine the lessons",
+        "Lessons are submitted without author involvement",
+        "Lessons are collected from debriefings",
+        "Lessons are scanned from existing documents"
+      ],
+      "answer": "A system collaborates with the author to refine the lessons"
+    },
+    {
+      "id": "66",
+      "question": "What characterizes executable reuse in the context of lesson reuse?",
+      "options": [
+        "Users can input outcomes to assess lesson effectiveness",
+        "Users have the option to implement a lesson’s recommendation",
+        "Users browse a list of lessons based on search criteria",
+        "Users collaborate with authors to refine lessons"
+      ],
+      "answer": "Users have the option to implement a lesson’s recommendation"
+    },
+    {
+      "id": "67",
+      "question": "What is the direct impact of knowledge management on organizational performance primarily associated with?",
+      "options": [
+        "Enhancing employee satisfaction",
+        "Improving workplace culture",
+        "Reducing employee turnover",
+        "Creating innovative products that generate revenue and profit"
+      ],
+      "answer": "Creating innovative products that generate revenue and profit"
+    },
+    {
+      "id": "68",
+      "question": "Which of the following statements best describes the relationship between KM solutions and KM foundations?",
+      "options": [
+        "KM solutions are independent of KM foundations and can be implemented without them.",
+        "KM solutions include specific processes and systems that operate independently of the organizational culture.",
+        "KM foundations provide the necessary organizational support and infrastructure that enable and enhance KM solutions.",
+        "KM foundations focus solely on technology and do not involve organizational culture or structural arrangements."
+      ],
+      "answer": "KM foundations provide the necessary organizational support and infrastructure that enable and enhance KM solutions."
+    }
+  ],
+  "Information System Security": [
+    {
+      "id": "69",
+      "question": "_________ is the basic tools of modern cryptography that are used in information security to authenticate transactions, messages, and digital signatures.",
+      "options": [
+        "Hashing algorithm",
+        "Data Encryption Standard Algorithm",
+        "Encryption Algorithm",
+        "RSA Algorithm"
+      ],
+      "answer": "Encryption Algorithm"
+    },
+    {
+      "id": "70",
+      "question": "Which one is the most difficult Information Systems security component to secure?",
+      "options": [
+        "Software",
+        "Procedure",
+        "Network",
+        "Peoples"
+      ],
+      "answer": "Peoples"
+    },
+    {
+      "id": "71",
+      "question": "Which one of the following choices is true about the security benefit of using Hash functions with Public Key Cryptography to provide authentication and confidentiality (compared to using Hash functions with Symmetric Key Cryptography to provide authentication and confidentiality)?",
+      "options": [
+        "With Public Key Cryptography only one person could have encrypted the hash – that is the person with the private key.",
+        "With Symmetric Key Cryptography two possible people could have encrypted the hash – the two users that share the secret key.",
+        "Public Key Cryptography provides a digital signature service, which guarantees to everyone who the message came from.",
+        "All"
+      ],
+      "answer": "With Public Key Cryptography only one person could have encrypted the hash – that is the person with the private key."
+    },
+    {
+      "id": "72",
+      "question": "Which security services provide a prevention of unauthorized use of a resource?",
+      "options": [
+        "Access Control",
+        "Data Integrity",
+        "Availability service",
+        "Traffic Padding",
+        "Routing Control"
+      ],
+      "answer": "Access Control"
+    },
+    {
+      "id": "73",
+      "question": "Which one of the following choices is true about Hill cipher?",
+      "options": [
+        "Hill cipher is a polygraphic substitution cipher based on linear algebra.",
+        "Hill cipher is like the other Digraphic ciphers, it acts on groups of letters.",
+        "Unlike the others, though it is extendable to work on different-sized blocks of letters.",
+        "Use Hill cipher the user requires having an elementary understanding of Matrices and makes use of Modulo Arithmetic.",
+        "Hill cipher has a significantly more mathematical nature than some of the others and this nature allows it to act easily on larger blocks of letters.",
+        "All are true"
+      ],
+      "answer": "All are true"
+    },
+    {
+      "id": "74",
+      "question": "In which attack type, an intruder alters packet header addresses to direct a message to a different destination.",
+      "options": [
+        "Masquerade attack,",
+        "Replay attack,",
+        "Modification of messages attack,",
+        "Denial of service (DOS) attack"
+      ],
+      "answer": "Modification of messages attack,"
+    },
+    {
+      "id": "75",
+      "question": "Which of the following choice is false about the difference between Hashing and Encryption?",
+      "options": [
+        "Encryption is a two-way function and hashing is a one-way function.",
+        "Encryption is reversible by anyone who holds a cipher and Hash values cannot be reversed to obtain the input string.",
+        "Encryption is meant to protect data in transit, hashing is meant to verify that a file or a piece of data hasn’t been altered",
+        "None"
+      ],
+      "answer": "None"
+    },
+    {
+      "id": "76",
+      "question": "Which malware software that gathers user information through the user’s Internet connection without their knowledge?",
+      "options": [
+        "Spyware",
+        "Adware",
+        "Cookies",
+        "Web bugs"
+      ],
+      "answer": "Spyware"
+    }
+  ],
+  "Multimedia System": [
+    {
+      "id": "93",
+      "question": "Which type of bitmap/raster image requires Color Look-Up Tables (CLUTs)?",
+      "options": [
+        "Monochrome image",
+        "Gray scale image",
+        "8-bit color image",
+        "24-bit color image"
+      ],
+      "answer": "8-bit color image"
+    },
+    {
+      "id": "94",
+      "question": "_____ are primarily used to illustrate or demonstrate an idea or a concept.",
+      "options": [
+        "Graphics",
+        "Videos",
+        "Animations",
+        "Multimedia"
+      ],
+      "answer": "Graphics"
+    },
+    {
+      "id": "95",
+      "question": "From the following alternatives, which one is an example of streaming audio file formats?",
+      "options": [
+        "Windows Media Audio (WMA)",
+        "Audio Interchange File Format (AIF)",
+        "Musical Instrument Digital Interface (MIDI)",
+        "MPEG-1 Audio Layer-3 (MP3)"
+      ],
+      "answer": "MPEG-1 Audio Layer-3 (MP3)"
+    },
+    {
+      "id": "96",
+      "question": "Which one of the following image file formats is great for static images, logos and print with transparent background.",
+      "options": [
+        "PNG (Portable Network Graphics)",
+        "GIF (Graphics Interchange Format)",
+        "JPEG/JPG (Joint Photographic Experts Group)",
+        "TIFF (Tagged Image File Format)"
+      ],
+      "answer": "PNG (Portable Network Graphics)"
+    },
+    {
+      "id": "97",
+      "question": "_______ is the process of recognizing recurring sets of information and replacing them with a single piece of information.",
+      "options": [
+        "Bitmap images",
+        "Compression",
+        "Virtual reality",
+        "Vector images"
+      ],
+      "answer": "Compression"
+    },
+    {
+      "id": "98",
+      "question": "From the following, which one is Incorrect about Huffman coding data compression technique?",
+      "options": [
+        "It is an encoding algorithm using priority queue.",
+        "It can be constructed based on frequency of occurrence of letters in text documents.",
+        "The original content of the data is lost to certain degree when compressed.",
+        "It is one of the lossless data compression techniques."
+      ],
+      "answer": "The original content of the data is lost to certain degree when compressed."
+    },
+    {
+      "id": "99",
+      "question": "One of the following is not a design goal of multimedia database (MMDB).",
+      "options": [
+        "Handle a variety of data compression and storage formats.",
+        "Designed for only one computing platform and operating system.",
+        "Handle different kinds of indices.",
+        "Synchronize different media types while presenting to user."
+      ],
+      "answer": "Designed for only one computing platform and operating system."
+    },
+    {
+      "id": "100",
+      "question": " Which file format was originally used by Macintosh program, initially only for 1-bit monochrome images?",
+      "options": [
+        "BMP",
+        "ICT",
+        "XBM",
+        "PAINT"
+      ],
+      "answer": "PAINT"
+    }
+  ],
+  "Internet Programming": [
+    {
+      "id": "101",
+      "question": "Which element of HTML cannot contain Meta Information about the page?",
+      "options": [
+        "HEAD element",
+        "Root element",
+        "Body element",
+        "HTML element"
+      ],
+      "answer": "Body element"
+    },
+    {
+      "id": "102",
+      "question": "What is the purpose of JavaScript in web development?",
+      "options": [
+        "To structure web pages",
+        "To style web pages",
+        "To store data on the server",
+        "To add interactivity and dynamic content to web pages"
+      ],
+      "answer": "To add interactivity and dynamic content to web pages"
+    },
+    {
+      "id": "103",
+      "question": "What will be the output of the following JavaScript code snippet?",
+      "options": [
+        "Error",
+        "Information_Systems",
+        "Undefined",
+        "Information_Systems3"
+      ],
+      "answer": "Error"
+    },
+    {
+      "id": "104",
+      "question": "One of the following is incorrect php statement?",
+      "options": [
+        "Print “Hello”,”World”,”!”;",
+        "Echo ‘Hello’,’World’,’!’;",
+        "Echo “Hello”.”World”;",
+        "Print “!”;"
+      ],
+      "answer": "Print “Hello”,”World”,”!”;"
+    },
+    {
+      "id": "105",
+      "question": "Which of one of the following is bock level element?",
+      "options": [
+        "<ul>",
+        "<sup>",
+        "<mark>",
+        "<strong>"
+      ],
+      "answer": "<ul>"
+    },
+    {
+      "id": "106",
+      "question": "Which of the following explains correctly what happens when a JavaScript program is developed on a Unix Machine?",
+      "options": [
+        "will be displayed as JavaScript text on the browser",
+        "will work perfectly well on a Windows Machine",
+        "will throw errors and exception",
+        "must be restricted to a Unix Machine only"
+      ],
+      "answer": "will work perfectly well on a Windows Machine"
+    },
+    {
+      "id": "107",
+      "question": "Which of the following is a correct syntax to display “Hello World” in an alert box using JavaScript?",
+      "options": [
+        "alertBox(‘Hello World’);",
+        "alert(‘Hello World’);",
+        "msgAlert(‘Hello World’);",
+        "displayAlert(‘Hello World’);"
+      ],
+      "answer": "alert(‘Hello World’);"
+    },
+    {
+      "id": "108",
+      "question": "Consider the following code snippet: What is the output?",
+      "options": [
+        "greet",
+        "undefined",
+        "error",
+        "Hello World"
+      ],
+      "answer": "error"
+    }
+  ],
+  "Fundamentals of Artificial Intelligence": [
+    {
+      "id": "109",
+      "question": "Which modeling approach is design for artificial intelligence based on the process of acquiring knowledge through though?",
+      "options": [
+        "the cognitive modeling approach",
+        "the Turing test approach",
+        "the Laws of thought approach",
+        "the rational agent approach"
+      ],
+      "answer": "the cognitive modeling approach"
+    },
+    {
+      "id": "110",
+      "question": "Which structure of intelligence agent use to executes or implements on the physical architecture to produce function ?",
+      "options": [
+        "agent program",
+        "agent function",
+        "architecture of the agent",
+        "all of the above"
+      ],
+      "answer": "agent program"
+    },
+    {
+      "id": "111",
+      "question": "Which artificial intelligent agent deals with angry and not angry states?",
+      "options": [
+        "Simple reflex agent",
+        "Model based agent",
+        "Goal based agent",
+        "Utility based agent"
+      ],
+      "answer": "Simple reflex agent"
+    },
+    {
+      "id": "112",
+      "question": "Which one of the following is incorrect statement about intelligent agent?",
+      "options": [
+        "An intelligent agent may learn from the environment through sensors to achieve their goals.",
+        "The action taken by an AI agent must be a rational action.",
+        "Every intelligent agent has a goal",
+        "None of the above"
+      ],
+      "answer": "None of the above"
+    },
+    {
+      "id": "113",
+      "question": "Which one of the following is not optimal problem-solving search strategies? (2%)",
+      "options": [
+        "Uniform cost search",
+        "Greedy best first search",
+        "A* search",
+        "Breadth First search",
+        "None of the Above"
+      ],
+      "answer": "Greedy best first search"
+    },
+    {
+      "id": "114",
+      "question": "Which one of following searching algorithm has guarantee to find a solution during problem solving?",
+      "options": [
+        "Depth first search",
+        "Greedy best first search",
+        "Depth limited search",
+        "None of the Above"
+      ],
+      "answer": "None of the Above"
+    },
+    {
+      "id": "115",
+      "question": "Which one is correct statement about Breadth First Search strategies?",
+      "options": [
+        "The implementation of list is a first-in-first-out (FIFO) queue",
+        "The implementation of list is a last in first out (LIFO) stack",
+        "The implementation of list is a priority queue.",
+        "BFS is efficient in space, but has no path-length guarantee"
+      ],
+      "answer": "The implementation of list is a first-in-first-out (FIFO) queue"
+    },
+    {
+      "id": "116",
+      "question": "A knowledge-based agent is an agent that consists of two parts are?",
+      "options": [
+        "KB and Inference rule",
+        "Soundness and completeness",
+        "Valid and invalid statements",
+        "Semantic and Syntax"
+      ],
+      "answer": "KB and Inference rule"
+    },
+    {
+      "id": "117",
+      "question": "Which one of the following is not true about object oriented approach to system/software development?",
+      "options": [
+        "It improves programmers’ productivity and quality.",
+        "Systems developed with the OO approach are more flexible.",
+        "It reduces the complexity of systems development and leads to systems that are easier and quicker to build and maintain.",
+        "Each object is relatively small and self-contained.",
+        "It gives users the opportunity to clarify their information requirements as they review iterations of the new system."
+      ],
+      "answer": "It reduces the complexity of systems development and leads to systems that are easier and quicker to build and maintain."
+    }
+  ],
+  "Systems Analysis and Design": [
+    {
+      "id": "118",
+      "question": "Which one of the following is incorrect?",
+      "options": [
+        "Testing requires a large amount of time, effort, and expense to do properly.",
+        "Prototyping is the process of building model for a system.",
+        "Rapid application development (RAD) is a systems development method that can combine JAD, prototyping, and integrated CASE tools to rapidly produce a high-quality system.",
+        "Three commonly used methods to determine economic feasibility are breakeven analysis, return on investment (ROI), and net present value (NPV).",
+        "None"
+      ],
+      "answer": "None"
+    },
+    {
+      "id": "119",
+      "question": "Which one of the following is not primary objective of systems development life cycle?",
+      "options": [
+        "Ensure that high quality systems are delivered.",
+        "Provide strong management controls over the projects",
+        "Maximize the productivity of the systems staff.",
+        "Systems design describes what a system must do to solve the business problem",
+        "None"
+      ],
+      "answer": "Systems design describes what a system must do to solve the business problem"
+    },
+    {
+      "id": "120",
+      "question": "Which one of the following is incorrect concerning benefits of decision support systems?",
+      "options": [
+        "Facilitates interpersonal communication.",
+        "Encourages learning or training.",
+        "Helps automate managerial processes.",
+        "Decision support system is not flexible and can be implemented by users.",
+        "None"
+      ],
+      "answer": "Decision support system is not flexible and can be implemented by users."
+    },
+    {
+      "id": "121",
+      "question": " Which one of the following statement is incorrect?",
+      "options": [
+        "Prototyping is the process of building model for a system.",
+        "Developing screens that a user will see and interact with is a typical use of prototyping.",
+        "Using the prototyping approach, systems developers first obtain only a general idea of user requirements.",
+        "The prototype is given to the users, who are able to use it and make suggestions for improving it.",
+        "Lack of documentation can’t lead to problems after the system becomes operational and needs maintenance."
+      ],
+      "answer": "Lack of documentation can’t lead to problems after the system becomes operational and needs maintenance."
+    },
+    {
+      "id": "122",
+      "question": "What is the main purpose of the systems analysis stage?",
+      "options": [
+        "To gather information about the existing system.",
+        "To determine which of the three basic solutions to pursue.",
+        "To determine the requirements for an enhanced or new system.",
+        "All",
+        "None"
+      ],
+      "answer": "All"
+    },
+    {
+      "id": "123",
+      "question": "Which one of the following is not true about information that systems analysis stage produces?",
+      "options": [
+        "Strengths and weaknesses of the existing system.",
+        "Functions that the new system must have to solve the business problem.",
+        "User information requirements for the new system.",
+        "None"
+      ],
+      "answer": "None"
+    },
+    {
+      "id": "124",
+      "question": "Which one of the following is not true concerning Capabilities of a decision support system(DSS)?",
+      "options": [
+        "Support for problem-solving phases.",
+        "Support for different decision frequencies.",
+        "Support for different problem structures.",
+        "Support for various decision-making levels.",
+        "None."
+      ],
+      "answer": "None."
+    }
+  ]
+}

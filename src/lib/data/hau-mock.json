@@ -45,17 +45,6 @@
       "answer": "Syntax Error"
     },
     {
-      "id": "53",
-      "question": "What is the output of the following fragment code?",
-      "options": [
-        "a = 5 b=7 C=2",
-        "a = 5 b= 8 C=4",
-        "a =6 b=7 C=4",
-        "a= 6 b= 8 C=4"
-      ],
-      "answer": "No answer"
-    },
-    {
       "id": "54",
       "question": "All of the following are examples of integral data types, EXCEPT:",
       "options": [
@@ -109,17 +98,6 @@
         "To repeat a set of instructions"
       ],
       "answer": "To repeat a set of instructions"
-    },
-    {
-      "id": "59",
-      "question": "What is the output of the following loop?",
-      "options": [
-        "0 1 2 3 4",
-        "1 2 3 4 5",
-        "5 4 3 2 1",
-        "0 0 0 0 0"
-      ],
-      "answer": "No answer"
     },
     {
       "id": "60",
