@@ -1,8 +1,15 @@
 <script lang="ts">
 	import * as Dialog from '$lib/components/ui/dialog/index.js';
+	import type { QuizData, Question } from '$lib/types';
 	import Download from '@lucide/svelte/icons/download';
 	import Check from '@lucide/svelte/icons/check';
 	import { toast } from 'svelte-sonner';
+
+	let {
+		quizData
+	}: {
+		quizData?: QuizData | null;
+	} = $props();
 
 	let open = $state(false);
 	let copied = $state(false);
@@ -12,16 +19,64 @@
 		answers: Record<string, Record<number, string>>;
 	}
 
+	interface ExportedQuestion {
+		id: string;
+		question: string;
+		options: string[];
+		userAnswer: string | null;
+		correctAnswer: string;
+		isCorrect: boolean;
+	}
+
+	interface ExportedCourse {
+		course: string;
+		questions: ExportedQuestion[];
+	}
+
+	interface ExportedProgress {
+		mockKey: string;
+		courses: ExportedCourse[];
+	}
+
+	function enrichProgress(progress: QuizProgress[]): ExportedProgress[] {
+		if (!quizData) {
+			return progress.map((p) => ({ mockKey: p.mockKey, courses: [] }));
+		}
+		return progress.map((p) => {
+			const courses: ExportedCourse[] = [];
+			for (const courseName in quizData) {
+				const questions = quizData[courseName];
+				const courseAnswers = p.answers[courseName] ?? {};
+				const questionList: ExportedQuestion[] = questions.map((q, i) => ({
+					id: q.id,
+					question: q.question,
+					options: [...q.options],
+					userAnswer: courseAnswers[i] ?? null,
+					correctAnswer: q.answer,
+					isCorrect: courseAnswers[i] != null && courseAnswers[i] === q.answer
+				}));
+				if (questionList.some((q) => q.userAnswer != null)) {
+					courses.push({ course: courseName, questions: questionList });
+				}
+			}
+			return { mockKey: p.mockKey, courses };
+		});
+	}
+
+	function buildExportData() {
+		const rawProgress = getQuizProgress();
+		return {
+			version: 2,
+			exportedAt: new Date().toISOString(),
+			quizProgress: enrichProgress(rawProgress),
+			customExams: getCustomExams(),
+			settings: getSettings()
+		};
+	}
+
 	function exportAllData() {
 		try {
-			const data = {
-				version: 1,
-				exportedAt: new Date().toISOString(),
-				quizProgress: getQuizProgress(),
-				customExams: getCustomExams(),
-				settings: getSettings()
-			};
-
+			const data = buildExportData();
 			const json = JSON.stringify(data, null, 2);
 			downloadFile(json, `exit-mock-backup-${new Date().toISOString().split('T')[0]}.json`);
 			toast.success('Data exported successfully');
@@ -85,13 +140,7 @@
 
 	function copyToClipboard() {
 		try {
-			const data = {
-				version: 1,
-				exportedAt: new Date().toISOString(),
-				quizProgress: getQuizProgress(),
-				customExams: getCustomExams(),
-				settings: getSettings()
-			};
+			const data = buildExportData();
 			const json = JSON.stringify(data, null, 2);
 			navigator.clipboard.writeText(json);
 			copied = true;
@@ -105,6 +154,11 @@
 	}
 </script>
 
+{#if quizData}
+	<!-- detail available -- show enriched info -->
+	<p class="sr-only">Quiz data loaded — export includes full question details</p>
+{/if}
+
 <Dialog.Root bind:open>
 	<Dialog.Trigger
 		class="flex items-center gap-1 border p-2 text-sm text-muted-foreground hover:text-foreground"
@@ -117,7 +171,12 @@
 		<Dialog.Header>
 			<Dialog.Title>Export Your Data</Dialog.Title>
 			<Dialog.Description>
-				Download or copy all your quiz progress and custom exams. This includes all answers and settings.
+				Download or copy all your quiz progress and custom exams.
+				{#if quizData}
+					Includes full question text, your answers, and correct answers.
+				{:else}
+					This includes all answers and settings.
+				{/if}
 			</Dialog.Description>
 		</Dialog.Header>
 
@@ -127,7 +186,7 @@
 					Your backup includes:
 				</p>
 				<ul class="mt-2 space-y-1 text-xs text-muted-foreground">
-					<li>✓ Quiz progress and answers</li>
+					<li>✓ {quizData ? 'Full question text with your answers and correct answers' : 'Quiz progress and answers'}</li>
 					<li>✓ All custom exams</li>
 					<li>✓ Settings and preferences</li>
 				</ul>

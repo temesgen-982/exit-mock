@@ -134,7 +134,7 @@
 					<ChevronLeft /> Back
 				</a>
 				<AnalysisDialog />
-				<ExportDialog />
+				<ExportDialog {quizData} />
 				<ThemeToggle />
 			</div>
 		</div>
