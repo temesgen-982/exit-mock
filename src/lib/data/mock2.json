@@ -97,7 +97,7 @@
         "C. Æx, ây is same as ây, Æx",
         "D. &quot;Every person in the universe is mortal&quot;  is represented by âx person(x) Î In (x, universe)âmortal(x)"
       ],
-      "answer": "C. Æx, ây is same as ây,Æx"
+      "answer": "C. Æx, ây is same as ây, Æx"
     },
     {
       "id": "10",
@@ -220,7 +220,7 @@
         "Backingup and recovering data in case of failures",
         "Ensuring data integrity by implementing redundancy"
       ],
-      "answer": "Providing a logical representation of data tousers based on their access privileges"
+      "answer": "Providing a logical representation of data to users based on their access privileges"
     }
   ],
   "Machine learning/Data Sciences/ Data Mining": [
@@ -297,7 +297,7 @@
         "When a model performs equally wellon training and testing data",
         "When a model has too few parameters",
         "When a model is undertrained",
-        "When a model performs well on the training data but poorly on new,unseen data"
+        "When a model performs well on the training data but poorly on new, unseen data"
       ],
       "answer": "When a model performs well on the training data but poorly on new, unseen data"
     },
@@ -390,7 +390,7 @@
         "c. i) and iv)",
         "d. ii) and iii)"
       ],
-      "answer": "c. i)and iv)"
+      "answer": "c. i) and iv)"
     },
     {
       "id": "36",
@@ -401,7 +401,7 @@
         "c. &lt;script&gt;",
         "d.  None of the above"
       ],
-      "answer": "a. style"
+      "answer": "a. &lt;style&gt;"
     },
     {
       "id": "37",
@@ -435,7 +435,7 @@
         "c.  &lt;checkbox&gt;",
         "d. &lt;input type = &quot;check&quot;&gt;"
       ],
-      "answer": "a. input type = checkbox"
+      "answer": "a. &lt;input type = &quot;checkbox&quot;&gt;"
     },
     {
       "id": "40",
@@ -446,7 +446,7 @@
         "c. &lt;pre&gt;",
         "d. None of the above"
       ],
-      "answer": "c. pre"
+      "answer": "c. &lt;pre&gt;"
     }
   ],
   "Knowledge Management": [
@@ -514,7 +514,7 @@
         "C. Overuse of paper documents",
         "D.Lack of sunlight in offices"
       ],
-      "answer": "B. Cultural resistance to sharingknowledge"
+      "answer": "B. Cultural resistance to sharing knowledge"
     },
     {
       "id": "47",
@@ -684,7 +684,7 @@
         "C. Participatory Design",
         "D.    Agile Methods"
       ],
-      "answer": "B. Prototyping"
+      "answer": "B.     Prototyping"
     },
     {
       "id": "62",
@@ -695,7 +695,7 @@
         "C.     Preventive",
         "D.    Corrective"
       ],
-      "answer": "C. Preventive"
+      "answer": "C.     Preventive"
     },
     {
       "id": "63",
@@ -706,7 +706,7 @@
         "C.     A hierarchical breakdown of project activities",
         "D.    None of the above"
       ],
-      "answer": "B. A Tangible and verifiable product of work"
+      "answer": "B.     A Tangible and verifiable product of work"
     },
     {
       "id": "64",
@@ -717,7 +717,7 @@
         "C.     Data cannot move directly from one data storeto another data store",
         "D.    A data flow can go directly back to the same process it left"
       ],
-      "answer": "C.Data cannot move directly from one data store to another data store"
+      "answer": "C.     Data cannot move directly from one data storeto another data store"
     },
     {
       "id": "65",
@@ -728,7 +728,7 @@
         "C.     Represents the information flow",
         "D.    Documents rules that select one or more actions based on one or more conditions from a set of alternatives"
       ],
-      "answer": "D. Documents rules that select one or more actions based on one or more conditions from a set of alternatives"
+      "answer": "D.    Documents rules that select one or more actions based on one or more conditions from a set of alternatives"
     },
     {
       "id": "66",
@@ -750,7 +750,7 @@
         "C.     Inclusion and extension relationships between use cases are permissible",
         "D.    There should be at least one alternate scenario"
       ],
-      "answer": "D. There should be at least one alternate scenario"
+      "answer": "D.    There should be at least one alternate scenario"
     },
     {
       "id": "68",
@@ -761,7 +761,7 @@
         "C.     Optimization ofuser-system interaction",
         "D.    User task/goal analysis"
       ],
-      "answer": "B. Feel and Look Design."
+      "answer": "B.    Feel and Look Design."
     },
     {
       "id": "69",
@@ -772,7 +772,7 @@
         "C.     Structural",
         "D.    None of the above"
       ],
-      "answer": "C. Structural"
+      "answer": "C.     Structural"
     },
     {
       "id": "70",
@@ -783,7 +783,7 @@
         "C.     Joins",
         "D.    Swimlanes"
       ],
-      "answer": "D. Swimlanes"
+      "answer": "D.    Swimlanes"
     }
   ],
   "IS Project Management": [
@@ -797,14 +797,14 @@
         "a temporary endeavour undertaken to create a unique product, service or result.",
         "All are possible answers"
       ],
-      "answer": "a temporary endeavour undertaken to create a unique product, serviceor result."
+      "answer": "a temporary endeavour undertaken to create a unique product, service or result."
     },
     {
       "id": "72",
       "question": "What is the main goal of project cost management?",
       "options": [
         "to complete a project for as little cost as possible",
-        "to complete a project within anapproved budget",
+        "to complete a project within an approved budget",
         "to provide truthful and accurate cost information on projects",
         "to ensure that an organizationâs money is used wisely",
         "to distribute the projectbudget equally throughout the project"
@@ -974,7 +974,7 @@
         "SOFTWARE AND NOT STORAGE OR HARDWARE",
         "SOFTWARE OR NOT STORAGE AND HARDWARE"
       ],
-      "answer": "SOFTWARE AND NOT STORAGE ORHARDWARE"
+      "answer": "SOFTWARE AND NOT STORAGE OR HARDWARE"
     },
     {
       "id": "87",
@@ -1049,7 +1049,7 @@
         "int a[3] = {2}; for(int b=0; b&lt;=3; b++) ; cout&lt;&lt;a[b];",
         "float b[3] = {5.3, 6.7, 4.3}; b[1] = b[0]-1; the value of b[2] is same asb[2]"
       ],
-      "answer": "int a[3] = {2}; for(int b=0; b =3; b++) ; cout a[b];"
+      "answer": "int a[3] = {2}; for(int b=0; b&lt;=3; b++) ; cout&lt;&lt;a[b];"
     },
     {
       "id": "94",
@@ -1082,7 +1082,7 @@
         "cout&lt;&lt;fruits[1][1];",
         "cout&lt;&lt;fruits[1];"
       ],
-      "answer": "cout fruits[1];"
+      "answer": "cout&lt;&lt;fruits[1];"
     },
     {
       "id": "97",
@@ -1115,7 +1115,7 @@
         "A variable name can't have space as part of its name",
         "Using descriptive names for variable names add clarity and understandability of a variable"
       ],
-      "answer": "Keywords words can be used asvariable names"
+      "answer": "Keywords words can be used as variable names"
     },
     {
       "id": "100",
@@ -1126,7 +1126,7 @@
         "myfile&lt;&lt;Kibrom Hagos;",
         "myfile&lt;&lt;&quot;Mesfin Akalu&quot;;"
       ],
-      "answer": "myfile Mesfin Akalu ;"
+      "answer": "myfile&lt;&lt;&quot;Mesfin Akalu&quot;;"
     }
   ],
   "Information System Security": [
@@ -1169,7 +1169,7 @@
       "options": [
         "The possession of information is its usefulness. In other words, information has value whenit can serve a purpose.",
         "Information is accuracy when it is in the same state in whichit was created, placed, stored, or transferred.",
-        "Information has accuracy when it isfree from mistakes or errors and has the value that the end user expects.",
+        "Information has accuracy when it is free from mistakes or errors and has the value that the end user expects.",
         "The utility of information is thequality or state of ownership or control."
       ],
       "answer": "Information has accuracy when it is free from mistakes or errors and has the value that the end user expects."
@@ -1183,7 +1183,7 @@
         "Software piracy is a person who accesses systems and information without authorization and often illegally",
         "Exploit is original ideas and inventions created, owned, and controlled by a particular person or organization; IP includes the representation of original ideas."
       ],
-      "answer": "A cracker is a hacker who intentionally removes or bypasses software copyright protection designed to preventunauthorized duplication or use"
+      "answer": "A cracker is a hacker who intentionally removes or bypasses software copyright protection designed to prevent unauthorized duplication or use"
     },
     {
       "id": "106",
@@ -1385,7 +1385,7 @@
         "C.    Quality of services",
         "D.    Security"
       ],
-      "answer": "B. Scalability"
+      "answer": "B.    Scalability"
     },
     {
       "id": "124",
@@ -1396,7 +1396,7 @@
         "C.   In full duplex mode, data moves bidirectional but one at a time.",
         "D.  In half and full duplex mode, it is possible to confirm the successful transmission of data."
       ],
-      "answer": "D. In half and full duplex mode, it is possible to confirm the successful transmission of data."
+      "answer": "D.  In half and full duplex mode, it is possible to confirm the successful transmission of data."
     },
     {
       "id": "125",
@@ -1407,7 +1407,7 @@
         "C. Simplify the network management",
         "D.  Efficient usability of IP addresses"
       ],
-      "answer": "A. Increase the network traffic"
+      "answer": "A.  Increase the network traffic"
     },
     {
       "id": "126",
@@ -1574,7 +1574,7 @@
         "I, II, III, &amp; IV",
         "I, II &amp; IV"
       ],
-      "answer": "I, II, III, IV"
+      "answer": "I, II, III, &amp; IV"
     }
   ]
 }

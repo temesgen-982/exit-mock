@@ -4,7 +4,9 @@
 	import ThemeToggle from '$lib/components/ThemeToggle.svelte';
 	import SettingsDialog from '$lib/components/SettingsDialog.svelte';
 	import AnalysisDialog from '$lib/components/AnalysisDialog.svelte';
+	import ExportDialog from '$lib/components/ExportDialog.svelte';
 	import { goto } from '$app/navigation';
+	import { toast } from 'svelte-sonner';
 
 	let { data }: { data: { mocks: Record<string, QuizData>; mockMeta: MockMeta[] } } = $props();
 
@@ -15,7 +17,7 @@
 	function syncCustomMocks() {
 		try {
 			const stored = localStorage.getItem('exit-mock-custom-mocks');
-			const mocksCopy: Record<string, QuizData> = { ...data.mocks };
+			const mocksCopy: Record<string, QuizData> = structuredClone(data.mocks);
 			const metaCopy: MockMeta[] = [...data.mockMeta];
 			if (stored) {
 				const custom: { key: string; label: string; data: QuizData }[] = JSON.parse(stored);
@@ -26,8 +28,10 @@
 			}
 			allMocks = mocksCopy;
 			allMockMeta = metaCopy;
-		} catch {
-			/* ignore */
+		} catch (error) {
+			toast.error('Failed to load custom exams', {
+				description: error instanceof Error ? error.message : 'Storage may be corrupted'
+			});
 		}
 	}
 
@@ -40,20 +44,24 @@
 			const custom: { key: string; label: string; data: QuizData }[] = JSON.parse(stored);
 			const filtered = custom.filter((m) => m.key !== key);
 			localStorage.setItem('exit-mock-custom-mocks', JSON.stringify(filtered));
+			toast.success('Exam deleted');
 			syncCustomMocks();
-			if (selectedMock === key) selectedMock = allMockMeta[0]?.key ?? '';
-		} catch {
-			/* ignore */
+		} catch (error) {
+			toast.error('Failed to delete exam', {
+				description: error instanceof Error ? error.message : 'Unknown error'
+			});
 		}
 	}
 </script>
 
 <main class="flex h-screen flex-col">
-	<nav class="flex-none border-b p-4">
+	<a href="#main-content" class="sr-only focus:not-sr-only">Skip to main content</a>
+	<nav class="flex-none border-b p-4" aria-label="Main navigation">
 		<div class="flex items-center justify-between">
 			<SettingsDialog />
 			<div class="flex items-center gap-2">
 				<AnalysisDialog />
+				<ExportDialog />
 				<ThemeToggle />
 			</div>
 		</div>
@@ -61,7 +69,8 @@
 
 	<div class="honeycomb-bg flex flex-1 items-center justify-center p-4">
 		<div
-			class="grid h-full max-h-[450px] w-full max-w-[800px] grid-cols-12 border-2 bg-card shadow-xl"
+			id="main-content"
+			class="grid h-full max-h-(--central-max-h) w-full max-w-[800px] grid-cols-12 border-2 bg-card shadow-xl"
 		>
 			<MockSelector
 				mockMeta={allMockMeta}

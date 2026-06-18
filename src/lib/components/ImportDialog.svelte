@@ -5,6 +5,10 @@
 	import Upload from '@lucide/svelte/icons/upload';
 	import { toast } from 'svelte-sonner';
 	import type { QuizData, Question } from '$lib/types';
+	import { tryLocalStorageSet } from '$lib/utils';
+
+	// 5MB file size limit
+	const MAX_FILE_SIZE = 5 * 1024 * 1024;
 
 	let { onimport }: { onimport?: () => void } = $props();
 
@@ -90,6 +94,15 @@
 	}
 
 	function readFile(file: File) {
+		// Check file size before reading
+		if (file.size > MAX_FILE_SIZE) {
+			const sizeMB = (MAX_FILE_SIZE / (1024 * 1024)).toFixed(0);
+			toast.error('File too large', {
+				description: `Maximum file size is ${sizeMB}MB. Your file is ${(file.size / (1024 * 1024)).toFixed(2)}MB.`
+			});
+			return;
+		}
+
 		const reader = new FileReader();
 		reader.onload = () => {
 			rawJson = reader.result as string;
@@ -148,7 +161,16 @@
 			? JSON.parse(stored)
 			: [];
 		existing.push({ key, label: examName.trim(), data: validation.data });
-		localStorage.setItem('exit-mock-custom-mocks', JSON.stringify(existing));
+
+		// Use utility function to safely store with quota check
+		const saved = tryLocalStorageSet('exit-mock-custom-mocks', existing);
+		if (!saved) {
+			toast.error('Storage quota exceeded', {
+				description: 'Browser storage is full. Please delete some exams or clear browser data.'
+			});
+			return;
+		}
+
 		toast.success(
 			`"${examName.trim()}" imported — ${validation.questions} questions across ${validation.courses} courses.`
 		);
