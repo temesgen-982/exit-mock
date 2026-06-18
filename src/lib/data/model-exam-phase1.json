@@ -1,0 +1,745 @@
+{
+  "General": [
+    {
+      "id": "1",
+      "question": "Which of the following is used to avoid infinite loops?",
+      "options": [
+        "A. Sentinel",
+        "B. For",
+        "C. While",
+        "D. Do while"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "2",
+      "question": "The correct syntax of declaring an array is",
+      "options": [
+        "A. [array_size]data_type array _name;",
+        "B. array_name data_type [array_size];",
+        "C. data_type array_name [array_size];",
+        "D. data_type [array_size] array_name;"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "3",
+      "question": "Which program or set of instruction that the computer can understand directly without the help of translating program?",
+      "options": [
+        "A. Machine Language Program",
+        "B. High Level Language Program",
+        "C. Assembly Language Program",
+        "D. None of the Above"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "4",
+      "question": "How Abstraction feature is achieved in object oriented programming or java?",
+      "options": [
+        "A. Abstraction can be achieved by declaring a specific keyword abstract.",
+        "B. Abstraction feature is achieved by Data Abstraction",
+        "C. Abstraction is achieved by Process Abstraction",
+        "D. All the above"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "5",
+      "question": "Which one is incorrect about Abstraction in object oriented programming?",
+      "options": [
+        "A. Its hiding details from the users and showing only necessary details to the users",
+        "B. Abstraction solves the problem at the design level",
+        "C. Abstraction solves the problem at the implementation level",
+        "D. Abstraction only focuses on the object and not how it works",
+        "E. Abstraction breaks the complexity of the data"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "6",
+      "question": "Which of the following features of object oriented programming miss-matched?",
+      "options": [
+        "A. Abstraction- a technique of showing necessary details",
+        "B. Polymorphism - a process for implementing inherited data",
+        "C. Encapsulation - binding data in a single unit",
+        "D. Abstraction – can multiple inheritances"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "7",
+      "question": "A communication device that combines transmissions from several I/O devices into one line is a",
+      "options": [
+        "A. Concentrator",
+        "B. Modifier",
+        "C. Multiplexer",
+        "D. Full duplex file"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "8",
+      "question": "Which layers of the OSI determines the interface often system with the user?",
+      "options": [
+        "A. Network",
+        "B. Application",
+        "C. Data link",
+        "D. Session"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "9",
+      "question": "Which of the following of the TCP/IP protocols is the used for transferring files from one machine to another?",
+      "options": [
+        "A. FTP",
+        "B. SNMP",
+        "C. SMTP",
+        "D. Rpe"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "10",
+      "question": "In which OSI layers does the FDDI protocol operate?",
+      "options": [
+        "A. Physical",
+        "B. Data link",
+        "C. Network",
+        "D. A and B"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "11",
+      "question": "What is a prototype? system",
+      "options": [
+        "A. A working model of a system that demonstrates its functionality.",
+        "B. A document that outlines the requirements for a system.",
+        "C. A model that represents the behavior of a system.",
+        "D. A diagram that shows the relationships between different components of a"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "12",
+      "question": "What is user acceptance testing? requirements expectations reliable scalable and manageable",
+      "options": [
+        "A. Testing performed by the development team to ensure that the system meets its",
+        "B. Testing performed by the users to ensure that the system meets their needs and",
+        "C. Testing performed by external testers to ensure that the system is secure and",
+        "D. Testing performed by the system administrators to ensure that the system is"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "13",
+      "question": "What is the purpose of a feasibility study?",
+      "options": [
+        "A. To identify problems and opportunities in a system",
+        "B. To design a new system",
+        "C. To determine whether a proposed system is achievable and viable",
+        "D. To maintain a system"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "14",
+      "question": "What is inheritance used for?",
+      "options": [
+        "A. To create a new object from an existing object",
+        "B. To add new behavior to an object",
+        "C. To create a new class from an existing class",
+        "D. To encapsulate data and behaviour within an object"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "15",
+      "question": "What is the main advantage of using object-oriented system analysis and design (OOSAD) in software development?",
+      "options": [
+        "A. Improved software performance",
+        "B. Better user engagement",
+        "C. Reduced development time",
+        "D. Improved software quality and maintainability"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "16",
+      "question": "The number of documents in the collection that contain a term is",
+      "options": [
+        "A. Term frequency",
+        "B. Document frequency",
+        "C. Collection frequency",
+        "D. All",
+        "E. None"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "17",
+      "question": "It stores all of the distinct terms that appear in any of the documents",
+      "options": [
+        "A. Postings File",
+        "B. Word list",
+        "C. Inverted List",
+        "D. Vocabulary file",
+        "E. A and D",
+        "F. B and D"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "18",
+      "question": "An entry in the matrix corresponds to the weight of a term in the document; zero means",
+      "options": [
+        "A. The document does not exist in the collection",
+        "B. The term does not exist in the document",
+        "C. The term is binary weight term",
+        "D. The document is non binary weight"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "19",
+      "question": "Let say we have query vector Q = (0.4, 0.8); and also document D1 = (0.2, 0.7). Compute their similarity using cosine? Which one is correct?",
+      "options": [
+        "A. 0.98",
+        "B. 0.45",
+        "C. 0.8",
+        "D. 0.7"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "20",
+      "question": "From the following which one is wright about evaluating IR models",
+      "options": [
+        "A. Are they using binary or non-binary weight?",
+        "B. Are they measuring similarity or dissimilarity?",
+        "C. Are they applying exact matching or partial matching",
+        "D. All",
+        "E. None"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "21",
+      "question": "A company has a database that stores customer information, including customer ID, name, and email address. Which of the following is an example of a functional dependency in this scenario?",
+      "options": [
+        "A. Customer name → Customer email address",
+        "B. Customer email address → Customer ID",
+        "C. Customer ID → Customer email address",
+        "D. Customer ID → Customer name"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "22",
+      "question": "In a database table that stores customer information, the attribute \"Customer ID\" uniquely identifies each customer, and the attribute \"Phone Number\" is dependent on the \"Customer ID\". However, the attribute \"Address\" is also dependent on the \"Phone Number\". Which of the following is the correct functional dependency for this scenario?",
+      "options": [
+        "A. Customer ID → Phone Number",
+        "B. Phone Number → Address",
+        "C. Customer ID → Address",
+        "D. Phone Number → Customer ID"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "23",
+      "question": "A company has a database table that stores information about its employees, including employee ID, name, department, and salary. The table is currently in first normal form (1NF), but it has some redundancy and inconsistency issues. Which of the following is the most appropriate next step in normalizing this table? each department. dependencies. each attribute. with other techniques.",
+      "options": [
+        "A. Convert the table to second normal form (2NF) by creating a separate table for",
+        "B. Convert the table to third normal form (3NF) by removing transitive",
+        "C. Convert the table to fourth normal form (4NF) by creating separate tables for",
+        "D. Leave the table in 1NF and address the redundancy and inconsistency issues"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "24",
+      "question": "What is the purpose of concurrency control in a DBMS? interfering with each other access",
+      "options": [
+        "A. To ensure that all transactions execute successfully",
+        "B. To ensure that all transactions execute in a serial manner",
+        "C. To ensure that multiple transactions can execute simultaneously without",
+        "D. To ensure that transactions can access only the data they are authorized to"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "25",
+      "question": "Step by step description of program is known asA. Pseudo code",
+      "options": [
+        "B. Flowchart",
+        "C. Algorithm",
+        "D. Test case"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "26",
+      "question": "Which of the following scenario is correct?",
+      "options": [
+        "A. flowchart->algorithm- > programming language",
+        "B. flowchart->programming language->algorithm",
+        "C. algorithm->flow chart->programming language",
+        "D. algorithm->programming language->flow chart"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "27",
+      "question": "Which step occurs first?",
+      "options": [
+        "A. Understanding user's needs",
+        "B. Coding program",
+        "C. Clarifying requirements",
+        "D. Developing program logic"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "28",
+      "question": "What is the similarity between a structure, union and enumeration?",
+      "options": [
+        "A. All of them let you define new values",
+        "B. All of them let you define new datatype values",
+        "C. All of them let you define new pointers",
+        "D. All of them let you define new structures"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "30",
+      "question": "Which statement is used to jump the control of program?",
+      "options": [
+        "A. Switch",
+        "B. Loop",
+        "C. Conditional statement",
+        "D. Goto"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "31",
+      "question": "The total memory space allocated for a variable of a structure is equal to",
+      "options": [
+        "A. Memory space required by the largest member variable of the structure",
+        "B. sum of memory space required by the all-member variable of the structure",
+        "C. 100 bytes",
+        "D. none of the above"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "32",
+      "question": "The ............ layer of OSI model can use the trailer of the frame for error detection.",
+      "options": [
+        "A. Physical",
+        "B. Data link",
+        "C. Transport",
+        "D. Presentation"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "33",
+      "question": "In a ................ topology, if there are n devices in a network, each device has n-1 ports for cables.",
+      "options": [
+        "A. Mesh",
+        "B. Star",
+        "C. Bus",
+        "D. Ring"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "34",
+      "question": "Another name for Usenet is",
+      "options": [
+        "A. Gopher",
+        "B. Newsgroups",
+        "C. Browser",
+        "D. CERN"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "35",
+      "question": "The standard suit of protocols used by the Internet, Intranets, extranets and some other networks.",
+      "options": [
+        "A. TCP/IP",
+        "C. Open system",
+        "B. Protocol",
+        "D. Internet work processor"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "36",
+      "question": "Which of the following is/ are the drawbacks of Ring Topology?",
+      "options": [
+        "A. Failure of one computer, can affect the whole network",
+        "B. Adding or removing the computers disturbs the network activity.",
+        "C. If the central hub fails, the whole network fails to operate.",
+        "D. Both of A and B"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "37",
+      "question": "Which of the following is not the layer of TCP/IP protocol?",
+      "options": [
+        "A. Application Layer",
+        "B. Session Layer",
+        "C. Transport Layer",
+        "D. Internetwork layer"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "38",
+      "question": "................ is to protect data and passwords.",
+      "options": [
+        "A. Encryption",
+        "B. Authentication",
+        "C. Authorization",
+        "D. Non-repudiation"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "39",
+      "question": "Will the following java code successfully compiled? If yes, what is the output? public class A { int x = 20; } public class B extends A { int x = 30; } public class Test { public static void main(String[] args) { B b = new B(); System.out.println(b.x); A a = new A(); System.out.println(a.x); A a2 = new B(); System.out.println(a2.x); }}",
+      "options": [
+        "A. 30 20 20",
+        "B. 30 30 20",
+        "C. 20 20 30",
+        "D. 20 30 20"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "40",
+      "question": "Will the following java code compile successfully? What is the output class A { String m1(String x){ System.out.println(\"One\"); return \"ABC\"; } String m1(String y){ System.out.println(\"Two\"); return \"PQR\"; } public static void main(String[] args){ A a = new A(); a.m1(\"ABC\"); } } Output: One",
+      "options": [
+        "A. The code has Duplicate method error, no output",
+        "B. The code has Duplicate method error but the code will be compiled successfully.",
+        "C. The code is completely error",
+        "D. The code has no any error, the output is One Two"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "41",
+      "question": "Which statement is incorrect about Binding in object oriented programming? object at runtime Scenario: A company has a database that stores information about their inventory. The database has a table called \"products\" that contains information about the products they sell, including product ID, product name, description, price, and quantity. The company wants to retrieve a list of all the products that are currently in stock and have a price lower than $50.",
+      "options": [
+        "A. Binding is connecting (linking) between a method call and method definition",
+        "B. Static binding is occurs during compilation and resolved at the compiled time",
+        "C. Dynamic binding is occurs during runtime and resolved based on the type of",
+        "D. None of the above"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "42",
+      "question": "What is an example of a high-level query for this scenario? 50; 20.00, 100);",
+      "options": [
+        "A. SELECT * FROM products;",
+        "B. SELECT product_name, price FROM products WHERE quantity > 0 AND price <",
+        "C. INSERT INTO products (product_name, price, quantity) VALUES ('New Product',",
+        "D. UPDATE products SET price = 45.00 WHERE product_id = 123;"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "43",
+      "question": "What is database query processing in this scenario? operations that can be executed by the database system. executed as a single unit of work.",
+      "options": [
+        "A. It is the process of designing a database schema.",
+        "B. It is the process of transforming a high-level query into a sequence of low-level",
+        "C. It is the process of creating tables, columns, and constraints in a database.",
+        "D. It is the process of ensuring that a set of related database operations are"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "44",
+      "question": "What is database transaction management in this scenario? operations that can be executed by the database system. currently in stock and have a price lower than $50 is executed as a single unit of work.",
+      "options": [
+        "A. It is the process of designing a database schema.",
+        "B. It is the process of transforming a high-level query into a sequence of low-level",
+        "C. It is the process of creating tables, columns, and constraints in a database.",
+        "D. It is the process of ensuring that the retrieval of the list of products that are"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "45",
+      "question": "Suppose you want to declare abstract method in java program. Which of the following alternatives will correctly do this?",
+      "options": [
+        "A. abstract public void findArea();",
+        "B. abstract void findArea();",
+        "C. void findArea();",
+        "D. public void findArea();"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "46",
+      "question": "Which method are used for updating the values of a variable and used to retrieve the value of a variable respectively?",
+      "options": [
+        "A. Setter method and Mutator method",
+        "B. Getter method and Accessor method",
+        "C. Setter Method and Getter method",
+        "D. All of the above"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "47",
+      "question": "What is a tightly encapsulated class in Java?",
+      "options": [
+        "A. If each variable is declared as private in the class",
+        "B. If each variable is declared as public in the class",
+        "C. If each variable is declared as protected in the class",
+        "D. None of the above"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "48",
+      "question": "Which type of polymorphism accomplishes object binding with methods and the behaviour of a method is decided at runtime?",
+      "options": [
+        "A. Dynamic Polymorphism",
+        "B. Static Polymorphism",
+        "C. Compile-time Polymorphism",
+        "D. All of the above"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "49",
+      "question": "For Medical diagnosis system, what will be performance measure, environment, actuator and sensor respectively?",
+      "options": [
+        "A. Healthy Patient, Hospital, Treatments, Patient’s Answers",
+        "B. Costs, Hospital, treatments, display questions",
+        "C. Healthy Patient, Hospital, keyboard entry of symptoms, patient’s answers",
+        "D. Hospital, stuff, treatments, patient’s answers"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "50",
+      "question": "“An inference algorithm which can derive any sentence that is entailed”, is referred as",
+      "options": [
+        "A. Soundness of an algorithm",
+        "B. Completeness of an algorithm",
+        "C. Validity of an algorithm",
+        "D. Satisfiability of an algorithm"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "51",
+      "question": "The Goal of an expert system is?",
+      "options": [
+        "A. To make inferences without relying on semantics.",
+        "B. To reach valid conclusions based on facts only.",
+        "C. To be up-to-date in knowledge",
+        "D. To solve problems sensibly",
+        "E. both (A) and (B)",
+        "F. All of the above"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "52",
+      "question": "One of the intelligent systems is the Google search engine system, as it will display content from YouTube that has already been seen multiple times on the homepage. Which character of intelligent system is that, exactly?",
+      "options": [
+        "A. Use vast amount of information",
+        "B. Tolerate error and ambiguity",
+        "C. Learn from experience",
+        "D. All"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "53",
+      "question": "Because it has only been trained for one specific purpose, which type of artificial intelligence cannot perform beyond its field or limitations?",
+      "options": [
+        "A. Super AI",
+        "B. General AI",
+        "C. Strong AI",
+        "D. Narrow AI"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "54",
+      "question": "Which term weighting is proper for knowing the importance of the term for representing the document it exists in?",
+      "options": [
+        "A. Term Frequency",
+        "B. Document Frequency",
+        "C. Collection frequency",
+        "D. Inverse Document Frequency",
+        "E. All",
+        "F. None"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "55",
+      "question": "A good weight must take into account two effects:",
+      "options": [
+        "A. Quantification of intra-document contents",
+        "B. Similarity",
+        "C. Quantification of inter-documents separation",
+        "D. Dissimilarity",
+        "E. All",
+        "F. None"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "56",
+      "question": "______ is defined as the product of the magnitudes of query and document vectors",
+      "options": [
+        "A. Dot product",
+        "B. Scalar product",
+        "C. Inner product",
+        "D. All",
+        "E. None"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "57",
+      "question": "Determine the Euclidean distance between the document 1 vector (0, 3, 2, 1, 10) and query vector (2, 7, 1, 0, 0). 0 means corresponding term not found in document or query. Which one is correct?",
+      "options": [
+        "A. 17.5",
+        "B. 11.05",
+        "C. 11.21",
+        "D. 17.21"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "58",
+      "question": "Which aspect of object-oriented system analysis and design (OOSAD) can help improve software reusability and modularity?",
+      "options": [
+        "A. Inheritance",
+        "B. Encapsulation",
+        "C. Abstraction",
+        "D. Polymorphism"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "59",
+      "question": "What is the main disadvantage of using traditional, non-object-oriented approaches to system analysis and design?",
+      "options": [
+        "A. Difficulties with user interface design",
+        "B. Poor code organization and maintainability",
+        "C. Slow development times",
+        "D. Inefficient code"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "60",
+      "question": "Which system development methodology is based on the idea of delivering software in small, incremental steps, with a focus on rapid feedback and continuous improvement?",
+      "options": [
+        "A. Waterfall",
+        "B. Agile",
+        "C. Spiral",
+        "D. Iterative"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "61",
+      "question": "Which system development methodology is based on the idea of testing at each stage of the software development process, with a focus on ensuring that the software meets requirements and specifications?",
+      "options": [
+        "A. Waterfall",
+        "B. Spiral",
+        "C. V-shaped",
+        "D. RAD"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "62",
+      "question": "The Planning phase of the SDLC typically involves:",
+      "options": [
+        "A. Defining the project scope and objectives",
+        "B. Conducting a feasibility study",
+        "C. Establishing project timelines and budgets",
+        "D. All of the above"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "63",
+      "question": "For example, a taxi agent might gradually develop a concept of “good behaviour” and “bad behaviour” by generating new actions randomly. Identify the type of learning in this?",
+      "options": [
+        "A. Supervised Learning",
+        "B. Unsupervised Learning",
+        "C. Reinforcement Learning",
+        "D. Semi-supervised Learning"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "64",
+      "question": "Which of the following statement is not true about Sequential environment?",
+      "options": [
+        "A. Current decisions could affect all future decisions",
+        "B. Short term actions can have long-term consequences",
+        "C. Short term actions cannot have long-term consequences",
+        "D. Current decisions could not affect all future decisions",
+        "E. Both (A) and (B)",
+        "F. Both (C) and (D)"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "65",
+      "question": "When two players play alternatively in deterministic and fully observable environment, which of the following is the expected result?",
+      "options": [
+        "A. Equal",
+        "B. Not equal",
+        "C. Opposite to each other",
+        "D. Equal and opposite"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "66",
+      "question": "Which of the following defines the truth of the sentence in logical representation?",
+      "options": [
+        "A. Syntax",
+        "B. Semantics",
+        "C. Logic",
+        "D. All of the above",
+        "E. Both A and B"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "67",
+      "question": "Which of the following is not relevant to knowledge-based agent?",
+      "options": [
+        "A. It can accept new tasks in the form of explicitly described goals.",
+        "B. It can achieve competence quickly by being told about environment",
+        "C. It can adapt to changes in the environment by updating the relevant knowledge.",
+        "D. All of the above",
+        "E. None of the above"
+      ],
+      "answer": ""
+    }
+  ]
+}

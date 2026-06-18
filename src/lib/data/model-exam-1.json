@@ -1,0 +1,1073 @@
+{
+  "General": [
+    {
+      "id": "1",
+      "question": "Which one of the following cannot be static media?",
+      "options": [
+        "A. Alphanumeric data",
+        "B. Animation",
+        "C. Graphics",
+        "D. Still images"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "2",
+      "question": "The presentation of a (usually interactive) computer application, incorporating media elements such as text graphics, video, animation and sound on a computer is:",
+      "options": [
+        "A. Multimedia",
+        "B. Human machine interaction",
+        "C. Human computer interaction",
+        "D. Geographic information systems"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "3",
+      "question": "Any event that results in a violation of any of the confidentiality, integrity, or availability (CIA) security tenets is a:",
+      "options": [
+        "A. Risk management",
+        "B. Authentication",
+        "C. Security breach",
+        "D. Access control"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "5",
+      "question": "The primary information technology infrastructure that supports the e-business applications inside of many companies is:",
+      "options": [
+        "A. Internet",
+        "B. Intranet",
+        "C. Extranet",
+        "D. All"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "6",
+      "question": "If we say the above table is Employee table and created under database called XY-company; how can we create this database by using SQL statement?",
+      "options": [
+        "A. Create table XY-company;",
+        "B. Add database XY-company:",
+        "C. Create XY-company database;",
+        "D. Create database XY-company"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "7",
+      "question": "If you are randomly partitioned the dataset into two non-overlapping parts like 80%: 20%. Hence, these two parts are used for",
+      "options": [
+        "A. Testing only",
+        "B. Testing and training respectively",
+        "C. None of the above",
+        "D. Training and testing respectively"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "8",
+      "question": "The inference mechanism that is used in a knowledge that is represented using semantic network is:",
+      "options": [
+        "A. Syllogism",
+        "B. Association",
+        "C. Inheritance",
+        "D. Equivalence"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "9",
+      "question": "An inter-organizational relationship that affords one or more companies in the relationship a strategic advantage",
+      "options": [
+        "A. Strategic alliance",
+        "B. Outsourcing alliance",
+        "C. In-house alliance",
+        "D. None"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "10",
+      "question": "The ratio of input facilities and the out puts of new products and services of project is:",
+      "options": [
+        "A. Efficiency",
+        "B. Productivity",
+        "C. Fertility",
+        "D. Quality"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "11",
+      "question": "Among the following, one is true about vector space model of information retrieval system except",
+      "options": [
+        "A. Similarity measurement is used to rank documents by the closeness of their vectors to the query",
+        "B. It uses 0 or 1 for the absence or presence of the document respectively",
+        "C. Queries and documents are represented as weighted vectors",
+        "D. It maps documents and queries into term-document vector space"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "12",
+      "question": "A level of design visibility which can only be invoked by other methods in the class in which it is defined, but not in the subclasses?",
+      "options": [
+        "A. Public",
+        "B. Extended",
+        "C. Protected",
+        "D. Private"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "13",
+      "question": "In which phase of project team, heated discussions, disagreements and struggle for team leadership occur?",
+      "options": [
+        "A. Norming",
+        "B. Performing",
+        "C. Storming",
+        "D. Forming"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "14",
+      "question": "Why software design work products are needed to be reviewed on each stage of design?",
+      "options": [
+        "A. Clarity",
+        "B. Correctness",
+        "C. Completeness",
+        "D. )All"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "15",
+      "question": "Which JavaScript method is used to access an HTML element by id?",
+      "options": [
+        "A. document.getElementById()",
+        "B. document.getElementBy()",
+        "C. document.ElementById()",
+        "D. document.getElementByld"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "16",
+      "question": "Evaluating overall project performance to ensure the project will satisfy the relevant quality standards is:",
+      "options": [
+        "A. Quality planning",
+        "B. Quality analysis",
+        "C. Quality assurance",
+        "D. Quality control"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "17",
+      "question": "Information retrieval system uses index terms which represent a document as it can be searchable is:",
+      "options": [
+        "A. Structures",
+        "B. Corpus",
+        "C. Vectors",
+        "D. Bag of words"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "18",
+      "question": "A branch of information theory which minimize the amount of information to be transmitted is:",
+      "options": [
+        "A. Data compression",
+        "B. Data backup",
+        "C. Data recovery",
+        "D. Data restoration"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "19",
+      "question": "If you want to manipulate logical (Boolean) expressions, amongst the following data type which one help you to store the value in the variable?",
+      "options": [
+        "A. double",
+        "B. float",
+        "C. bool",
+        "D. logical"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "20",
+      "question": "Among the following one is false regarding system analysis.",
+      "options": [
+        "A. It is all about problem of the system rather than the solution",
+        "B. It is a process of separating a system into its component parts",
+        "C. It is all about discovery of the solution for the system rather than invention",
+        "D. It is all about how to solve the problem of the system rather than what to be solved"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "21",
+      "question": "Suppose if A B where A and B are facts. Given A, the output will be B. What inference method can be applied to drive  B",
+      "options": [
+        "A. Modus Pones",
+        "B. Resolution",
+        "C. Syllogism",
+        "D. Modus tollens"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "22",
+      "question": "A type of information systems which process data resulting from business transactions, update operational databases, and produce business documents",
+      "options": [
+        "A. Management information systems",
+        "B. Process control systems",
+        "C. Transaction processing systems",
+        "D. Management Support System"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "23",
+      "question": "A type of Al that tries to automate problems based on the specific area of interest can be termed as:",
+      "options": [
+        "A. Weak Al",
+        "B. Strong Al",
+        "C. General Al",
+        "D. Deep Al"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "24",
+      "question": "Most multimedia graphic formats use:",
+      "options": [
+        "A. Lossy compression",
+        "B. Lossless compression",
+        "C. Uncompressed",
+        "D. None"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "25",
+      "question": "How knowledge management can facilitate or accomplish employee learning?",
+      "options": [
+        "A. Through externalization",
+        "B. By socialization and internalization",
+        "C. Via reduce the number of employee",
+        "D. A and B are answer"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "26",
+      "question": "Suppose Mr. Chala has found threats and vulnerabilities within an IT infrastructure particularly in remote access domain. So, which one of the following common threats and vulnerabilities in remote access domain?",
+      "options": [
+        "A. Brute-force password attacks on access and private data.",
+        "B. Authorized remote access to resources.",
+        "C. Data leakage from remote access or lost storage devices",
+        "D. A and C are answer."
+      ],
+      "answer": ""
+    },
+    {
+      "id": "27",
+      "question": "A knowledge based system contains one of the following except:",
+      "options": [
+        "A. User interface",
+        "B. Knowledge",
+        "C. Inference engine",
+        "D. Data"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "28",
+      "question": "What is the difference between do while loop and while loop?",
+      "options": [
+        "A. While loops begin test the loop condition at the top of the loop, but do...while loop checks its condition at the bottom of the loop",
+        "B. Do while loop will always execute at least once, whereas a while loop may never execute at all if its condition is false at the outset.",
+        "C. Do while loops start tests the loop condition at the top of the loop, but while loop checks its condition at the bottom of the loop",
+        "D. A and B are answer."
+      ],
+      "answer": ""
+    },
+    {
+      "id": "29",
+      "question": "The process of providing identifying information, such as a username, a logon ID, or an account number is known as:",
+      "options": [
+        "A. Authentication",
+        "B. Identification",
+        "C. Mitigation",
+        "D. Authorization"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "30",
+      "question": "___is job design technique which integrates the various tasks performed at the same level (horizontally) to the employee's existing job duties",
+      "options": [
+        "A. Job enrichment",
+        "B. Job enlargement",
+        "C. Job redesign",
+        "D. None"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "31",
+      "question": "Using the same key to encrypt and decrypt a message referred to as",
+      "options": [
+        "A. Symmetric key ciphers",
+        "B. Asymmetric key cipher",
+        "C. Private key encryption",
+        "D. A and C are answer"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "32",
+      "question": "A type of digital convergence which is a common use of the physical network infrastructures, such as backbones and local exchange capacity is:",
+      "options": [
+        "A. Service convergence",
+        "B. Market convergence",
+        "C. Network convergence",
+        "D. Industry convergence"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "33",
+      "question": "What will be the output of the following JavaScript code? <p id=\"Exitexam\"></p> <script> var IP = 10; IP = 5; document.getElementById(\"Exitexam \").innerHTML = IP; </script>",
+      "options": [
+        "A. 5",
+        "B. 15",
+        "C. 25",
+        "D. 50"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "34",
+      "question": "What is the full subnet mask for address 172.16.5.10/28?",
+      "options": [
+        "A. 255.255.255.224",
+        "B. 255.255.255.240",
+        "C. 255.255.255.190",
+        "D. 255.255.255.248"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "35",
+      "question": "Which statement is correct about how to add JavaScript to your HTML file?",
+      "options": [
+        "A. The <onclick> event can either be placed inside the <head> or the <body> tag according to the requirement.",
+        "B. The <style> tag can either be placed inside the <head> or the <body> tag according to the requirement.",
+        "C. The <script> tag can either be placed inside the <head> or the <body> tag according to the requirement.",
+        "D. The const keyword can either be placed inside the <head> or the <body> tag according to the requirement."
+      ],
+      "answer": ""
+    },
+    {
+      "id": "36",
+      "question": "In database integrity if the column does not allowed to accept null value, which integrity it has?",
+      "options": [
+        "A. Entity integrity",
+        "B. Required data",
+        "C. Domain integrity",
+        "D. Referential integrity"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "37",
+      "question": "Which of the following is the correct reason about the problems of avoiding/solving all security problems once for all?",
+      "options": [
+        "A. Rapid innovation constantly generates new technology with new vulnerabilities",
+        "B. Information security is a second thought when developing IS",
+        "C. More effective and efficient attack technique and tools are being developed.",
+        "D. All the above."
+      ],
+      "answer": ""
+    },
+    {
+      "id": "38",
+      "question": "The solution is to allow the block of addresses to be split into several parts for internal use as multiple networks, while still acting like a single network to the outside world. This is called:",
+      "options": [
+        "A. Internet Protocol",
+        "B. Classless Inter-Domain Routing",
+        "C. Subnetting",
+        "D. subnet mask"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "39",
+      "question": "You have the following address: 192.16.5.1110/27. How many total bits are being used to identify the network, and how many total bits iden",
+      "options": [
+        "A. 27 bits identify the network, 5 bits identify the host.",
+        "B. 29 bits identify the network, 5 bits identify the host.",
+        "C. 30 bits identify the network, 5 bits identify the host.",
+        "D. 5 bits identify the network, 27 bits identify the host."
+      ],
+      "answer": ""
+    },
+    {
+      "id": "40",
+      "question": "Which of the following is the correct syntax for defining the structure in C++? { int id; } id: name[15];",
+      "options": [
+        "A. struct struct-name",
+        "C. har name[15];",
+        "B. struct struct-name",
+        "C. structure struct-name",
+        "C. har id: name[15];",
+        "D. None of the above"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "41",
+      "question": "Which SQL statement is correct to create this table?",
+      "options": [
+        "A. Create Employee table (ID int, First-Name varchar (25), Last-Name varchar (25), Sex char (5));",
+        "B. Add table Employee (ID int, First-Name varchar (25), Last-Name varchar (25), Sex char (5));",
+        "C. Create tables Employee (ID int, First-Name varchar (25), Last-Name varchar (25), Sex char (5));",
+        "D. Create table Employee (ID int, First-Name varchar (25), Last-Name varchar (25), Sex char (5));"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "42",
+      "question": "Which of the following is true about inheritance?",
+      "options": [
+        "A. Superclass constructors are not inherited by subclasses.",
+        "B. A has-a relationship is implemented via inheritance.",
+        "C. When a subclass redefines a superclass method by using the same signature, the subclass is said to overload that superclass method.",
+        "D. None of the above"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "43",
+      "question": "Which of the following string method that returns a new string that replaces the first matching substring in this string with the new substring?",
+      "options": [
+        "A. toUpperCase()",
+        "B. trim ()",
+        "C. replace()",
+        "D. replaceFirst()"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "44",
+      "question": "What is the maximum number of IP addresses that can be assigned to hosts on a local subnet that uses the 255.255.255 192 subnet mask?",
+      "options": [
+        "A. 62",
+        "B. 32",
+        "C. 55",
+        "D. 60"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "45",
+      "question": "Which one of the following describes some typical input artifacts for object-oriented design?",
+      "options": [
+        "A. Conceptual model",
+        "B. Use case",
+        "C. User interface",
+        "D. All of the above"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "46",
+      "question": "What is an ensemble modeling in machine learning?",
+      "options": [
+        "A. Combining of multiple machine learning models to create more powerful models",
+        "B. Combining of statistical techniques to create a model that produces a unified",
+        "C. prediction Use a combination of models to decrease the accuracy of model.",
+        "D. A and B are answer."
+      ],
+      "answer": ""
+    },
+    {
+      "id": "47",
+      "question": "Anything that perceive its environment through sensors and acting upon that environment through actuators is:",
+      "options": [
+        "A. Actor",
+        "B. Agent",
+        "C. Stakeholder",
+        "D. All"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "48",
+      "question": "One of the following is a good reason the need for applying knowledge sharing systems in organizations?",
+      "options": [
+        "A. To minimize of profit or revenue",
+        "B. To increase customer gratification or retention.",
+        "C. To unhurried time to market with product.",
+        "D. A and C are answer."
+      ],
+      "answer": ""
+    },
+    {
+      "id": "49",
+      "question": "An entropy coding algorism which replaces sequence of the same consecutive bytes with number of occurrences is:",
+      "options": [
+        "A. Run-length Encoding",
+        "B. Lempel-Ziv-Welch",
+        "C. Huffman",
+        "D. None"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "50",
+      "question": "Ina (an)__searching strategies, the agent will use the information available during the problem definition.",
+      "options": [
+        "A. Depth First Search",
+        "B. Informed search",
+        "C. Uninformed search",
+        "D. Both Informed and uninformed search"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "51",
+      "question": "The process of rearranging tasks and responsibilities to better align roles with the changing environment is:",
+      "options": [
+        "A. Job rotation",
+        "B. Job redesign",
+        "C. Job enlargement",
+        "D. None"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "52",
+      "question": "What is Artificial Intelligence?",
+      "options": [
+        "A. Systems that act like humans",
+        "B. Systems that think like humans",
+        "C. Systems that think rationally",
+        "D. All of the above"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "53",
+      "question": "Type of risks occur due to the insufficient knowledge of the development teams about the project is:",
+      "options": [
+        "A. Project risks",
+        "B. Business risks",
+        "C. Organizational risk",
+        "D. Technical risks"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "54",
+      "question": "Which of the following code correct to get the Sum the odd integers between 1 and 99, using a for statement. Assume that the integer variables sum and count have been declared. for (count = 1; count <= 99; count += 2) sum += count; for (count = 1; count <= 99; count += 2) sum += count; for (count = 1; count <= 99; count += 2) sum += count;",
+      "options": [
+        "A. sum = 0;",
+        "B. sum = 2;",
+        "C. sum = 5;",
+        "D. None of the above"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "55",
+      "question": "Which SQL statement is correct to delete all the instances from the table without deleting the table?",
+      "options": [
+        "A. TRUNCATE Employee table",
+        "B. DELETE Employee table:",
+        "C. DELETE Employee;",
+        "D. TRUNCATE table Employee"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "56",
+      "question": "A relevance judgment of query and document which relates to user's current needs is:",
+      "options": [
+        "A. Situational",
+        "B. Subjective",
+        "C. Dynamic",
+        "D. Cognitive"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "57",
+      "question": "Which approaches of improving the classification accuracy of class-imbalanced data, works by resampling",
+      "options": [
+        "A. Ensemble techniques",
+        "B. Over sampling,",
+        "C. Threshold moving",
+        "D. Under sampling"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "58",
+      "question": "Which SQL statement is correct to retrieve all the records from the table?",
+      "options": [
+        "A. SELECT from Employee;",
+        "B. SEARCH * from Employee;",
+        "C. SEARCH all from Employee;",
+        "D. RETRIEVE from Employee;"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "59",
+      "question": "Among the following one is not driving force of digital convergence",
+      "options": [
+        "A. Diffusion of high-speed broadband access",
+        "B. Increasing agricultural industries",
+        "C. Increasing digitalization of content",
+        "D. Shift towards IP-based networks"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "60",
+      "question": "The process of building a knowledge base through extracting the knowledge from the domain expert or documents is called:",
+      "options": [
+        "A. Knowledge sharing",
+        "B. Knowledge engineering",
+        "C. Knowledge application",
+        "D. Knowledge storage"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "61",
+      "question": "A level of design visibility when the method provides behavior needed internally within the class hierarchy, but not externally is:",
+      "options": [
+        "A. Private",
+        "B. Protected",
+        "C. Public",
+        "D. Extended"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "62",
+      "question": "A measure of how much two items, such as classes or methods, are interrelated is:",
+      "options": [
+        "A. Cohesion",
+        "B. Driving",
+        "C. Linking",
+        "D. Coupling"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "63",
+      "question": "A type of multimedia in which the user is given the option of controlling the elements is:",
+      "options": [
+        "A. Hyper media",
+        "B. Lower media",
+        "C. Interactive multimedia",
+        "D. Traditional multimedia"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "64",
+      "question": "Which of the following file mode flags used for open a file for writing?",
+      "options": [
+        "A. ios::app",
+        "B. ios::ate",
+        "C. ios::out",
+        "D. ios::in."
+      ],
+      "answer": ""
+    },
+    {
+      "id": "65",
+      "question": "The process of finding data objects with behaviors that are significantly different from expectation is known as:",
+      "options": [
+        "A. Binning",
+        "B. Visualization",
+        "C. Normalization",
+        "D. Outlier detection"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "66",
+      "question": "How we calculate the value of 2.5 raised to the power of 3, using the pow method.",
+      "options": [
+        "A. double output = Math.pow( 3.2.5);",
+        "B. double result = Math.pow( 2.5, 3);",
+        "C. double result = pow( 2.5, 3);",
+        "D. None of the above"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "67",
+      "question": "What is the output of the following script? <script> let student = [\"ISY\", \"Law\", \"SWE\", \"CS\",\"MGT\"];window. alert(student.length); </script>",
+      "options": [
+        "A. 2",
+        "B. 4",
+        "C. 6",
+        "D. 5"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "68",
+      "question": "Which one of the following refers an emotional response which an employee has towards his/her organization?",
+      "options": [
+        "A. Strategic alignment",
+        "B. Organizational change",
+        "C. Organizational commitment",
+        "D. None"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "69",
+      "question": "The process that converts a value of one data type to another data type is referred as:",
+      "options": [
+        "A. Moving",
+        "B. Typecasting",
+        "C. Casting conversion",
+        "D. B and C are answer"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "70",
+      "question": "In properties of database transaction, if all parts of the transaction is completed and committed. This refers to:",
+      "options": [
+        "A. Durability",
+        "B. Atomicity",
+        "C. Isolation",
+        "D. Consistent"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "71",
+      "question": "In C++ programming, among the following which one is the general syntax to declare a pointer variable?",
+      "options": [
+        "A. Data-type *var-name:",
+        "B. Data-type Svar-name:",
+        "C. Data-type Ivar-name;",
+        "D. None of the above"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "72",
+      "question": "Among the following option identify the one which is not incorporated from other domain in data mining?",
+      "options": [
+        "A. Statistics",
+        "B. Visualization",
+        "C. Data warehouse",
+        "D. None of the above"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "73",
+      "question": "What is the correct range of host addresses for Class C?",
+      "options": [
+        "A. 224.0.0.0 to 239.255.255.255",
+        "B. 128.0.0.0 to 191.255.255.255",
+        "C. 192.0.0.0 to 223.255.255.255",
+        "D. 1.0.0.0 to 127.255.255.255"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "74",
+      "question": "Which one of the following shows the correct process of lessons learned syst",
+      "options": [
+        "A. Verify → Collect  →Disseminate→ Store the lesson",
+        "B. Collect Verify → Store → Disseminate the lesson",
+        "C. Collect → Verify → Disseminate → Store the lesson",
+        "D. Collect→  Disseminate → Verify → Store the lesson"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "75",
+      "question": "A form of e-commerce application in which businesses must develop attractive electronic marketplaces to sell products and services to consumers is",
+      "options": [
+        "A. Consumer-to-Consumer",
+        "B. Business-to-Consumer",
+        "C. Business-to-Business",
+        "D. All"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "76",
+      "question": "Select one that refers how employee commitment can be encouraged in an organization?",
+      "options": [
+        "A. By working together",
+        "B. By respecting employee need",
+        "C. By having fun and playing together",
+        "D. All"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "77",
+      "question": "The totality of characteristics of an entity that bear on its ability to satisfy stated or implied needs is:",
+      "options": [
+        "A. Quality",
+        "B. Efficiency",
+        "C. Fertility",
+        "D. Productivity"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "78",
+      "question": "Aggregating the estimated costs of individual activities or work packages to establish a cost baseline is:",
+      "options": [
+        "A. Cost planning",
+        "B. Cost Budgeting",
+        "C. Cost Control",
+        "D. Cost Estimating"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "79",
+      "question": "Which one of the following is correct about barriers to the use of data mining techniques?",
+      "options": [
+        "A. Lack of dataset to support the analysis.S",
+        "B. Unlimited computing power to perform the mathematical calculations required by the data mining algorithms",
+        "C. Availability of dataset to support the analysis Š",
+        "D. None of the above."
+      ],
+      "answer": ""
+    },
+    {
+      "id": "80",
+      "question": "What is the Number of hosts per subnet for subnet masks 255.128.0.0?",
+      "options": [
+        "A. 225",
+        "B. 224-2",
+        "C. 222",
+        "D. 223-2"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "81",
+      "question": "Methods that are not interface methods and that do not provide implementations must be declared using keyword:",
+      "options": [
+        "A. Class",
+        "B. Float",
+        "C. abstract",
+        "D. Object"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "82",
+      "question": "If you want to assign the value 3.333 to array element 6 which of the following is correct?",
+      "options": [
+        "A. Fractions [5] = 3.333;",
+        "B. fractions []= 3.333;",
+        "C. fractions [6]= 3.333;",
+        "D. None of the above"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "83",
+      "question": "Which of the following options is invalid identifier in java?",
+      "options": [
+        "A. m_inputField1",
+        "B. _value",
+        "C. Welcome1",
+        "D. 7button7"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "84",
+      "question": "Which SQL statement is correct to delete the attribute Sex?",
+      "options": [
+        "A. DROP column Sex ALTER table Employee;",
+        "B. Employee DROP column Sex ALTER table;",
+        "C. ALTER table Employee DROP column Sex;",
+        "D. Sex ALTER table Employee DROP column;"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "85",
+      "question": "The process necessary for identifying and documenting dependencies among schedule activities is:",
+      "options": [
+        "A. Schedule Development",
+        "B. Activity Definition",
+        "C. Activity Sequencing",
+        "D. Activity Resource Estimating"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "86",
+      "question": "What is the equivalent code for the following C++ source code: Int N; N *= 25;",
+      "options": [
+        "A. N = N 25;",
+        "B. N =N % 25* 25;",
+        "C. N =N % 25;",
+        "D. N =N % 25 N;"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "87",
+      "question": "From the following characteristics of knowledge which one has consequences or provides challenges for the design of knowledge management system",
+      "options": [
+        "A. Transfer of knowledge",
+        "B. Economic differences to information",
+        "C. Protection of knowledge",
+        "D. All the above"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "88",
+      "question": "The most basic element of multimedia which is a broad term for something that contains words to express something is:",
+      "options": [
+        "A. Animation",
+        "B. Audio",
+        "C. Text",
+        "D. Video"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "89",
+      "question": "Why evaluating information retrieval system is required?",
+      "options": [
+        "A. To identify techniques that work well and do not work",
+        "B. Check whether the system is right or not",
+        "C. Check whether it is the right system or not",
+        "D. All"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "90",
+      "question": "If you don't specify the angle brackets (< >) for a tag, the web browser will treat the HTML tag name as:",
+      "options": [
+        "A. Stylesheet",
+        "B. HTML element",
+        "C. HTML tag",
+        "D. If you don't specify the angle brackets (< >) for a tag, the web browser will treat the HTML tag name as:"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "91",
+      "question": "Which one of the following is true about the techniques used to reduce the impact of social engineering?",
+      "options": [
+        "A. Be very careful when using remote access. Use weak validation so you know who is accessing your network.",
+        "B. Enforce a strict policy for internal and external technical support procedures.",
+        "C. Ensure that employees are educated on the basics of a secure environment.",
+        "D. Band C are answer."
+      ],
+      "answer": ""
+    },
+    {
+      "id": "92",
+      "question": "Which of the following is not correct about artificial neural network (ANN)?",
+      "options": [
+        "A. It is a model of computation inspired by the structure of neural networks in the brain.",
+        "B. It consists of a large number of basic computing devices (neurons) that are connected to each other in a complex communication network.",
+        "C. Neural networks involve short training times and are therefore less suitable for applications where this is feasible.",
+        "D. None of the above"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "93",
+      "question": "Which of the following is not logical operator?",
+      "options": [
+        "A. and",
+        "B. or",
+        "C. ==",
+        "D. None of the above"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "94",
+      "question": "Which of the statements are true about the purpose of adding JavaScript code to Hypertext Markup Language?",
+      "options": [
+        "A. To submit the HTML form.",
+        "B. To perform complex mathematical calculations..",
+        "C. To validate user's input: while using form.",
+        "D. All the Above."
+      ],
+      "answer": ""
+    },
+    {
+      "id": "95",
+      "question": "A type of training that train someone on how to better communicate and negotiate or provide good customer service is:",
+      "options": [
+        "A. Safety training",
+        "B. Soft skills training",
+        "C. Quality training",
+        "D. Technology training"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "96",
+      "question": "The process, and procedure of organizations use to manage, utilize, and protect their data is:",
+      "options": [
+        "A. Process governance",
+        "B. Quality governance",
+        "C. Data governance",
+        "D. Policy governance"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "97",
+      "question": "Among the following, one can be outsourced.",
+      "options": [
+        "A. System development",
+        "B. Data entry and data conversion",
+        "C. Web site design and web hosting",
+        "D. All of the above"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "98",
+      "question": "Which one of the following is an example of vulnerabilities in company?",
+      "options": [
+        "A. Terrorist",
+        "B. Flaw in a software package or hardware",
+        "C. Hacker",
+        "D. Financial loss"
+      ],
+      "answer": ""
+    }
+  ]
+}

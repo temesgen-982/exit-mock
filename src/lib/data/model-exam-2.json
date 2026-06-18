@@ -1,0 +1,265 @@
+{
+  "Focus 1: Explain database system, data management approaches, types and its applications": [
+    {
+      "id": "1",
+      "question": "Which of the following is advantage of database approach over file-based approach?",
+      "options": [
+        "A. Elimination of duplicate data",
+        "B. Separation and isolation of data",
+        "C. Incompatible file formats",
+        "D. Data dependence"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "2",
+      "question": "A person who is responsible for the physical realization of the database, including physical database design and implementation, security and integrity control, maintenance of the operational system, and ensuring satisfactory performance of the applications for users is called as_____________.",
+      "options": [
+        "A. Database designer",
+        "B. Database administrator",
+        "C. Application Developer",
+        "D. Database Analyzer"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "3",
+      "question": "In the three-tier architecture, the intermediate layer between database and client servers is classified as",
+      "options": [
+        "A. Functional server",
+        "B. Transaction server",
+        "C. Application server",
+        "D. Disk server"
+      ],
+      "answer": ""
+    }
+  ],
+  "Focus 2: Design conceptual, logical and physical database models.": [
+    {
+      "id": "4",
+      "question": "A database architecture level which describes what data is stored in the database and the relationships among the data is known as ______________.",
+      "options": [
+        "A. Higher Level",
+        "B. Conceptual Level",
+        "C. External Level",
+        "D. Internal level"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "5",
+      "question": "Which one of the following is an example of the object-based logical model?",
+      "options": [
+        "A. network model",
+        "B. conceptual model",
+        "C. relational model",
+        "D. entity relationship model"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "6",
+      "question": "A language that allows the DBA or user to describe and name the entities, attributes, and relationships required for the application, together with any associated integrity and security constraints.",
+      "options": [
+        "A. Data Manipulation Language",
+        "B. Data Definition Language",
+        "C. Data Description Language",
+        "D. Data Association language"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "7",
+      "question": "A language that allows the user to tell the system what data is needed and exactly how to retrieve the data.",
+      "options": [
+        "A. Procedural Data Manipulation Languages",
+        "B. Non-procedural Data Definition Languages",
+        "C. Procedural Data Definition Languages",
+        "D. Non-procedural Data Definition Languages"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "8",
+      "question": "Which statement supports the concept behind network data model?",
+      "options": [
+        "A. Collections of records, and relationships are represented by sets.",
+        "B. Data and relationships are represented as tables, each of which has a number of columns with a unique name.",
+        "C. Collection of concepts for describing and manipulating data, relationships between data, and constraints on the data in an organization.",
+        "D. A type of data model which is based on the concept of mathematical relations."
+      ],
+      "answer": ""
+    },
+    {
+      "id": "9",
+      "question": "The detailed description on entity constraints, entity relationships and entity types is expressed in",
+      "options": [
+        "A. Low level schema design",
+        "B. Physical design",
+        "C. Conceptual design",
+        "D. Logical design"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "10",
+      "question": "The phase in data designing in which the access paths and database indexes are specified is classified as",
+      "options": [
+        "A. Structural design",
+        "B. Physical design of database",
+        "C. Data model mapping",
+        "D. Logical design"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "11",
+      "question": "The first step in designing high level conceptual data model is",
+      "options": [
+        "A. Logical design analysis",
+        "B. Conceptual design analysis",
+        "C. Functional requirement analysis",
+        "D. Requirement analysis"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "12",
+      "question": "The schema which specifies that all the database users requirements have been met is called",
+      "options": [
+        "A. High level conceptual schema",
+        "B. High level logical schema",
+        "C. High level structural schema",
+        "D. High level detailed schema"
+      ],
+      "answer": ""
+    }
+  ],
+  "Focus 3: Design ER models and map them into relational tables": [
+    {
+      "id": "13",
+      "question": "In formal relational model, the set of indivisible values is called",
+      "options": [
+        "A. Range",
+        "B. Domain",
+        "C. Relation",
+        "D. Tuple"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "14",
+      "question": "In relational model terminology, the table is considered as",
+      "options": [
+        "A. Range",
+        "B. Domain",
+        "C. Relation",
+        "D. Tuple"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "15",
+      "question": "The attributes that can be arranged into hierarchy are called",
+      "options": [
+        "A. Composite attributes",
+        "B. Atomic attributes",
+        "C. Derived attributes",
+        "D. Simple attributes"
+      ],
+      "answer": ""
+    }
+  ],
+  "Focus 4: Understand database functional dependency and normalization": [
+    {
+      "id": "16",
+      "question": "A database design technique for producing a set of relations with desirable properties, given the data requirements of an enterprise is called ___________.",
+      "options": [
+        "A. Normalization",
+        "B. Decomposition",
+        "C. Inheritance",
+        "D. Deployment"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "17",
+      "question": "If A and B are attributes of relation R, B is functionally dependent on A (denoted A → B), if each value of A is associated with exactly one value of B. This statement best described by _______.",
+      "options": [
+        "A. Functional requirements",
+        "B. Functional dependency",
+        "C. Functional normalization",
+        "D. Functional decomposition"
+      ],
+      "answer": ""
+    }
+  ],
+  "Focus 5: Explain database query processing, optimization, transaction management and database security": [
+    {
+      "id": "18",
+      "question": "Deadlocks are possible only when one of the transactions wants to obtain a(n) ____ lock on a data item.",
+      "options": [
+        "A. binary",
+        "B. exclusive",
+        "C. shared",
+        "D. complete"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "19",
+      "question": "If several concurrent transactions are executed over the same data set and the second transaction updates the database before the first transaction is finished, the ____ property is violated and the database is no longer consistent.",
+      "options": [
+        "A. atomicity",
+        "B. consistency",
+        "C. isolation",
+        "D. durability"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "20",
+      "question": "A DBMS uses a transaction ____ to keep track of all transactions that update the database",
+      "options": [
+        "A. log",
+        "B. table",
+        "C. block",
+        "D. statement"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "21",
+      "question": "The Oracle RDBMS uses the ____ statement to declare a new transaction start and its properties.",
+      "options": [
+        "A. BEGIN",
+        "B. SET TRANSACTION",
+        "C. BEGIN TRANSACTION",
+        "D. COMMIT"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "22",
+      "question": "When a program is abnormally terminated, the equivalent of a ____ command occurs.",
+      "options": [
+        "A. COMMIT",
+        "B. ROLLBACK",
+        "C. QUIT",
+        "D. EXIT"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "23",
+      "question": "When the recovery procedure uses ____, the database is immediately updated by transaction operations during the transaction's execution, even before the transaction reaches its commit point.",
+      "options": [
+        "A. write-through",
+        "B. deferred write",
+        "C. immediate write",
+        "D. unbuffered"
+      ],
+      "answer": ""
+    }
+  ]
+}
