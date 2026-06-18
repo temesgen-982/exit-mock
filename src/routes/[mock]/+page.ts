@@ -6,6 +6,8 @@ import uogMock from '$lib/data/uog-mock.json';
 import modelExam1 from '$lib/data/model-exam-1.json';
 import modelExam2 from '$lib/data/model-exam-2.json';
 import modelExamPhase1 from '$lib/data/model-exam-phase1.json';
+import haumock from '$lib/data/hau-mock.json';
+import haumock2 from '$lib/data/hau-mock2.json';
 import type { QuizData, MockMeta } from '$lib/types';
 import type { PageLoad } from './$types';
 
@@ -16,7 +18,9 @@ export function entries() {
 		{ mock: 'uog-mock' },
 		{ mock: 'model-exam-1' },
 		{ mock: 'model-exam-2' },
-		{ mock: 'model-exam-phase1' }
+		{ mock: 'model-exam-phase1' },
+		{ mock: 'hau-mock' },
+		{ mock: 'hau-mock2' }
 	];
 }
 
@@ -27,7 +31,9 @@ export const load: PageLoad = ({ params }) => {
 		'uog-mock': uogMock as QuizData,
 		'model-exam-1': modelExam1 as QuizData,
 		'model-exam-2': modelExam2 as QuizData,
-		'model-exam-phase1': modelExamPhase1 as QuizData
+		'model-exam-phase1': modelExamPhase1 as QuizData,
+		'hau-mock': haumock as QuizData,
+		'hau-mock2': haumock2 as QuizData
 	};
 
 	if (params.mock in builtIn) {
