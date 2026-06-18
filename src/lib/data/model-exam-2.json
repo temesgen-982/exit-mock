@@ -9,7 +9,7 @@
         "C. Incompatible file formats",
         "D. Data dependence"
       ],
-      "answer": ""
+      "answer": "A. Elimination of duplicate data"
     },
     {
       "id": "2",
@@ -20,7 +20,7 @@
         "C. Application Developer",
         "D. Database Analyzer"
       ],
-      "answer": ""
+      "answer": "B. Database administrator"
     },
     {
       "id": "3",
@@ -31,7 +31,7 @@
         "C. Application server",
         "D. Disk server"
       ],
-      "answer": ""
+      "answer": "C. Application server"
     }
   ],
   "Focus 2: Design conceptual, logical and physical database models.": [
@@ -44,7 +44,7 @@
         "C. External Level",
         "D. Internal level"
       ],
-      "answer": ""
+      "answer": "B. Conceptual Level"
     },
     {
       "id": "5",
@@ -55,7 +55,7 @@
         "C. relational model",
         "D. entity relationship model"
       ],
-      "answer": ""
+      "answer": "D. entity relationship model"
     },
     {
       "id": "6",
@@ -66,7 +66,7 @@
         "C. Data Description Language",
         "D. Data Association language"
       ],
-      "answer": ""
+      "answer": "B. Data Definition Language"
     },
     {
       "id": "7",
@@ -77,7 +77,7 @@
         "C. Procedural Data Definition Languages",
         "D. Non-procedural Data Definition Languages"
       ],
-      "answer": ""
+      "answer": "A. Procedural Data Manipulation Languages"
     },
     {
       "id": "8",
@@ -88,7 +88,7 @@
         "C. Collection of concepts for describing and manipulating data, relationships between data, and constraints on the data in an organization.",
         "D. A type of data model which is based on the concept of mathematical relations."
       ],
-      "answer": ""
+      "answer": "A. Collections of records, and relationships are represented by sets."
     },
     {
       "id": "9",
@@ -99,7 +99,7 @@
         "C. Conceptual design",
         "D. Logical design"
       ],
-      "answer": ""
+      "answer": "D. Logical design"
     },
     {
       "id": "10",
@@ -110,7 +110,7 @@
         "C. Data model mapping",
         "D. Logical design"
       ],
-      "answer": ""
+      "answer": "B. Physical design of database"
     },
     {
       "id": "11",
@@ -121,7 +121,7 @@
         "C. Functional requirement analysis",
         "D. Requirement analysis"
       ],
-      "answer": ""
+      "answer": "D. Requirement analysis"
     },
     {
       "id": "12",
@@ -132,7 +132,7 @@
         "C. High level structural schema",
         "D. High level detailed schema"
       ],
-      "answer": ""
+      "answer": "A. High level conceptual schema"
     }
   ],
   "Focus 3: Design ER models and map them into relational tables": [
@@ -145,7 +145,7 @@
         "C. Relation",
         "D. Tuple"
       ],
-      "answer": ""
+      "answer": "B. Domain"
     },
     {
       "id": "14",
@@ -156,7 +156,7 @@
         "C. Relation",
         "D. Tuple"
       ],
-      "answer": ""
+      "answer": "C. Relation"
     },
     {
       "id": "15",
@@ -167,7 +167,7 @@
         "C. Derived attributes",
         "D. Simple attributes"
       ],
-      "answer": ""
+      "answer": "A. Composite attributes"
     }
   ],
   "Focus 4: Understand database functional dependency and normalization": [
@@ -180,7 +180,7 @@
         "C. Inheritance",
         "D. Deployment"
       ],
-      "answer": ""
+      "answer": "A. Normalization"
     },
     {
       "id": "17",
@@ -191,7 +191,7 @@
         "C. Functional normalization",
         "D. Functional decomposition"
       ],
-      "answer": ""
+      "answer": "B. Functional dependency"
     }
   ],
   "Focus 5: Explain database query processing, optimization, transaction management and database security": [
@@ -204,7 +204,7 @@
         "C. shared",
         "D. complete"
       ],
-      "answer": ""
+      "answer": "B. exclusive"
     },
     {
       "id": "19",
@@ -215,7 +215,7 @@
         "C. isolation",
         "D. durability"
       ],
-      "answer": ""
+      "answer": "C. isolation"
     },
     {
       "id": "20",
@@ -226,7 +226,7 @@
         "C. block",
         "D. statement"
       ],
-      "answer": ""
+      "answer": "A. log"
     },
     {
       "id": "21",
@@ -237,7 +237,7 @@
         "C. BEGIN TRANSACTION",
         "D. COMMIT"
       ],
-      "answer": ""
+      "answer": "B. SET TRANSACTION"
     },
     {
       "id": "22",
@@ -248,7 +248,7 @@
         "C. QUIT",
         "D. EXIT"
       ],
-      "answer": ""
+      "answer": "B. ROLLBACK"
     },
     {
       "id": "23",
@@ -259,7 +259,7 @@
         "C. immediate write",
         "D. unbuffered"
       ],
-      "answer": ""
+      "answer": "C. immediate write"
     }
   ]
 }

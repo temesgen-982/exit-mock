@@ -638,7 +638,7 @@
         "C. <Target>",
         "D. all      Answer: B"
       ],
-      "answer": ""
+      "answer": "B. <a>"
     },
     {
       "id": "58",
@@ -818,7 +818,7 @@
         "A. and B",
         "D. None of the above"
       ],
-      "answer": ""
+      "answer": "A. and B"
     },
     {
       "id": "74",
@@ -840,7 +840,7 @@
         "C. Dataset",
         "D. ExecuteNonQuery()     Answer :  D"
       ],
-      "answer": ""
+      "answer": "D. ExecuteNonQuery()"
     }
   ],
   "IV. Fundamental of Database Questions": [
@@ -974,7 +974,7 @@
       "options": [
         "A. Both the relations have different numbers of attributes and the data types of their corresponding attributes must be different",
         "B. Both the relations have different numbers of attributes and the data types of their corresponding attributes must be the same",
-        "C. Both the relations have the same number of attributes and the data types of their corresponding attributes must be different",
+        "D. Both the relations have the same number of attributes and the data types of their corresponding attributes must be different",
         "D. Both the relations have the same number of attributes and the data types of their corresponding attributes must be different"
       ],
       "answer": "D. Both the relations have the same number of attributes and the data types of their corresponding attributes must be different"
@@ -1012,7 +1012,7 @@
         "C. Network card driver",
         "D. All"
       ],
-      "answer": ""
+      "answer": "A. Network interface card"
     },
     {
       "id": "91",
@@ -1023,7 +1023,7 @@
         "C. Bridge",
         "D. None"
       ],
-      "answer": ""
+      "answer": "A. Protocol"
     },
     {
       "id": "92",
@@ -1034,7 +1034,7 @@
         "C. WA",
         "D. All"
       ],
-      "answer": ""
+      "answer": "D. All"
     },
     {
       "id": "93",
@@ -1045,7 +1045,7 @@
         "C. Doorbell",
         "D. Radio broadcast"
       ],
-      "answer": ""
+      "answer": "A. Walkie-talkie"
     },
     {
       "id": "94",
@@ -1056,7 +1056,7 @@
         "C. Twisted Pair",
         "D. All"
       ],
-      "answer": ""
+      "answer": "A. Fiber optic"
     },
     {
       "id": "95",
@@ -1078,7 +1078,7 @@
         "C. Network layer",
         "D. Data link layer"
       ],
-      "answer": ""
+      "answer": "A. Application layer"
     },
     {
       "id": "97",
@@ -1100,7 +1100,7 @@
         "C. Host address",
         "D. All"
       ],
-      "answer": ""
+      "answer": "A. Broadcast address"
     }
   ],
   "VI. Multimedia System": [
@@ -1114,7 +1114,7 @@
         "D. Sending packets to a web server to improve server performance.",
         "E. None"
       ],
-      "answer": ""
+      "answer": "B. Delaying playing multimedia elements until enough data has been buffered so the element can play uninterrupted."
     },
     {
       "id": "100",
@@ -1127,7 +1127,7 @@
         "D. The process of coding in another dimension",
         "E. All"
       ],
-      "answer": ""
+      "answer": "D. simulation of a real or imagined environment using computers"
     },
     {
       "id": "101",
@@ -1139,7 +1139,7 @@
         "D. All",
         "E. None"
       ],
-      "answer": ""
+      "answer": "E. None"
     },
     {
       "id": "102",
@@ -1151,7 +1151,7 @@
         "D. All",
         "E. None"
       ],
-      "answer": ""
+      "answer": "E. None"
     },
     {
       "id": "103",
@@ -1163,7 +1163,7 @@
         "D. A&B",
         "E. None"
       ],
-      "answer": ""
+      "answer": "E. None"
     },
     {
       "id": "104",
@@ -1175,7 +1175,7 @@
         "D. B&",
         "C. E.None"
       ],
-      "answer": ""
+      "answer": "A. Icon or score model"
     },
     {
       "id": "105",
@@ -1187,7 +1187,7 @@
         "D. All",
         "E. None"
       ],
-      "answer": ""
+      "answer": "A. Programing tools are high level but not authoring tools"
     },
     {
       "id": "106",
@@ -1199,7 +1199,7 @@
         "D. All",
         "E. A&C"
       ],
-      "answer": ""
+      "answer": "C. Stable content feature"
     },
     {
       "id": "107",
@@ -1211,7 +1211,7 @@
         "D. All",
         "E. None"
       ],
-      "answer": ""
+      "answer": "B. Slide based authoring system"
     },
     {
       "id": "108",
@@ -1223,7 +1223,7 @@
         "D. All except C",
         "E. None"
       ],
-      "answer": ""
+      "answer": "B. Slide based authoring system"
     },
     {
       "id": "113",
@@ -1236,7 +1236,7 @@
         "E. All",
         "F. None"
       ],
-      "answer": ""
+      "answer": "D. Hypertext is linear, whereas multimedia is both linear and non-linear."
     },
     {
       "id": "116",
@@ -1248,7 +1248,7 @@
         "D. All",
         "E. None"
       ],
-      "answer": ""
+      "answer": "C. Uses up to 65536 numbers of codes."
     },
     {
       "id": "117",
@@ -1260,7 +1260,7 @@
         "D. All",
         "E. All except ‘B’"
       ],
-      "answer": ""
+      "answer": "D. All"
     }
   ],
   "IX. Automation of Library System": [
@@ -1398,7 +1398,7 @@
         "D. LC",
         "C. & COLON"
       ],
-      "answer": ""
+      "answer": "B. LCC&DDC"
     },
     {
       "id": "130",
@@ -1409,7 +1409,7 @@
         "C. citation indexes",
         "D. All of the above"
       ],
-      "answer": ""
+      "answer": "D. All of the above"
     },
     {
       "id": "131",
@@ -1420,7 +1420,7 @@
         "C. Z",
         "D. T"
       ],
-      "answer": ""
+      "answer": "C. Z"
     },
     {
       "id": "132",
@@ -1431,7 +1431,7 @@
         "C. 7.5X12.5",
         "D. 7X12.5"
       ],
-      "answer": ""
+      "answer": "C. 7.5X12.5"
     },
     {
       "id": "133",
@@ -1442,7 +1442,7 @@
         "C. Library of Congress and the",
         "D. Canadian Library Association."
       ],
-      "answer": ""
+      "answer": "B. Australian Committee on Cataloguing"
     },
     {
       "id": "134",
@@ -1453,7 +1453,7 @@
         "C. Library have to follow cataloging rules/codes",
         "D. Usage is global, as user can access it from anywhere, at any time"
       ],
-      "answer": ""
+      "answer": "C. Library have to follow cataloging rules/codes"
     },
     {
       "id": "135",
@@ -1464,7 +1464,7 @@
         "C. Added entry is made for all authors",
         "D. All of the above"
       ],
-      "answer": ""
+      "answer": "B. main entry is to be made under title."
     },
     {
       "id": "136",
@@ -1475,7 +1475,7 @@
         "C. Tracings",
         "D. Series"
       ],
-      "answer": ""
+      "answer": "A. Physical description"
     },
     {
       "id": "137",
@@ -1486,7 +1486,7 @@
         "C. Finding",
         "D. Form"
       ],
-      "answer": ""
+      "answer": "C. Finding"
     },
     {
       "id": "138",
@@ -1497,7 +1497,7 @@
         "C. Pseudonymous work",
         "D. Fiction work"
       ],
-      "answer": ""
+      "answer": "B. Anonymous work"
     },
     {
       "id": "139",
@@ -1509,7 +1509,7 @@
         "D. IS",
         "O. 2709"
       ],
-      "answer": ""
+      "answer": "B. RDA"
     },
     {
       "id": "140",
@@ -1520,7 +1520,7 @@
         "C. Tag",
         "D. Indicator"
       ],
-      "answer": ""
+      "answer": "C. Tag"
     },
     {
       "id": "141",
@@ -1531,7 +1531,7 @@
         "A. framework for exchange catalogue records",
         "D. All of the above"
       ],
-      "answer": ""
+      "answer": "A. Is cataloging standard"
     },
     {
       "id": "142",

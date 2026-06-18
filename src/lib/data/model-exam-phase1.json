@@ -9,7 +9,7 @@
         "C. While",
         "D. Do while"
       ],
-      "answer": ""
+      "answer": "A. Sentinel"
     },
     {
       "id": "2",
@@ -20,7 +20,7 @@
         "C. data_type array_name [array_size];",
         "D. data_type [array_size] array_name;"
       ],
-      "answer": ""
+      "answer": "C. data_type array_name [array_size];"
     },
     {
       "id": "3",
@@ -31,7 +31,7 @@
         "C. Assembly Language Program",
         "D. None of the Above"
       ],
-      "answer": ""
+      "answer": "A. Machine Language Program"
     },
     {
       "id": "4",
@@ -42,7 +42,7 @@
         "C. Abstraction is achieved by Process Abstraction",
         "D. All the above"
       ],
-      "answer": ""
+      "answer": "D. All the above"
     },
     {
       "id": "5",
@@ -54,7 +54,7 @@
         "D. Abstraction only focuses on the object and not how it works",
         "E. Abstraction breaks the complexity of the data"
       ],
-      "answer": ""
+      "answer": "C. Abstraction solves the problem at the implementation level"
     },
     {
       "id": "6",
@@ -65,7 +65,7 @@
         "C. Encapsulation - binding data in a single unit",
         "D. Abstraction – can multiple inheritances"
       ],
-      "answer": ""
+      "answer": "D. Abstraction – can multiple inheritances"
     },
     {
       "id": "7",
@@ -76,7 +76,7 @@
         "C. Multiplexer",
         "D. Full duplex file"
       ],
-      "answer": ""
+      "answer": "C. Multiplexer"
     },
     {
       "id": "8",
@@ -87,7 +87,7 @@
         "C. Data link",
         "D. Session"
       ],
-      "answer": ""
+      "answer": "B. Application"
     },
     {
       "id": "9",
@@ -98,7 +98,7 @@
         "C. SMTP",
         "D. Rpe"
       ],
-      "answer": ""
+      "answer": "A. FTP"
     },
     {
       "id": "10",
@@ -109,7 +109,7 @@
         "C. Network",
         "D. A and B"
       ],
-      "answer": ""
+      "answer": "D. A and B"
     },
     {
       "id": "11",
@@ -120,7 +120,7 @@
         "C. A model that represents the behavior of a system.",
         "D. A diagram that shows the relationships between different components of a"
       ],
-      "answer": ""
+      "answer": "A. A working model of a system that demonstrates its functionality."
     },
     {
       "id": "12",
@@ -131,7 +131,7 @@
         "C. Testing performed by external testers to ensure that the system is secure and",
         "D. Testing performed by the system administrators to ensure that the system is"
       ],
-      "answer": ""
+      "answer": "B. Testing performed by the users to ensure that the system meets their needs and expectations"
     },
     {
       "id": "13",
@@ -142,7 +142,7 @@
         "C. To determine whether a proposed system is achievable and viable",
         "D. To maintain a system"
       ],
-      "answer": ""
+      "answer": "C. To determine whether a proposed system is achievable and viable"
     },
     {
       "id": "14",
@@ -153,7 +153,7 @@
         "C. To create a new class from an existing class",
         "D. To encapsulate data and behaviour within an object"
       ],
-      "answer": ""
+      "answer": "C. To create a new class from an existing class"
     },
     {
       "id": "15",
@@ -164,7 +164,7 @@
         "C. Reduced development time",
         "D. Improved software quality and maintainability"
       ],
-      "answer": ""
+      "answer": "D. Improved software quality and maintainability"
     },
     {
       "id": "16",
@@ -176,7 +176,7 @@
         "D. All",
         "E. None"
       ],
-      "answer": ""
+      "answer": "B. Document frequency"
     },
     {
       "id": "17",
@@ -189,7 +189,7 @@
         "E. A and D",
         "F. B and D"
       ],
-      "answer": ""
+      "answer": "F. B and D"
     },
     {
       "id": "18",
@@ -200,7 +200,7 @@
         "C. The term is binary weight term",
         "D. The document is non binary weight"
       ],
-      "answer": ""
+      "answer": "B. The term does not exist in the document"
     },
     {
       "id": "19",
@@ -211,7 +211,7 @@
         "C. 0.8",
         "D. 0.7"
       ],
-      "answer": ""
+      "answer": "A. 0.98"
     },
     {
       "id": "20",
@@ -223,7 +223,7 @@
         "D. All",
         "E. None"
       ],
-      "answer": ""
+      "answer": "D. All"
     },
     {
       "id": "21",
@@ -234,7 +234,7 @@
         "C. Customer ID → Customer email address",
         "D. Customer ID → Customer name"
       ],
-      "answer": ""
+      "answer": "C. Customer ID → Customer email address"
     },
     {
       "id": "22",
@@ -245,7 +245,7 @@
         "C. Customer ID → Address",
         "D. Phone Number → Customer ID"
       ],
-      "answer": ""
+      "answer": "B. Phone Number → Address"
     },
     {
       "id": "23",
@@ -256,7 +256,7 @@
         "C. Convert the table to fourth normal form (4NF) by creating separate tables for",
         "D. Leave the table in 1NF and address the redundancy and inconsistency issues"
       ],
-      "answer": ""
+      "answer": "B. Convert the table to third normal form (3NF) by removing transitive dependencies."
     },
     {
       "id": "24",
@@ -267,7 +267,7 @@
         "C. To ensure that multiple transactions can execute simultaneously without",
         "D. To ensure that transactions can access only the data they are authorized to"
       ],
-      "answer": ""
+      "answer": "C. To ensure that multiple transactions can execute simultaneously without interfering with each other"
     },
     {
       "id": "25",
@@ -277,7 +277,7 @@
         "C. Algorithm",
         "D. Test case"
       ],
-      "answer": ""
+      "answer": "C. Algorithm"
     },
     {
       "id": "26",
@@ -288,7 +288,7 @@
         "C. algorithm->flow chart->programming language",
         "D. algorithm->programming language->flow chart"
       ],
-      "answer": ""
+      "answer": "C. algorithm->flow chart->programming language"
     },
     {
       "id": "27",
@@ -299,7 +299,7 @@
         "C. Clarifying requirements",
         "D. Developing program logic"
       ],
-      "answer": ""
+      "answer": "A. Understanding user's needs"
     },
     {
       "id": "28",
@@ -310,7 +310,7 @@
         "C. All of them let you define new pointers",
         "D. All of them let you define new structures"
       ],
-      "answer": ""
+      "answer": "B. All of them let you define new datatype values"
     },
     {
       "id": "30",
@@ -321,7 +321,7 @@
         "C. Conditional statement",
         "D. Goto"
       ],
-      "answer": ""
+      "answer": "D. Goto"
     },
     {
       "id": "31",
@@ -332,7 +332,7 @@
         "C. 100 bytes",
         "D. none of the above"
       ],
-      "answer": ""
+      "answer": "B. sum of memory space required by the all-member variable of the structure"
     },
     {
       "id": "32",
@@ -343,7 +343,7 @@
         "C. Transport",
         "D. Presentation"
       ],
-      "answer": ""
+      "answer": "B. Data link"
     },
     {
       "id": "33",
@@ -354,7 +354,7 @@
         "C. Bus",
         "D. Ring"
       ],
-      "answer": ""
+      "answer": "A. Mesh"
     },
     {
       "id": "34",
@@ -365,7 +365,7 @@
         "C. Browser",
         "D. CERN"
       ],
-      "answer": ""
+      "answer": "B. Newsgroups"
     },
     {
       "id": "35",
@@ -376,7 +376,7 @@
         "B. Protocol",
         "D. Internet work processor"
       ],
-      "answer": ""
+      "answer": "A. TCP/IP"
     },
     {
       "id": "36",
@@ -387,7 +387,7 @@
         "C. If the central hub fails, the whole network fails to operate.",
         "D. Both of A and B"
       ],
-      "answer": ""
+      "answer": "D. Both of A and B"
     },
     {
       "id": "37",
@@ -398,7 +398,7 @@
         "C. Transport Layer",
         "D. Internetwork layer"
       ],
-      "answer": ""
+      "answer": "B. Session Layer"
     },
     {
       "id": "38",
@@ -409,7 +409,7 @@
         "C. Authorization",
         "D. Non-repudiation"
       ],
-      "answer": ""
+      "answer": "A. Encryption"
     },
     {
       "id": "39",
@@ -420,7 +420,7 @@
         "C. 20 20 30",
         "D. 20 30 20"
       ],
-      "answer": ""
+      "answer": "A. 30 20 20"
     },
     {
       "id": "40",
@@ -431,7 +431,7 @@
         "C. The code is completely error",
         "D. The code has no any error, the output is One Two"
       ],
-      "answer": ""
+      "answer": "A. The code has Duplicate method error, no output"
     },
     {
       "id": "41",
@@ -442,7 +442,7 @@
         "C. Dynamic binding is occurs during runtime and resolved based on the type of",
         "D. None of the above"
       ],
-      "answer": ""
+      "answer": "D. None of the above"
     },
     {
       "id": "42",
@@ -453,7 +453,7 @@
         "C. INSERT INTO products (product_name, price, quantity) VALUES ('New Product',",
         "D. UPDATE products SET price = 45.00 WHERE product_id = 123;"
       ],
-      "answer": ""
+      "answer": "B. SELECT product_name, price FROM products WHERE quantity > 0 AND price < 50;"
     },
     {
       "id": "43",
@@ -464,7 +464,7 @@
         "C. It is the process of creating tables, columns, and constraints in a database.",
         "D. It is the process of ensuring that a set of related database operations are"
       ],
-      "answer": ""
+      "answer": "B. It is the process of transforming a high-level query into a sequence of low-level operations that can be executed by the database system."
     },
     {
       "id": "44",
@@ -475,7 +475,7 @@
         "C. It is the process of creating tables, columns, and constraints in a database.",
         "D. It is the process of ensuring that the retrieval of the list of products that are"
       ],
-      "answer": ""
+      "answer": "D. It is the process of ensuring that the retrieval of the list of products that are currently in stock and have a price lower than $50 is executed as a single unit of work."
     },
     {
       "id": "45",
@@ -486,7 +486,7 @@
         "C. void findArea();",
         "D. public void findArea();"
       ],
-      "answer": ""
+      "answer": "A. abstract public void findArea();"
     },
     {
       "id": "46",
@@ -497,7 +497,7 @@
         "C. Setter Method and Getter method",
         "D. All of the above"
       ],
-      "answer": ""
+      "answer": "C. Setter Method and Getter method"
     },
     {
       "id": "47",
@@ -508,7 +508,7 @@
         "C. If each variable is declared as protected in the class",
         "D. None of the above"
       ],
-      "answer": ""
+      "answer": "A. If each variable is declared as private in the class"
     },
     {
       "id": "48",
@@ -519,7 +519,7 @@
         "C. Compile-time Polymorphism",
         "D. All of the above"
       ],
-      "answer": ""
+      "answer": "A. Dynamic Polymorphism"
     },
     {
       "id": "49",
@@ -530,7 +530,7 @@
         "C. Healthy Patient, Hospital, keyboard entry of symptoms, patient’s answers",
         "D. Hospital, stuff, treatments, patient’s answers"
       ],
-      "answer": ""
+      "answer": "C. Healthy Patient, Hospital, keyboard entry of symptoms, patient's answers"
     },
     {
       "id": "50",
@@ -541,7 +541,7 @@
         "C. Validity of an algorithm",
         "D. Satisfiability of an algorithm"
       ],
-      "answer": ""
+      "answer": "B. Completeness of an algorithm"
     },
     {
       "id": "51",
@@ -554,7 +554,7 @@
         "E. both (A) and (B)",
         "F. All of the above"
       ],
-      "answer": ""
+      "answer": "F. All of the above"
     },
     {
       "id": "52",
@@ -565,7 +565,7 @@
         "C. Learn from experience",
         "D. All"
       ],
-      "answer": ""
+      "answer": "C. Learn from experience"
     },
     {
       "id": "53",
@@ -576,7 +576,7 @@
         "C. Strong AI",
         "D. Narrow AI"
       ],
-      "answer": ""
+      "answer": "D. Narrow AI"
     },
     {
       "id": "54",
@@ -589,7 +589,7 @@
         "E. All",
         "F. None"
       ],
-      "answer": ""
+      "answer": "A. Term Frequency"
     },
     {
       "id": "55",
@@ -602,7 +602,7 @@
         "E. All",
         "F. None"
       ],
-      "answer": ""
+      "answer": "E. All"
     },
     {
       "id": "56",
@@ -614,7 +614,7 @@
         "D. All",
         "E. None"
       ],
-      "answer": ""
+      "answer": "D. All"
     },
     {
       "id": "57",
@@ -625,7 +625,7 @@
         "C. 11.21",
         "D. 17.21"
       ],
-      "answer": ""
+      "answer": "B. 11.05"
     },
     {
       "id": "58",
@@ -636,7 +636,7 @@
         "C. Abstraction",
         "D. Polymorphism"
       ],
-      "answer": ""
+      "answer": "A. Inheritance"
     },
     {
       "id": "59",
@@ -647,7 +647,7 @@
         "C. Slow development times",
         "D. Inefficient code"
       ],
-      "answer": ""
+      "answer": "B. Poor code organization and maintainability"
     },
     {
       "id": "60",
@@ -658,7 +658,7 @@
         "C. Spiral",
         "D. Iterative"
       ],
-      "answer": ""
+      "answer": "B. Agile"
     },
     {
       "id": "61",
@@ -669,7 +669,7 @@
         "C. V-shaped",
         "D. RAD"
       ],
-      "answer": ""
+      "answer": "C. V-shaped"
     },
     {
       "id": "62",
@@ -680,7 +680,7 @@
         "C. Establishing project timelines and budgets",
         "D. All of the above"
       ],
-      "answer": ""
+      "answer": "D. All of the above"
     },
     {
       "id": "63",
@@ -691,7 +691,7 @@
         "C. Reinforcement Learning",
         "D. Semi-supervised Learning"
       ],
-      "answer": ""
+      "answer": "C. Reinforcement Learning"
     },
     {
       "id": "64",
@@ -704,7 +704,7 @@
         "E. Both (A) and (B)",
         "F. Both (C) and (D)"
       ],
-      "answer": ""
+      "answer": "F. Both (C) and (D)"
     },
     {
       "id": "65",
@@ -715,7 +715,7 @@
         "C. Opposite to each other",
         "D. Equal and opposite"
       ],
-      "answer": ""
+      "answer": "D. Equal and opposite"
     },
     {
       "id": "66",
@@ -727,7 +727,7 @@
         "D. All of the above",
         "E. Both A and B"
       ],
-      "answer": ""
+      "answer": "B. Semantics"
     },
     {
       "id": "67",
@@ -739,7 +739,7 @@
         "D. All of the above",
         "E. None of the above"
       ],
-      "answer": ""
+      "answer": "E. None of the above"
     }
   ]
 }

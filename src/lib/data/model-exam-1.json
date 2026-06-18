@@ -9,7 +9,7 @@
         "C. Graphics",
         "D. Still images"
       ],
-      "answer": ""
+      "answer": "B. Animation"
     },
     {
       "id": "2",
@@ -20,7 +20,7 @@
         "C. Human computer interaction",
         "D. Geographic information systems"
       ],
-      "answer": ""
+      "answer": "A. Multimedia"
     },
     {
       "id": "3",
@@ -31,7 +31,7 @@
         "C. Security breach",
         "D. Access control"
       ],
-      "answer": ""
+      "answer": "C. Security breach"
     },
     {
       "id": "5",
@@ -42,7 +42,7 @@
         "C. Extranet",
         "D. All"
       ],
-      "answer": ""
+      "answer": "B. Intranet"
     },
     {
       "id": "6",
@@ -53,7 +53,7 @@
         "C. Create XY-company database;",
         "D. Create database XY-company"
       ],
-      "answer": ""
+      "answer": "D. Create database XY-company"
     },
     {
       "id": "7",
@@ -64,7 +64,7 @@
         "C. None of the above",
         "D. Training and testing respectively"
       ],
-      "answer": ""
+      "answer": "D. Training and testing respectively"
     },
     {
       "id": "8",
@@ -75,7 +75,7 @@
         "C. Inheritance",
         "D. Equivalence"
       ],
-      "answer": ""
+      "answer": "C. Inheritance"
     },
     {
       "id": "9",
@@ -86,7 +86,7 @@
         "C. In-house alliance",
         "D. None"
       ],
-      "answer": ""
+      "answer": "A. Strategic alliance"
     },
     {
       "id": "10",
@@ -97,7 +97,7 @@
         "C. Fertility",
         "D. Quality"
       ],
-      "answer": ""
+      "answer": "B. Productivity"
     },
     {
       "id": "11",
@@ -108,7 +108,7 @@
         "C. Queries and documents are represented as weighted vectors",
         "D. It maps documents and queries into term-document vector space"
       ],
-      "answer": ""
+      "answer": "B. It uses 0 or 1 for the absence or presence of the document respectively"
     },
     {
       "id": "12",
@@ -119,7 +119,7 @@
         "C. Protected",
         "D. Private"
       ],
-      "answer": ""
+      "answer": "D. Private"
     },
     {
       "id": "13",
@@ -130,7 +130,7 @@
         "C. Storming",
         "D. Forming"
       ],
-      "answer": ""
+      "answer": "C. Storming"
     },
     {
       "id": "14",
@@ -141,7 +141,7 @@
         "C. Completeness",
         "D. )All"
       ],
-      "answer": ""
+      "answer": "D. )All"
     },
     {
       "id": "15",
@@ -152,7 +152,7 @@
         "C. document.ElementById()",
         "D. document.getElementByld"
       ],
-      "answer": ""
+      "answer": "A. document.getElementById()"
     },
     {
       "id": "16",
@@ -163,7 +163,7 @@
         "C. Quality assurance",
         "D. Quality control"
       ],
-      "answer": ""
+      "answer": "C. Quality assurance"
     },
     {
       "id": "17",
@@ -174,7 +174,7 @@
         "C. Vectors",
         "D. Bag of words"
       ],
-      "answer": ""
+      "answer": "D. Bag of words"
     },
     {
       "id": "18",
@@ -185,7 +185,7 @@
         "C. Data recovery",
         "D. Data restoration"
       ],
-      "answer": ""
+      "answer": "A. Data compression"
     },
     {
       "id": "19",
@@ -196,7 +196,7 @@
         "C. bool",
         "D. logical"
       ],
-      "answer": ""
+      "answer": "C. bool"
     },
     {
       "id": "20",
@@ -207,7 +207,7 @@
         "C. It is all about discovery of the solution for the system rather than invention",
         "D. It is all about how to solve the problem of the system rather than what to be solved"
       ],
-      "answer": ""
+      "answer": "D. It is all about how to solve the problem of the system rather than what to be solved"
     },
     {
       "id": "21",
@@ -218,7 +218,7 @@
         "C. Syllogism",
         "D. Modus tollens"
       ],
-      "answer": ""
+      "answer": "A. Modus Pones"
     },
     {
       "id": "22",
@@ -229,7 +229,7 @@
         "C. Transaction processing systems",
         "D. Management Support System"
       ],
-      "answer": ""
+      "answer": "C. Transaction processing systems"
     },
     {
       "id": "23",
@@ -240,7 +240,7 @@
         "C. General Al",
         "D. Deep Al"
       ],
-      "answer": ""
+      "answer": "A. Weak Al"
     },
     {
       "id": "24",
@@ -251,7 +251,7 @@
         "C. Uncompressed",
         "D. None"
       ],
-      "answer": ""
+      "answer": "A. Lossy compression"
     },
     {
       "id": "25",
@@ -262,7 +262,7 @@
         "C. Via reduce the number of employee",
         "D. A and B are answer"
       ],
-      "answer": ""
+      "answer": "D. A and B are answer"
     },
     {
       "id": "26",
@@ -273,7 +273,7 @@
         "C. Data leakage from remote access or lost storage devices",
         "D. A and C are answer."
       ],
-      "answer": ""
+      "answer": "D. A and C are answer."
     },
     {
       "id": "27",
@@ -284,7 +284,7 @@
         "C. Inference engine",
         "D. Data"
       ],
-      "answer": ""
+      "answer": "D. Data"
     },
     {
       "id": "28",
@@ -295,7 +295,7 @@
         "C. Do while loops start tests the loop condition at the top of the loop, but while loop checks its condition at the bottom of the loop",
         "D. A and B are answer."
       ],
-      "answer": ""
+      "answer": "D. A and B are answer."
     },
     {
       "id": "29",
@@ -306,7 +306,7 @@
         "C. Mitigation",
         "D. Authorization"
       ],
-      "answer": ""
+      "answer": "B. Identification"
     },
     {
       "id": "30",
@@ -317,7 +317,7 @@
         "C. Job redesign",
         "D. None"
       ],
-      "answer": ""
+      "answer": "B. Job enlargement"
     },
     {
       "id": "31",
@@ -328,7 +328,7 @@
         "C. Private key encryption",
         "D. A and C are answer"
       ],
-      "answer": ""
+      "answer": "D. A and C are answer"
     },
     {
       "id": "32",
@@ -339,7 +339,7 @@
         "C. Network convergence",
         "D. Industry convergence"
       ],
-      "answer": ""
+      "answer": "C. Network convergence"
     },
     {
       "id": "33",
@@ -350,7 +350,7 @@
         "C. 25",
         "D. 50"
       ],
-      "answer": ""
+      "answer": "A. 5"
     },
     {
       "id": "34",
@@ -361,7 +361,7 @@
         "C. 255.255.255.190",
         "D. 255.255.255.248"
       ],
-      "answer": ""
+      "answer": "B. 255.255.255.240"
     },
     {
       "id": "35",
@@ -372,7 +372,7 @@
         "C. The <script> tag can either be placed inside the <head> or the <body> tag according to the requirement.",
         "D. The const keyword can either be placed inside the <head> or the <body> tag according to the requirement."
       ],
-      "answer": ""
+      "answer": "C. The <script> tag can either be placed inside the <head> or the <body> tag according to the requirement."
     },
     {
       "id": "36",
@@ -383,7 +383,7 @@
         "C. Domain integrity",
         "D. Referential integrity"
       ],
-      "answer": ""
+      "answer": "B. Required data"
     },
     {
       "id": "37",
@@ -394,7 +394,7 @@
         "C. More effective and efficient attack technique and tools are being developed.",
         "D. All the above."
       ],
-      "answer": ""
+      "answer": "D. All the above."
     },
     {
       "id": "38",
@@ -405,7 +405,7 @@
         "C. Subnetting",
         "D. subnet mask"
       ],
-      "answer": ""
+      "answer": "C. Subnetting"
     },
     {
       "id": "39",
@@ -416,7 +416,7 @@
         "C. 30 bits identify the network, 5 bits identify the host.",
         "D. 5 bits identify the network, 27 bits identify the host."
       ],
-      "answer": ""
+      "answer": "A. 27 bits identify the network, 5 bits identify the host."
     },
     {
       "id": "40",
@@ -429,7 +429,7 @@
         "C. har id: name[15];",
         "D. None of the above"
       ],
-      "answer": ""
+      "answer": "A. struct struct-name"
     },
     {
       "id": "41",
@@ -440,7 +440,7 @@
         "C. Create tables Employee (ID int, First-Name varchar (25), Last-Name varchar (25), Sex char (5));",
         "D. Create table Employee (ID int, First-Name varchar (25), Last-Name varchar (25), Sex char (5));"
       ],
-      "answer": ""
+      "answer": "D. Create table Employee (ID int, First-Name varchar (25), Last-Name varchar (25), Sex char (5));"
     },
     {
       "id": "42",
@@ -451,7 +451,7 @@
         "C. When a subclass redefines a superclass method by using the same signature, the subclass is said to overload that superclass method.",
         "D. None of the above"
       ],
-      "answer": ""
+      "answer": "D. None of the above"
     },
     {
       "id": "43",
@@ -462,7 +462,7 @@
         "C. replace()",
         "D. replaceFirst()"
       ],
-      "answer": ""
+      "answer": "C. replace()"
     },
     {
       "id": "44",
@@ -473,7 +473,7 @@
         "C. 55",
         "D. 60"
       ],
-      "answer": ""
+      "answer": "A. 62"
     },
     {
       "id": "45",
@@ -484,7 +484,7 @@
         "C. User interface",
         "D. All of the above"
       ],
-      "answer": ""
+      "answer": "D. All of the above"
     },
     {
       "id": "46",
@@ -495,7 +495,7 @@
         "C. prediction Use a combination of models to decrease the accuracy of model.",
         "D. A and B are answer."
       ],
-      "answer": ""
+      "answer": "D. A and B are answer."
     },
     {
       "id": "47",
@@ -506,7 +506,7 @@
         "C. Stakeholder",
         "D. All"
       ],
-      "answer": ""
+      "answer": "B. Agent"
     },
     {
       "id": "48",
@@ -517,7 +517,7 @@
         "C. To unhurried time to market with product.",
         "D. A and C are answer."
       ],
-      "answer": ""
+      "answer": "B. To increase customer gratification or retention."
     },
     {
       "id": "49",
@@ -528,7 +528,7 @@
         "C. Huffman",
         "D. None"
       ],
-      "answer": ""
+      "answer": "A. Run-length Encoding"
     },
     {
       "id": "50",
@@ -539,7 +539,7 @@
         "C. Uninformed search",
         "D. Both Informed and uninformed search"
       ],
-      "answer": ""
+      "answer": "B. Informed search"
     },
     {
       "id": "51",
@@ -550,7 +550,7 @@
         "C. Job enlargement",
         "D. None"
       ],
-      "answer": ""
+      "answer": "B. Job redesign"
     },
     {
       "id": "52",
@@ -561,7 +561,7 @@
         "C. Systems that think rationally",
         "D. All of the above"
       ],
-      "answer": ""
+      "answer": "D. All of the above"
     },
     {
       "id": "53",
@@ -572,7 +572,7 @@
         "C. Organizational risk",
         "D. Technical risks"
       ],
-      "answer": ""
+      "answer": "D. Technical risks"
     },
     {
       "id": "54",
@@ -583,7 +583,7 @@
         "C. sum = 5;",
         "D. None of the above"
       ],
-      "answer": ""
+      "answer": "A. sum = 0;"
     },
     {
       "id": "55",
@@ -594,7 +594,7 @@
         "C. DELETE Employee;",
         "D. TRUNCATE table Employee"
       ],
-      "answer": ""
+      "answer": "D. TRUNCATE table Employee"
     },
     {
       "id": "56",
@@ -605,7 +605,7 @@
         "C. Dynamic",
         "D. Cognitive"
       ],
-      "answer": ""
+      "answer": "A. Situational"
     },
     {
       "id": "57",
@@ -616,7 +616,7 @@
         "C. Threshold moving",
         "D. Under sampling"
       ],
-      "answer": ""
+      "answer": "B. Over sampling,"
     },
     {
       "id": "58",
@@ -627,7 +627,7 @@
         "C. SEARCH all from Employee;",
         "D. RETRIEVE from Employee;"
       ],
-      "answer": ""
+      "answer": "A. SELECT from Employee;"
     },
     {
       "id": "59",
@@ -638,7 +638,7 @@
         "C. Increasing digitalization of content",
         "D. Shift towards IP-based networks"
       ],
-      "answer": ""
+      "answer": "B. Increasing agricultural industries"
     },
     {
       "id": "60",
@@ -649,7 +649,7 @@
         "C. Knowledge application",
         "D. Knowledge storage"
       ],
-      "answer": ""
+      "answer": "B. Knowledge engineering"
     },
     {
       "id": "61",
@@ -660,7 +660,7 @@
         "C. Public",
         "D. Extended"
       ],
-      "answer": ""
+      "answer": "B. Protected"
     },
     {
       "id": "62",
@@ -671,7 +671,7 @@
         "C. Linking",
         "D. Coupling"
       ],
-      "answer": ""
+      "answer": "A. Cohesion"
     },
     {
       "id": "63",
@@ -682,7 +682,7 @@
         "C. Interactive multimedia",
         "D. Traditional multimedia"
       ],
-      "answer": ""
+      "answer": "C. Interactive multimedia"
     },
     {
       "id": "64",
@@ -693,7 +693,7 @@
         "C. ios::out",
         "D. ios::in."
       ],
-      "answer": ""
+      "answer": "C. ios::out"
     },
     {
       "id": "65",
@@ -704,7 +704,7 @@
         "C. Normalization",
         "D. Outlier detection"
       ],
-      "answer": ""
+      "answer": "D. Outlier detection"
     },
     {
       "id": "66",
@@ -715,7 +715,7 @@
         "C. double result = pow( 2.5, 3);",
         "D. None of the above"
       ],
-      "answer": ""
+      "answer": "B. double result = Math.pow( 2.5, 3);"
     },
     {
       "id": "67",
@@ -726,7 +726,7 @@
         "C. 6",
         "D. 5"
       ],
-      "answer": ""
+      "answer": "D. 5"
     },
     {
       "id": "68",
@@ -737,7 +737,7 @@
         "C. Organizational commitment",
         "D. None"
       ],
-      "answer": ""
+      "answer": "C. Organizational commitment"
     },
     {
       "id": "69",
@@ -748,7 +748,7 @@
         "C. Casting conversion",
         "D. B and C are answer"
       ],
-      "answer": ""
+      "answer": "D. B and C are answer"
     },
     {
       "id": "70",
@@ -759,7 +759,7 @@
         "C. Isolation",
         "D. Consistent"
       ],
-      "answer": ""
+      "answer": "B. Atomicity"
     },
     {
       "id": "71",
@@ -770,7 +770,7 @@
         "C. Data-type Ivar-name;",
         "D. None of the above"
       ],
-      "answer": ""
+      "answer": "A. Data-type *var-name:"
     },
     {
       "id": "72",
@@ -781,7 +781,7 @@
         "C. Data warehouse",
         "D. None of the above"
       ],
-      "answer": ""
+      "answer": "D. None of the above"
     },
     {
       "id": "73",
@@ -792,7 +792,7 @@
         "C. 192.0.0.0 to 223.255.255.255",
         "D. 1.0.0.0 to 127.255.255.255"
       ],
-      "answer": ""
+      "answer": "C. 192.0.0.0 to 223.255.255.255"
     },
     {
       "id": "74",
@@ -803,7 +803,7 @@
         "C. Collect → Verify → Disseminate → Store the lesson",
         "D. Collect→  Disseminate → Verify → Store the lesson"
       ],
-      "answer": ""
+      "answer": "C. Collect → Verify → Disseminate → Store the lesson"
     },
     {
       "id": "75",
@@ -814,7 +814,7 @@
         "C. Business-to-Business",
         "D. All"
       ],
-      "answer": ""
+      "answer": "B. Business-to-Consumer"
     },
     {
       "id": "76",
@@ -825,7 +825,7 @@
         "C. By having fun and playing together",
         "D. All"
       ],
-      "answer": ""
+      "answer": "D. All"
     },
     {
       "id": "77",
@@ -836,7 +836,7 @@
         "C. Fertility",
         "D. Productivity"
       ],
-      "answer": ""
+      "answer": "A. Quality"
     },
     {
       "id": "78",
@@ -847,7 +847,7 @@
         "C. Cost Control",
         "D. Cost Estimating"
       ],
-      "answer": ""
+      "answer": "B. Cost Budgeting"
     },
     {
       "id": "79",
@@ -858,7 +858,7 @@
         "C. Availability of dataset to support the analysis Š",
         "D. None of the above."
       ],
-      "answer": ""
+      "answer": "A. Lack of dataset to support the analysis.S"
     },
     {
       "id": "80",
@@ -869,7 +869,7 @@
         "C. 222",
         "D. 223-2"
       ],
-      "answer": ""
+      "answer": "B. 224-2"
     },
     {
       "id": "81",
@@ -880,7 +880,7 @@
         "C. abstract",
         "D. Object"
       ],
-      "answer": ""
+      "answer": "C. abstract"
     },
     {
       "id": "82",
@@ -891,7 +891,7 @@
         "C. fractions [6]= 3.333;",
         "D. None of the above"
       ],
-      "answer": ""
+      "answer": "A. Fractions [5] = 3.333;"
     },
     {
       "id": "83",
@@ -902,7 +902,7 @@
         "C. Welcome1",
         "D. 7button7"
       ],
-      "answer": ""
+      "answer": "D. 7button7"
     },
     {
       "id": "84",
@@ -913,7 +913,7 @@
         "C. ALTER table Employee DROP column Sex;",
         "D. Sex ALTER table Employee DROP column;"
       ],
-      "answer": ""
+      "answer": "C. ALTER table Employee DROP column Sex;"
     },
     {
       "id": "85",
@@ -924,7 +924,7 @@
         "C. Activity Sequencing",
         "D. Activity Resource Estimating"
       ],
-      "answer": ""
+      "answer": "C. Activity Sequencing"
     },
     {
       "id": "86",
@@ -935,7 +935,7 @@
         "C. N =N % 25;",
         "D. N =N % 25 N;"
       ],
-      "answer": ""
+      "answer": "C. N =N % 25;"
     },
     {
       "id": "87",
@@ -946,7 +946,7 @@
         "C. Protection of knowledge",
         "D. All the above"
       ],
-      "answer": ""
+      "answer": "D. All the above"
     },
     {
       "id": "88",
@@ -957,7 +957,7 @@
         "C. Text",
         "D. Video"
       ],
-      "answer": ""
+      "answer": "C. Text"
     },
     {
       "id": "89",
@@ -968,7 +968,7 @@
         "C. Check whether it is the right system or not",
         "D. All"
       ],
-      "answer": ""
+      "answer": "D. All"
     },
     {
       "id": "90",
@@ -979,7 +979,7 @@
         "C. HTML tag",
         "D. If you don't specify the angle brackets (< >) for a tag, the web browser will treat the HTML tag name as:"
       ],
-      "answer": ""
+      "answer": "D. If you don't specify the angle brackets (< >) for a tag, the web browser will treat the HTML tag name as:"
     },
     {
       "id": "91",
@@ -990,7 +990,7 @@
         "C. Ensure that employees are educated on the basics of a secure environment.",
         "D. Band C are answer."
       ],
-      "answer": ""
+      "answer": "D. Band C are answer."
     },
     {
       "id": "92",
@@ -1001,7 +1001,7 @@
         "C. Neural networks involve short training times and are therefore less suitable for applications where this is feasible.",
         "D. None of the above"
       ],
-      "answer": ""
+      "answer": "C. Neural networks involve short training times and are therefore less suitable for applications where this is feasible."
     },
     {
       "id": "93",
@@ -1012,7 +1012,7 @@
         "C. ==",
         "D. None of the above"
       ],
-      "answer": ""
+      "answer": "C. =="
     },
     {
       "id": "94",
@@ -1023,7 +1023,7 @@
         "C. To validate user's input: while using form.",
         "D. All the Above."
       ],
-      "answer": ""
+      "answer": "D. All the Above."
     },
     {
       "id": "95",
@@ -1034,7 +1034,7 @@
         "C. Quality training",
         "D. Technology training"
       ],
-      "answer": ""
+      "answer": "B. Soft skills training"
     },
     {
       "id": "96",
@@ -1045,7 +1045,7 @@
         "C. Data governance",
         "D. Policy governance"
       ],
-      "answer": ""
+      "answer": "C. Data governance"
     },
     {
       "id": "97",
@@ -1056,7 +1056,7 @@
         "C. Web site design and web hosting",
         "D. All of the above"
       ],
-      "answer": ""
+      "answer": "D. All of the above"
     },
     {
       "id": "98",
@@ -1067,7 +1067,7 @@
         "C. Hacker",
         "D. Financial loss"
       ],
-      "answer": ""
+      "answer": "B. Flaw in a software package or hardware"
     }
   ]
 }
