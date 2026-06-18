@@ -74,8 +74,9 @@
     },
     {
       "id": "7",
-      "question": "In database systems terminology, \"Data Independence\" is more described as programs are not dependent on the physical attributes of data.",
+      "question": "In database systems terminology, \"Data Independence\" is more described as",
       "options": [
+        "programs are not dependent on the physical attributes of data.",
         "data in not related with other data",
         "programs are dependent on the logical attributes of data.",
         "data is defined separately and not included in programs."
@@ -122,10 +123,8 @@
     },
     {
       "id": "11",
-      "question": "Assuming that there is an Employee table with attributes ID, NAME,",
+      "question": "Assuming that there is an Employee table with attributes ID, NAME, SALARY and AGE, where all are mandatory attributes, which of the following is a valid SQL statement?",
       "options": [
-        "SALARY and AGE, where all are mandatory attributes, which of the",
-        "following is a valid SQL statement?",
         "SELECT NULL FROM EMPLOYEE",
         "SELECT NAME FROM EMPLOYEE WHERE SALARY = NULL",
         "SELECT AGE FROM EMPLOYEE WHERE EMPLOYEE=AGE",
@@ -148,9 +147,8 @@
     },
     {
       "id": "13",
-      "question": "Appropriate controls must be designed to ensure that no field takes on a value that is outside of the range of legal values. This rule is referred",
+      "question": "Appropriate controls must be designed to ensure that no field takes on a value that is outside of the range of legal values. This rule is referred as____________.",
       "options": [
-        "as____________.",
         "referential integrity",
         "key integrity",
         "data integrity",
@@ -176,11 +174,9 @@
       "question": "If a set of attributes, K, in relation table R is a foreign key on the table R, then:_____",
       "options": [
         "K cannot assume a value of NULL in R",
-        "Every non-null value of K, appearing in relation R, must also occur as a value for",
-        "K in S.",
+        "Every non-null value of K, appearing in relation R, must also occur as a value for K in S.",
         "K is unique in R",
-        "There is another relation schema (say S) with the attributes K where K is a foreign",
-        "key for S"
+        "There is another relation schema (say S) with the attributes K where K is a foreign key for S"
       ],
       "answerLetter": "",
       "answer": "Every non-null value of K, appearing in relation R, must also occur as a value for K in S."
@@ -492,12 +488,11 @@
     },
     {
       "id": "10",
-      "question": "Pick the true statement *",
+      "question": "Pick the true statement",
       "options": [
         "Ethernet is a protocol that works at the data link layer",
         "DHCP helps to map domain names with IP",
-        "Manchester encoding techniques work to encode data from application layer to",
-        "transport layer",
+        "Manchester encoding techniques work to encode data from application layer to transport layer",
         "SSH is used to compress data to transport from one network to another"
       ],
       "answerLetter": "",
@@ -507,12 +502,10 @@
       "id": "11",
       "question": "Which of the following is not true about IP address?",
       "options": [
-        "Class E IP addresses can be assigned as IP addresses for computers in",
-        "networks",
+        "Class E IP addresses can be assigned as IP addresses for computers in networks",
         "The total number of IP addresses in Class A is greater than that of class B",
         "88.88.88.88 is a class A IP address",
-        "One can know Class B addresses if the numbers in the first octet are between 128",
-        "and 191"
+        "One can know Class B addresses if the numbers in the first octet are between 128 and 191"
       ],
       "answerLetter": "",
       "answer": "Class E IP addresses can be assigned as IP addresses for computers in networks"
@@ -555,10 +548,8 @@
     },
     {
       "id": "15",
-      "question": "A NIC of a computer has been assigned an IP address of",
+      "question": "A NIC of a computer has been assigned an IP address of 130.31.128.60 with a mask of 255.255.255.224. To which subnet does the IP address belong?",
       "options": [
-        "130.31.128.60 with a mask of 255.255.255.224. To which subnet does",
-        "the IP address belong?",
         "130.31.128.0",
         "130.31.192.128",
         "130.31.192.64",
@@ -571,8 +562,9 @@
   "Information Systems Project Management": [
     {
       "id": "1",
-      "question": "The five project management process groups are: initiating, planning, executing, monitoring & controlling, and closing.",
+      "question": "The five project management process groups are:",
       "options": [
+        "initiating, planning, executing, monitoring & controlling, and closing.",
         "planning, checking, directing, monitoring, and recording.",
         "initiating, executing, monitoring, evaluating, and closing.",
         "planning, executing, directing, closing, and delivering."
@@ -582,11 +574,10 @@
     },
     {
       "id": "2",
-      "question": "A project can be defined as: *",
+      "question": "A project can be defined as:",
       "options": [
         "a set of sequential activities performed in a process or system.",
-        "a revenue generating activity that needs to be accomplished while achieving",
-        "customer satisfaction.",
+        "a revenue generating activity that needs to be accomplished while achieving customer satisfaction.",
         "a temporary endeavour undertaken to create a unique product, service or result.",
         "an ongoing endeavour undertaken to meet customer or market requirements."
       ],
@@ -595,11 +586,8 @@
     },
     {
       "id": "3",
-      "question": "A project manager for a software project is well regarded by people in her company for her programming skills. She has a good reputation",
+      "question": "A project manager for a software project is well regarded by people in her company for her programming skills. She has a good reputation among the senior managers as well as the employees under her supervision. Which best describes the power the project manager is exerting?",
       "options": [
-        "among the senior managers as well as the employees under her",
-        "supervision. Which best describes the power the project manager is",
-        "exerting?",
         "Reward power",
         "Expert power",
         "Referent power",
@@ -636,12 +624,10 @@
       "id": "6",
       "question": "In understanding the project environment, all of the following are true except:",
       "options": [
-        "projects are planned or implemented in a social, economic, and environmental",
-        "context.",
+        "projects are planned or implemented in a social, economic, and environmental context.",
         "projects may have intended positive and/or negative impacts.",
         "projects may have unintended positive and/or negative impacts.",
-        "the project team should rarely consider the political and physical environmental",
-        "contexts of the project."
+        "the project team should rarely consider the political and physical environmental contexts of the project."
       ],
       "answerLetter": "",
       "answer": "the project team should rarely consider the political and physical environmental contexts of the project."
@@ -672,8 +658,9 @@
     },
     {
       "id": "9",
-      "question": "What is the main goal of project cost management? to complete a project for as little cost as possible",
+      "question": "What is the main goal of project cost management?",
       "options": [
+        "to complete a project for as little cost as possible",
         "to complete a project within an approved budget",
         "to provide truthful and accurate cost information on projects",
         "to distribute the project budget equally throughout the project"
@@ -695,8 +682,9 @@
     },
     {
       "id": "11",
-      "question": "A project cost that can never be fully retrieved (returned) is: tangible cost",
+      "question": "A project cost that can never be fully retrieved (returned) is:",
       "options": [
+        "tangible cost",
         "sunk Cost",
         "indirect Cost",
         "intangible cost"
@@ -706,8 +694,9 @@
     },
     {
       "id": "12",
-      "question": "Who has overall responsibility for quality planning? project manager",
+      "question": "Who has overall responsibility for quality planning?",
       "options": [
+        "project manager",
         "quality manager",
         "senior management",
         "project planner"
@@ -757,381 +746,369 @@
       "id": "1",
       "question": "The term Artificial Intelligence was coined by ____________ in ______________.",
       "options": [
-        "A. Alan Turing, 1956",
-        "B. John McCarthy, 1956",
-        "C. Alan Turing, 1950",
-        "D. John McCarthy, 1950"
+        "Alan Turing, 1956",
+        "John McCarthy, 1956",
+        "Alan Turing, 1950",
+        "John McCarthy, 1950"
       ],
       "answerLetter": "",
-      "answer": "B. John McCarthy, 1956"
+      "answer": "John McCarthy, 1956"
     },
     {
       "id": "2",
       "question": "Which one of the following describes Artificial Intelligent?",
       "options": [
-        "A. It is a science that enables us to create a machine that does everything.",
-        "B. It is about programming a machine with your own Intelligence.",
-        "C. It aims at creating machines that perform tasks that require intelligence.",
-        "D. None"
+        "It is a science that enables us to create a machine that does everything.",
+        "It is about programming a machine with your own Intelligence.",
+        "It aims at creating machines that perform tasks that require intelligence.",
+        "None"
       ],
       "answerLetter": "",
-      "answer": "C. It aims at creating machines that perform tasks that require intelligence."
+      "answer": "It aims at creating machines that perform tasks that require intelligence."
     },
     {
       "id": "3",
       "question": "The following are the key characteristics of an intelligent system except",
       "options": [
-        "A. Use vast amount of knowledge.",
-        "B. Learn from experience and adapt to changing environment.",
-        "C. They know the outcome of their action.",
-        "D. Tolerate error and ambiguity in communication.",
-        "E. Interact with human using natural language and speech."
+        "Use vast amount of knowledge.",
+        "Learn from experience and adapt to changing environment.",
+        "They know the outcome of their action.",
+        "Tolerate error and ambiguity in communication.",
+        "Interact with human using natural language and speech."
       ],
       "answerLetter": "",
-      "answer": "C. They know the outcome of their action."
+      "answer": "They know the outcome of their action."
     },
     {
       "id": "4",
       "question": "Suppose you are asked to design an agent that acts on the basis of condition-action rules and internal state, besides the current percept. What type of agent do you design?",
       "options": [
-        "A. Simple reflex agent",
-        "B. Goal-based agent",
-        "C. Model-based reflex agent",
-        "D. Learning agent"
+        "Simple reflex agent",
+        "Goal-based agent",
+        "Model-based reflex agent",
+        "Learning agent"
       ],
       "answerLetter": "",
-      "answer": "C. Model-based reflex agent"
+      "answer": "Model-based reflex agent"
     },
     {
       "id": "5",
       "question": "In which one of the following problem types the agent has no knowledge of what its actions do and about the environment?",
       "options": [
-        "A. Single State problem",
-        "B. Contingency problem",
-        "C. Multi- State problem",
-        "D. Exploration problem"
+        "Single State problem",
+        "Contingency problem",
+        "Multi- State problem",
+        "Exploration problem"
       ],
       "answerLetter": "",
-      "answer": "D. Exploration problem"
+      "answer": "Exploration problem"
     },
     {
       "id": "6",
       "question": "One of the following is true about constraint satisfaction problem. *",
       "options": [
-        "A. A state is represented by variables and values for each variables.",
-        "B. A solution is a sequence of actions.",
-        "C. A state is considered as atomic indivisible.",
-        "D. A solution is a complete assignment."
+        "A state is represented by variables and values for each variables.",
+        "A solution is a sequence of actions.",
+        "A state is considered as atomic indivisible.",
+        "A solution is a complete assignment."
       ],
       "answerLetter": "",
-      "answer": "A. A state is represented by variables and values for each variables."
+      "answer": "A state is represented by variables and values for each variables."
     },
     {
       "id": "7",
-      "question": "Suppose you are asked to implement a search algorithm for a particular problem. Your boss told you that your search algorithm need to",
+      "question": "Suppose you are asked to implement a search algorithm for a particular problem. Your boss told you that your search algorithm need to return only the final or the goal state. Which class of search algorithm will you use?",
       "options": [
-        "return only the final or the goal state. Which class of search algorithm will",
-        "you use?",
-        "A. Uninformed Search Algorithms",
-        "B. Iterative Improvement search algorithms",
-        "C. Informed Search Algorithms",
-        "D. Local Search Algorithms",
-        "E. B and D",
-        "F. A and C"
+        "Uninformed Search Algorithms",
+        "Iterative Improvement search algorithms",
+        "Informed Search Algorithms",
+        "Local Search Algorithms",
+        "B and D",
+        "A and C"
       ],
       "answerLetter": "",
-      "answer": "E. B and D"
+      "answer": "B and D"
     },
     {
       "id": "8",
       "question": "One of the following is not true about Hill-Climbing search algorithm. *",
       "options": [
-        "A. It is a local search algorithm.",
-        "B. It considers a state space as a graph.",
-        "C. It stops searching when no neighbour has higher value than the current state.",
-        "D. It has low memory requirement."
+        "It is a local search algorithm.",
+        "It considers a state space as a graph.",
+        "It stops searching when no neighbour has higher value than the current state.",
+        "It has low memory requirement."
       ],
       "answerLetter": "",
-      "answer": "B. It considers a state space as a graph."
+      "answer": "It considers a state space as a graph."
     },
     {
       "id": "9",
       "question": "Which data structure is best to implement Depth First Search?",
       "options": [
-        "A. Stack",
-        "B. Priority queue",
-        "C. Queue",
-        "D. All"
+        "Stack",
+        "Priority queue",
+        "Queue",
+        "All"
       ],
       "answerLetter": "",
-      "answer": "A. Stack"
+      "answer": "Stack"
     },
     {
       "id": "10",
       "question": "Which of the following is not the property or requirement of knowledge representation languages?",
       "options": [
-        "A. Inferencial adquecy",
-        "B. Understandablity",
-        "C. Representational adquecy",
-        "D. Representational verification"
+        "Inferencial adquecy",
+        "Understandablity",
+        "Representational adquecy",
+        "Representational verification"
       ],
       "answerLetter": "",
-      "answer": "D. Representational verification"
+      "answer": "Representational verification"
     },
     {
       "id": "11",
       "question": "Which one of the following is a knowledge representation language?",
       "options": [
-        "A. Propositional Logic",
-        "B. Semantic network",
-        "C.Production rules",
-        "D. All",
-        "E. None"
+        "Propositional Logic",
+        "Semantic network",
+        "Production rules",
+        "All",
+        "None"
       ],
       "answerLetter": "",
-      "answer": "D. All"
+      "answer": "All"
     },
     {
       "id": "12",
       "question": "Which one of the following First Order Logic sentence represents the statement \"All cats like milk\"?",
       "options": [
-        "A. ∀c Cat(c)⇒likes(c,milk)",
-        "B. ∀c Cat(c) Λ likes(c,milk)",
-        "C. ∀c likes(c,milk) Λ Cat(c)",
-        "D. ∀c likes(c,milk) ⇒ Cat(c)"
+        "∀c Cat(c)⇒likes(c,milk)",
+        "∀c Cat(c) Λ likes(c,milk)",
+        "∀c likes(c,milk) Λ Cat(c)",
+        "∀c likes(c,milk) ⇒ Cat(c)"
       ],
       "answerLetter": "",
-      "answer": "A. ∀c Cat(c)⇒likes(c,milk)"
+      "answer": "∀c Cat(c)⇒likes(c,milk)"
     },
     {
       "id": "13",
       "question": "The component/s of an Expert system is/are_________.",
       "options": [
-        "A. Knowledge base",
-        "B. User Interface",
-        "C. Inference Engine",
-        "D. All",
-        "E. None"
+        "Knowledge base",
+        "User Interface",
+        "Inference Engine",
+        "All",
+        "None"
       ],
       "answerLetter": "",
-      "answer": "D. All"
+      "answer": "All"
     },
     {
       "id": "14",
       "question": "______________ learning algorithm uses explicit input-output feedback.",
       "options": [
-        "A. Unsupervised learning",
-        "B. Supervised learning",
-        "C. Reinforcement learning",
-        "D. Semi-supervised learning"
+        "Unsupervised learning",
+        "Supervised learning",
+        "Reinforcement learning",
+        "Semi-supervised learning"
       ],
       "answerLetter": "",
-      "answer": "B. Supervised learning"
+      "answer": "Supervised learning"
     },
     {
       "id": "15",
       "question": "A decision tree learning algorithm:",
       "options": [
-        "A. is an unsupervised learning algorithm.",
-        "B. selects an attribute with the lowest disorder or entropy for spliting the data.",
-        "C. selects an attribute with the highest information gain for spliting the data.",
-        "D. All",
-        "E. B and C"
+        "is an unsupervised learning algorithm.",
+        "selects an attribute with the lowest disorder or entropy for spliting the data.",
+        "selects an attribute with the highest information gain for spliting the data.",
+        "All",
+        "B and C"
       ],
       "answerLetter": "",
-      "answer": "E. B and C"
+      "answer": "B and C"
     }
   ],
   "Systems Analysis and Design": [
     {
       "id": "1",
-      "question": "In Relational Data Modeling, which of the following is false *",
+      "question": "In Relational Data Modeling, which of the following is false",
       "options": [
-        "A. The goal of normalization is to produce well-structured relations while the goal",
-        "of denormalization is more of performance",
-        "B. “Entries in cells are simple” in relational data model means that at the",
-        "intersection of a column and a row there should be a single value",
-        "C. Any relation with single attribute forming the primary key is already in third",
-        "normal form.",
-        "D. Eliminating partial dependency is the target of second normal form."
+        "The goal of normalization is to produce well-structured relations while the goal of denormalization is more of performance",
+        "“Entries in cells are simple” in relational data model means that at the intersection of a column and a row there should be a single value",
+        "Any relation with single attribute forming the primary key is already in third normal form.",
+        "Eliminating partial dependency is the target of second normal form."
       ],
       "answerLetter": "",
-      "answer": "C. Any relation with single attribute forming the primary key is already in third normal form."
+      "answer": "Any relation with single attribute forming the primary key is already in third normal form."
     },
     {
       "id": "2",
       "question": "Referring to the following ER-Diagram, which of the following statements are false?",
       "options": [
-        "A. There is a recursive relationship.",
-        "B. All tuples of the lease entity must have corresponding matching records from",
-        "Client entity.",
-        "C. Staff is a weak entity.",
-        "D. The \" 0...1\" multiplicity indicates an optional participation."
+        "There is a recursive relationship.",
+        "All tuples of the lease entity must have corresponding matching records from Client entity.",
+        "Staff is a weak entity.",
+        "The \" 0...1\" multiplicity indicates an optional participation."
       ],
       "answerLetter": "",
-      "answer": "C. Staff is a weak entity."
+      "answer": "Staff is a weak entity."
     },
     {
       "id": "3",
       "question": "Referring to the ER-diagram in question number 2, which one of the statements is TRUE?",
       "options": [
-        "A. A branch registers exactly one client.",
-        "B. A client must hold a lease for a property.",
-        "C. A property for lease can be owned by more than one owner.",
-        "D. A staff may or may not manage a branch."
+        "A branch registers exactly one client.",
+        "A client must hold a lease for a property.",
+        "A property for lease can be owned by more than one owner.",
+        "A staff may or may not manage a branch."
       ],
       "answerLetter": "",
-      "answer": "D. A staff may or may not manage a branch."
+      "answer": "A staff may or may not manage a branch."
     },
     {
       "id": "4",
       "question": "The logic of processes in a DFD can be expressed by of all of the following except?",
       "options": [
-        "A. Decision Tree",
-        "B. Primitive DFD",
-        "C. Decision Table",
-        "D. Structured English"
+        "Decision Tree",
+        "Primitive DFD",
+        "Decision Table",
+        "Structured English"
       ],
       "answerLetter": "",
-      "answer": "B. Primitive DFD"
+      "answer": "Primitive DFD"
     },
     {
       "id": "5",
       "question": "Given the following picture, which type of installation is implied by it",
       "options": [
-        "A. Direct",
-        "B. Parallel",
-        "C. Phased",
-        "D. Single Location (Pilot)"
+        "Direct",
+        "Parallel",
+        "Phased",
+        "Single Location (Pilot)"
       ],
       "answerLetter": "",
-      "answer": "D. Single Location (Pilot)"
+      "answer": "Single Location (Pilot)"
     },
     {
       "id": "6",
       "question": "In software project management, a deliverable is *",
       "options": [
-        "A. A defined work with clear beginning and end dates",
-        "B. A Tangible and verifiable product of work",
-        "C. A hierarchical breakdown of project activities",
-        "D. None of the above"
+        "A defined work with clear beginning and end dates",
+        "A Tangible and verifiable product of work",
+        "A hierarchical breakdown of project activities",
+        "None of the above"
       ],
       "answerLetter": "",
-      "answer": "B. A Tangible and verifiable product of work"
+      "answer": "A Tangible and verifiable product of work"
     },
     {
       "id": "7",
       "question": "Which of the following type of Alpha Testing is about testing the system to see if the system withstands an attempt to break it down?",
       "options": [
-        "A. Security testing",
-        "B. Recovery testing",
-        "C. Performance testing",
-        "D. Stress Testing"
+        "Security testing",
+        "Recovery testing",
+        "Performance testing",
+        "Stress Testing"
       ],
       "answerLetter": "",
-      "answer": "A. Security testing"
+      "answer": "Security testing"
     },
     {
       "id": "8",
-      "question": "________ is a collection of artefacts, including your use case model, user interface, domain model, change cases model, and supplementary specifications that describe the requirements for a system.",
+      "question": "________ is a collection of artefacts, including your use case model, user interface, domain model, change cases model, and supplementary specifications that describe the requirements for a system. A professor in the university offers courses. At the end of each semester,  he/she is responsible to submit grade to a department and a registrar. The registrar maintains students' grades and computes CGPA for each student. Students receive grades for the courses they took along with CGPA in a slip.",
       "options": [
-        "A. Requirements Model.",
-        "B. Use Case modeling.",
-        "C. Class Diagram.",
-        "D. Use Case Description.",
-        "A professor in the university offers courses. At the end of each semester, *1/1",
-        "he/she is responsible to submit grade to a department and a registrar.",
-        "The registrar maintains students' grades and computes CGPA for each",
-        "student. Students receive grades for the courses they took along with",
-        "CGPA in a slip."
+        "Requirements Model.",
+        "Use Case modeling.",
+        "Class Diagram.",
+        "Use Case Description."
       ],
       "answerLetter": "",
-      "answer": "A. Requirements Model."
+      "answer": "Requirements Model."
     },
     {
       "id": "9",
       "question": "Given the above business description, which of the following could be actors?",
       "options": [
-        "A. Student, Registrar, Professor, Course, and Grade.",
-        "B. Student, Registrar, Professor and Course.",
-        "C. Student, Registrar, and Professor.",
-        "D. Course, Grade, and CGPA."
+        "Student, Registrar, Professor, Course, and Grade.",
+        "Student, Registrar, Professor and Course.",
+        "Student, Registrar, and Professor.",
+        "Course, Grade, and CGPA."
       ],
       "answerLetter": "",
-      "answer": "C. Student, Registrar, and Professor."
+      "answer": "Student, Registrar, and Professor."
     },
     {
       "id": "10",
       "question": "Referring to the business description in question number 2, what could be a use case (s)?",
       "options": [
-        "A. Prepare Grade.",
-        "B. Compute CGPA.",
-        "C. Submit Course.",
-        "D. Register Student."
+        "Prepare Grade.",
+        "Compute CGPA.",
+        "Submit Course.",
+        "Register Student."
       ],
       "answerLetter": "",
-      "answer": "B. Compute CGPA."
+      "answer": "Compute CGPA."
     },
     {
       "id": "11",
       "question": "Referring to the business description in question number 2, what are the possible classes?",
       "options": [
-        "A. Professor, Course, Student, Grade, and Registrar.",
-        "B. Professor, Course, Student, Grade, Registrar and CGPA.",
-        "C. Course, Grade and CGPA",
-        "D. Course and Grade."
+        "Professor, Course, Student, Grade, and Registrar.",
+        "Professor, Course, Student, Grade, Registrar and CGPA.",
+        "Course, Grade and CGPA",
+        "Course and Grade."
       ],
       "answerLetter": "",
-      "answer": "A. Professor, Course, Student, Grade, and Registrar."
+      "answer": "Professor, Course, Student, Grade, and Registrar."
     },
     {
       "id": "12",
       "question": "What does this diagram represent? *",
       "options": [
-        "A. Component Diagram for Student Registration.",
-        "B. Class Diagram for Student Registration.",
-        "C. Activity Diagram for Student Registration.",
-        "D. Sequence Diagram for Student Registration.",
-        "C. Activity Diagram for Student Registration."
+        "Component Diagram for Student Registration.",
+        "Class Diagram for Student Registration.",
+        "Activity Diagram for Student Registration.",
+        "Sequence Diagram for Student Registration."
       ],
       "answerLetter": "",
-      "answer": "D. Sequence Diagram for Student Registration."
+      "answer": "Sequence Diagram for Student Registration."
     },
     {
       "id": "13",
       "question": "What does Register() refer to in the following sequence diagram? *",
       "options": [
-        "A. The lifeline of the student object.",
-        "B. Message passing.",
-        "C. Method of Validate Profile Object.",
-        "D. Method of Authenticate Profile Object."
+        "The lifeline of the student object.",
+        "Message passing.",
+        "Method of Validate Profile Object.",
+        "Method of Authenticate Profile Object."
       ],
       "answerLetter": "",
-      "answer": "B. Message passing."
+      "answer": "Message passing."
     },
     {
       "id": "14",
       "question": "Referring to the following diagram, can you identify the subclasses?",
       "options": [
-        "A. Student, Professor, and Person.",
-        "B. Person and Address.",
-        "C. Student, Professor and Address.",
-        "D. Student and Professor."
+        "Student, Professor, and Person.",
+        "Person and Address.",
+        "Student, Professor and Address.",
+        "Student and Professor."
       ],
       "answerLetter": "",
-      "answer": "D. Student and Professor."
+      "answer": "Student and Professor."
     },
     {
       "id": "15",
       "question": "Refer to the class diagram under question number14 Which of the following are the behavior/methods of classes?",
       "options": [
-        "A. Salary in Professor Class.",
-        "B. Student Number and Average Mark in Student Class.",
-        "C. Purchase Parking Pass in Person Class.",
-        "D. Country in Address Class."
+        "Salary in Professor Class.",
+        "Student Number and Average Mark in Student Class.",
+        "Purchase Parking Pass in Person Class.",
+        "Country in Address Class."
       ],
       "answerLetter": "",
-      "answer": "C. Purchase Parking Pass in Person Class."
+      "answer": "Purchase Parking Pass in Person Class."
     }
   ],
   "Introduction to Information Retrieval": [
@@ -1149,7 +1126,7 @@
     },
     {
       "id": "2",
-      "question": "Which of the following is not true about Boolean IR model? *",
+      "question": "Which of the following is not true about Boolean IR model?",
       "options": [
         "The Model penalizes documents when they contain term that is not in the query",
         "Ranking of retrieved documents is possible",
@@ -1161,9 +1138,8 @@
     },
     {
       "id": "3",
-      "question": "Which methods can be applied to remove stop words from a corpus",
+      "question": "Which methods can be applied to remove stop words from a corpus (text document collection)?",
       "options": [
-        "(text document collection)?",
         "Dictionary method (Lookup table)",
         "Frequency method",
         "TF*IDF",
@@ -1186,9 +1162,8 @@
     },
     {
       "id": "5",
-      "question": "An inverted index arranges data in a sorted order as per",
+      "question": "An inverted index arranges data in a sorted order as per _________________.",
       "options": [
-        "_________________.",
         "Document IDs",
         "Index Terms",
         "The frequesncy of the terms (tf)",
@@ -1199,9 +1174,8 @@
     },
     {
       "id": "6",
-      "question": "What is the metric used to measure the rarity of a term in a corpus",
+      "question": "What is the metric used to measure the rarity of a term in a corpus (text document collection)?",
       "options": [
-        "(text document collection)?",
         "Term Frequency (tf)",
         "Normalized Term Frequency (TF)",
         "Inverse Document Frequency (IDF)",
@@ -1248,7 +1222,7 @@
     },
     {
       "id": "10",
-      "question": "What is the meaning of \"error of commission\"? *",
+      "question": "What is the meaning of \"error of commission\"?",
       "options": [
         "When a relevant document is not retrieved",
         "When a Non-relevant document is predicted to be Relevant",
@@ -1260,8 +1234,9 @@
     },
     {
       "id": "11",
-      "question": "Recall will be 100% when _________________________. all the relevant documents in the corpus are retrieved",
+      "question": "Recall will be 100% when _________________________.",
       "options": [
+        "all the relevant documents in the corpus are retrieved",
         "the whole corpus is retrieved",
         "recall is much greater than precision",
         "all the documents in the corpus are relevant"
@@ -1271,7 +1246,7 @@
     },
     {
       "id": "12",
-      "question": "Which of the following is not true? *",
+      "question": "Which of the following is not true?",
       "options": [
         "With correct query, data retrieval works 100% accurately.",
         "Information retrieval works 100% accurately if given the correct query.",
@@ -1283,14 +1258,12 @@
     },
     {
       "id": "13",
-      "question": "The harmonic mean of recall and precision will give us",
+      "question": "The harmonic mean of recall and precision will give us __________________.",
       "options": [
-        "__________________.",
         "Average Precision",
         "F-Score",
         "Accuracy",
-        "is calculated as (Recall + Precision)/2",
-        "Option 5"
+        "is calculated as (Recall + Precision)/2"
       ],
       "answerLetter": "",
       "answer": "F-Score"
@@ -1309,9 +1282,8 @@
     },
     {
       "id": "15",
-      "question": "Suppose you have the following five documents in your corpus D1 = {t1, t2, t3, t4, t5}, D2 = {t1, t2, t3, t4}, D3 = {t2, t4, t6, t8}, D4 = {t1, t3, t5, t7}, and D5 = {t2, t3, t4} where t stands for term. Which documents will be",
+      "question": "Suppose you have the following five documents in your corpus D1 = {t1, t2, t3, t4, t5}, D2 = {t1, t2, t3, t4}, D3 = {t2, t4, t6, t8}, D4 = {t1, t3, t5, t7}, and D5 = {t2, t3, t4} where t stands for term. Which documents will be retrieved for the query Q=t1 AND (t2 OR (NOT t3)) using Boolean Model.",
       "options": [
-        "retrieved for the query Q=t1 AND (t2 OR (NOT t3)) using Boolean Model.",
         "{D1, D2, D3}",
         "{D1, D2}",
         "{D1, D2, D4}",
@@ -1324,7 +1296,7 @@
   "Internet Programming": [
     {
       "id": "1",
-      "question": "Which of the following HTML elements is a block element ? *",
+      "question": "Which of the following HTML elements is a block element ?",
       "options": [
         "<p>",
         "<span>",
@@ -1374,7 +1346,6 @@
       "id": "5",
       "question": "What is the correct attribute name that is used to merge two or more columns of an HTML table ? 5. What is the correct attribute name that is",
       "options": [
-        "used to merge two or more columns of an HTML table ?",
         "rowspan",
         "rowextend",
         "colextend",
@@ -1423,8 +1394,7 @@
         "Grid layout system is a two dimensional layout system",
         "Flex-box layout system is a one dimensonal layout system",
         "It is possible to nest flex-box inside grid and vice versa",
-        "By using flex-box we can't design a layout that can be done using grid layout",
-        "system"
+        "By using flex-box we can't design a layout that can be done using grid layout system"
       ],
       "answerLetter": "",
       "answer": "By using flex-box we can't design a layout that can be done using grid layout system"
@@ -1443,7 +1413,7 @@
     },
     {
       "id": "11",
-      "question": "Among the following events, which one originates from a mouse? blur",
+      "question": "Among the following events, which one originates from a mouse?",
       "options": [
         "change",
         "keydown",
@@ -1458,8 +1428,7 @@
       "options": [
         "It is executed on the server",
         "Has access to the server operating system",
-        "It has to be translated to the corresponding client side language before rendered on",
-        "the browser",
+        "It has to be translated to the corresponding client side language before rendered on the browser",
         "It can be executed by the browser"
       ],
       "answerLetter": "",
@@ -1467,7 +1436,7 @@
     },
     {
       "id": "13",
-      "question": "Which of the following is the correct syntax to write a PHP code? *",
+      "question": "Which of the following is the correct syntax to write a PHP code?",
       "options": [
         "<?php ?>",
         "< php >",
@@ -1519,11 +1488,9 @@
       "id": "2",
       "question": "Which of the following statements about policy, standards, guidelines, or procedures is correct?",
       "options": [
-        "Standards are mandatory step-by-step, detailed actions required to complete a task",
-        "successfully",
+        "Standards are mandatory step-by-step, detailed actions required to complete a task successfully",
         "Procedures are mandatory requirements that support individual policies",
-        "Guideline is a high-level statement of enterprise beliefs, goals, and the general",
-        "means for their attainment",
+        "Guideline is a high-level statement of enterprise beliefs, goals, and the general means for their attainment",
         "Policies are organizational laws"
       ],
       "answerLetter": "",
@@ -1591,9 +1558,8 @@
     },
     {
       "id": "8",
-      "question": "When a user logs onto a computer system and is asked for their mother’s maiden name, which of the following aspects is the system",
+      "question": "When a user logs onto a computer system and is asked for their mother’s maiden name, which of the following aspects is the system ensuring?",
       "options": [
-        "ensuring?",
         "Authentication",
         "Authorization",
         "Applicability",
@@ -1606,13 +1572,10 @@
       "id": "9",
       "question": "Which one of the following is an incorrect explanation in relation to layers in information systems security Defense-in-Depth Strategy?",
       "options": [
-        "Communications security is to protect an organization’s communications media,",
-        "technology, and content.",
+        "Communications security is to protect an organization’s communications media, technology, and content.",
         "Network security is to protect networking components, connections, and contents.",
-        "Personal security is to protect the details of a particular operation or series of",
-        "activities.",
-        "Physical security is to protect the physical items, objects, or areas of an",
-        "organization from unauthorized access and misuse."
+        "Personal security is to protect the details of a particular operation or series of activities.",
+        "Physical security is to protect the physical items, objects, or areas of an organization from unauthorized access and misuse."
       ],
       "answerLetter": "",
       "answer": "Network security is to protect networking components, connections, and contents."
@@ -1645,14 +1608,10 @@
       "id": "12",
       "question": "Which of the following statements is not correct in relation to information security culture?",
       "options": [
-        "Many losses are not caused by users of technology and faulty human behavior",
-        "but rather by lack of technology or faulty technology.",
-        "The behavior of employees and their interaction with computer systems have a",
-        "significant impact on the security of information.",
-        "Although the technical aspect of information security needs due attention, a more",
-        "serious and under-rated aspect of information security is the human element.",
-        "The purpose of information security culture is to address the various human",
-        "factors that can affect an organization’s overall information security efforts."
+        "Many losses are not caused by users of technology and faulty human behavior but rather by lack of technology or faulty technology.",
+        "The behavior of employees and their interaction with computer systems have a significant impact on the security of information.",
+        "Although the technical aspect of information security needs due attention, a more serious and under-rated aspect of information security is the human element.",
+        "The purpose of information security culture is to address the various human factors that can affect an organization’s overall information security efforts."
       ],
       "answerLetter": "",
       "answer": "Many losses are not caused by users of technology and faulty human behavior but rather by lack of technology or faulty technology."
@@ -1661,14 +1620,10 @@
       "id": "13",
       "question": "Which of the following statements is correct?",
       "options": [
-        "Identification of security requirements at an enterprise level is performed during",
-        "design phase of security system development life cycle.",
-        "It is impossible to obtain perfect security even if organizations use maximum",
-        "security control measures.",
+        "Identification of security requirements at an enterprise level is performed during design phase of security system development life cycle.",
+        "It is impossible to obtain perfect security even if organizations use maximum security control measures.",
         "Spoofing attack is about the prevention of authorized access to resources",
-        "A Denial of service or degrading of service attack is situation in which one person",
-        "or program successfully imitate another by falsifying data and thereby gaining an",
-        "illegitimate advantage."
+        "A Denial of service or degrading of service attack is situation in which one person or program successfully imitate another by falsifying data and thereby gaining an illegitimate advantage."
       ],
       "answerLetter": "",
       "answer": "It is impossible to obtain perfect security even if organizations use maximum security control measures."
