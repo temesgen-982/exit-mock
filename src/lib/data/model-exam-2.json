@@ -1,5 +1,5 @@
 {
-  "Focus 1: Explain database system, data management approaches, types and its applications": [
+  "Database Concepts": [
     {
       "id": "1",
       "question": "Which of the following is advantage of database approach over file-based approach?",
@@ -34,7 +34,7 @@
       "answer": "C. Application server"
     }
   ],
-  "Focus 2: Design conceptual, logical and physical database models.": [
+  "Database Design": [
     {
       "id": "4",
       "question": "A database architecture level which describes what data is stored in the database and the relationships among the data is known as ______________.",
@@ -135,7 +135,7 @@
       "answer": "A. High level conceptual schema"
     }
   ],
-  "Focus 3: Design ER models and map them into relational tables": [
+  "ER Modeling": [
     {
       "id": "13",
       "question": "In formal relational model, the set of indivisible values is called",
@@ -170,7 +170,7 @@
       "answer": "A. Composite attributes"
     }
   ],
-  "Focus 4: Understand database functional dependency and normalization": [
+  "Normalization": [
     {
       "id": "16",
       "question": "A database design technique for producing a set of relations with desirable properties, given the data requirements of an enterprise is called ___________.",
@@ -194,7 +194,7 @@
       "answer": "B. Functional dependency"
     }
   ],
-  "Focus 5: Explain database query processing, optimization, transaction management and database security": [
+  "Database Systems": [
     {
       "id": "18",
       "question": "Deadlocks are possible only when one of the transactions wants to obtain a(n) ____ lock on a data item.",

@@ -1,5 +1,5 @@
 {
-  "General": [
+  "Computer Programming": [
     {
       "id": "1",
       "question": "Which of the following is used to avoid infinite loops?",
@@ -68,83 +68,6 @@
       "answer": "D. Abstraction – can multiple inheritances"
     },
     {
-      "id": "7",
-      "question": "A communication device that combines transmissions from several I/O devices into one line is a",
-      "options": [
-        "A. Concentrator",
-        "B. Modifier",
-        "C. Multiplexer",
-        "D. Full duplex file"
-      ],
-      "answer": "C. Multiplexer"
-    },
-    {
-      "id": "8",
-      "question": "Which layers of the OSI determines the interface often system with the user?",
-      "options": [
-        "A. Network",
-        "B. Application",
-        "C. Data link",
-        "D. Session"
-      ],
-      "answer": "B. Application"
-    },
-    {
-      "id": "9",
-      "question": "Which of the following of the TCP/IP protocols is the used for transferring files from one machine to another?",
-      "options": [
-        "A. FTP",
-        "B. SNMP",
-        "C. SMTP",
-        "D. Rpe"
-      ],
-      "answer": "A. FTP"
-    },
-    {
-      "id": "10",
-      "question": "In which OSI layers does the FDDI protocol operate?",
-      "options": [
-        "A. Physical",
-        "B. Data link",
-        "C. Network",
-        "D. A and B"
-      ],
-      "answer": "D. A and B"
-    },
-    {
-      "id": "11",
-      "question": "What is a prototype? system",
-      "options": [
-        "A. A working model of a system that demonstrates its functionality.",
-        "B. A document that outlines the requirements for a system.",
-        "C. A model that represents the behavior of a system.",
-        "D. A diagram that shows the relationships between different components of a"
-      ],
-      "answer": "A. A working model of a system that demonstrates its functionality."
-    },
-    {
-      "id": "12",
-      "question": "What is user acceptance testing? requirements expectations reliable scalable and manageable",
-      "options": [
-        "A. Testing performed by the development team to ensure that the system meets its",
-        "B. Testing performed by the users to ensure that the system meets their needs and",
-        "C. Testing performed by external testers to ensure that the system is secure and",
-        "D. Testing performed by the system administrators to ensure that the system is"
-      ],
-      "answer": "B. Testing performed by the users to ensure that the system meets their needs and expectations"
-    },
-    {
-      "id": "13",
-      "question": "What is the purpose of a feasibility study?",
-      "options": [
-        "A. To identify problems and opportunities in a system",
-        "B. To design a new system",
-        "C. To determine whether a proposed system is achievable and viable",
-        "D. To maintain a system"
-      ],
-      "answer": "C. To determine whether a proposed system is achievable and viable"
-    },
-    {
       "id": "14",
       "question": "What is inheritance used for?",
       "options": [
@@ -154,120 +77,6 @@
         "D. To encapsulate data and behaviour within an object"
       ],
       "answer": "C. To create a new class from an existing class"
-    },
-    {
-      "id": "15",
-      "question": "What is the main advantage of using object-oriented system analysis and design (OOSAD) in software development?",
-      "options": [
-        "A. Improved software performance",
-        "B. Better user engagement",
-        "C. Reduced development time",
-        "D. Improved software quality and maintainability"
-      ],
-      "answer": "D. Improved software quality and maintainability"
-    },
-    {
-      "id": "16",
-      "question": "The number of documents in the collection that contain a term is",
-      "options": [
-        "A. Term frequency",
-        "B. Document frequency",
-        "C. Collection frequency",
-        "D. All",
-        "E. None"
-      ],
-      "answer": "B. Document frequency"
-    },
-    {
-      "id": "17",
-      "question": "It stores all of the distinct terms that appear in any of the documents",
-      "options": [
-        "A. Postings File",
-        "B. Word list",
-        "C. Inverted List",
-        "D. Vocabulary file",
-        "E. A and D",
-        "F. B and D"
-      ],
-      "answer": "F. B and D"
-    },
-    {
-      "id": "18",
-      "question": "An entry in the matrix corresponds to the weight of a term in the document; zero means",
-      "options": [
-        "A. The document does not exist in the collection",
-        "B. The term does not exist in the document",
-        "C. The term is binary weight term",
-        "D. The document is non binary weight"
-      ],
-      "answer": "B. The term does not exist in the document"
-    },
-    {
-      "id": "19",
-      "question": "Let say we have query vector Q = (0.4, 0.8); and also document D1 = (0.2, 0.7). Compute their similarity using cosine? Which one is correct?",
-      "options": [
-        "A. 0.98",
-        "B. 0.45",
-        "C. 0.8",
-        "D. 0.7"
-      ],
-      "answer": "A. 0.98"
-    },
-    {
-      "id": "20",
-      "question": "From the following which one is wright about evaluating IR models",
-      "options": [
-        "A. Are they using binary or non-binary weight?",
-        "B. Are they measuring similarity or dissimilarity?",
-        "C. Are they applying exact matching or partial matching",
-        "D. All",
-        "E. None"
-      ],
-      "answer": "D. All"
-    },
-    {
-      "id": "21",
-      "question": "A company has a database that stores customer information, including customer ID, name, and email address. Which of the following is an example of a functional dependency in this scenario?",
-      "options": [
-        "A. Customer name → Customer email address",
-        "B. Customer email address → Customer ID",
-        "C. Customer ID → Customer email address",
-        "D. Customer ID → Customer name"
-      ],
-      "answer": "C. Customer ID → Customer email address"
-    },
-    {
-      "id": "22",
-      "question": "In a database table that stores customer information, the attribute \"Customer ID\" uniquely identifies each customer, and the attribute \"Phone Number\" is dependent on the \"Customer ID\". However, the attribute \"Address\" is also dependent on the \"Phone Number\". Which of the following is the correct functional dependency for this scenario?",
-      "options": [
-        "A. Customer ID → Phone Number",
-        "B. Phone Number → Address",
-        "C. Customer ID → Address",
-        "D. Phone Number → Customer ID"
-      ],
-      "answer": "B. Phone Number → Address"
-    },
-    {
-      "id": "23",
-      "question": "A company has a database table that stores information about its employees, including employee ID, name, department, and salary. The table is currently in first normal form (1NF), but it has some redundancy and inconsistency issues. Which of the following is the most appropriate next step in normalizing this table? each department. dependencies. each attribute. with other techniques.",
-      "options": [
-        "A. Convert the table to second normal form (2NF) by creating a separate table for",
-        "B. Convert the table to third normal form (3NF) by removing transitive",
-        "C. Convert the table to fourth normal form (4NF) by creating separate tables for",
-        "D. Leave the table in 1NF and address the redundancy and inconsistency issues"
-      ],
-      "answer": "B. Convert the table to third normal form (3NF) by removing transitive dependencies."
-    },
-    {
-      "id": "24",
-      "question": "What is the purpose of concurrency control in a DBMS? interfering with each other access",
-      "options": [
-        "A. To ensure that all transactions execute successfully",
-        "B. To ensure that all transactions execute in a serial manner",
-        "C. To ensure that multiple transactions can execute simultaneously without",
-        "D. To ensure that transactions can access only the data they are authorized to"
-      ],
-      "answer": "C. To ensure that multiple transactions can execute simultaneously without interfering with each other"
     },
     {
       "id": "25",
@@ -335,6 +144,129 @@
       "answer": "B. sum of memory space required by the all-member variable of the structure"
     },
     {
+      "id": "39",
+      "question": "Will the following java code successfully compiled? If yes, what is the output? public class A { int x = 20; } public class B extends A { int x = 30; } public class Test { public static void main(String[] args) { B b = new B(); System.out.println(b.x); A a = new A(); System.out.println(a.x); A a2 = new B(); System.out.println(a2.x); }}",
+      "options": [
+        "A. 30 20 20",
+        "B. 30 30 20",
+        "C. 20 20 30",
+        "D. 20 30 20"
+      ],
+      "answer": "A. 30 20 20"
+    },
+    {
+      "id": "40",
+      "question": "Will the following java code compile successfully? What is the output class A { String m1(String x){ System.out.println(\"One\"); return \"ABC\"; } String m1(String y){ System.out.println(\"Two\"); return \"PQR\"; } public static void main(String[] args){ A a = new A(); a.m1(\"ABC\"); } } Output: One",
+      "options": [
+        "A. The code has Duplicate method error, no output",
+        "B. The code has Duplicate method error but the code will be compiled successfully.",
+        "C. The code is completely error",
+        "D. The code has no any error, the output is One Two"
+      ],
+      "answer": "A. The code has Duplicate method error, no output"
+    },
+    {
+      "id": "41",
+      "question": "Which statement is incorrect about Binding in object oriented programming? object at runtime Scenario: A company has a database that stores information about their inventory. The database has a table called \"products\" that contains information about the products they sell, including product ID, product name, description, price, and quantity. The company wants to retrieve a list of all the products that are currently in stock and have a price lower than $50.",
+      "options": [
+        "A. Binding is connecting (linking) between a method call and method definition",
+        "B. Static binding is occurs during compilation and resolved at the compiled time",
+        "C. Dynamic binding is occurs during runtime and resolved based on the type of",
+        "D. None of the above"
+      ],
+      "answer": "D. None of the above"
+    },
+    {
+      "id": "45",
+      "question": "Suppose you want to declare abstract method in java program. Which of the following alternatives will correctly do this?",
+      "options": [
+        "A. abstract public void findArea();",
+        "B. abstract void findArea();",
+        "C. void findArea();",
+        "D. public void findArea();"
+      ],
+      "answer": "A. abstract public void findArea();"
+    },
+    {
+      "id": "46",
+      "question": "Which method are used for updating the values of a variable and used to retrieve the value of a variable respectively?",
+      "options": [
+        "A. Setter method and Mutator method",
+        "B. Getter method and Accessor method",
+        "C. Setter Method and Getter method",
+        "D. All of the above"
+      ],
+      "answer": "C. Setter Method and Getter method"
+    },
+    {
+      "id": "47",
+      "question": "What is a tightly encapsulated class in Java?",
+      "options": [
+        "A. If each variable is declared as private in the class",
+        "B. If each variable is declared as public in the class",
+        "C. If each variable is declared as protected in the class",
+        "D. None of the above"
+      ],
+      "answer": "A. If each variable is declared as private in the class"
+    },
+    {
+      "id": "48",
+      "question": "Which type of polymorphism accomplishes object binding with methods and the behaviour of a method is decided at runtime?",
+      "options": [
+        "A. Dynamic Polymorphism",
+        "B. Static Polymorphism",
+        "C. Compile-time Polymorphism",
+        "D. All of the above"
+      ],
+      "answer": "A. Dynamic Polymorphism"
+    }
+  ],
+  "Data Communication and Computer Networks": [
+    {
+      "id": "7",
+      "question": "A communication device that combines transmissions from several I/O devices into one line is a",
+      "options": [
+        "A. Concentrator",
+        "B. Modifier",
+        "C. Multiplexer",
+        "D. Full duplex file"
+      ],
+      "answer": "C. Multiplexer"
+    },
+    {
+      "id": "8",
+      "question": "Which layers of the OSI determines the interface often system with the user?",
+      "options": [
+        "A. Network",
+        "B. Application",
+        "C. Data link",
+        "D. Session"
+      ],
+      "answer": "B. Application"
+    },
+    {
+      "id": "9",
+      "question": "Which of the following of the TCP/IP protocols is the used for transferring files from one machine to another?",
+      "options": [
+        "A. FTP",
+        "B. SNMP",
+        "C. SMTP",
+        "D. Rpe"
+      ],
+      "answer": "A. FTP"
+    },
+    {
+      "id": "10",
+      "question": "In which OSI layers does the FDDI protocol operate?",
+      "options": [
+        "A. Physical",
+        "B. Data link",
+        "C. Network",
+        "D. A and B"
+      ],
+      "answer": "D. A and B"
+    },
+    {
       "id": "32",
       "question": "The ............ layer of OSI model can use the trailer of the frame for error detection.",
       "options": [
@@ -399,50 +331,263 @@
         "D. Internetwork layer"
       ],
       "answer": "B. Session Layer"
+    }
+  ],
+  "Systems Analysis and Design": [
+    {
+      "id": "11",
+      "question": "What is a prototype? system",
+      "options": [
+        "A. A working model of a system that demonstrates its functionality.",
+        "B. A document that outlines the requirements for a system.",
+        "C. A model that represents the behavior of a system.",
+        "D. A diagram that shows the relationships between different components of a"
+      ],
+      "answer": "A. A working model of a system that demonstrates its functionality."
     },
     {
-      "id": "38",
-      "question": "................ is to protect data and passwords.",
+      "id": "12",
+      "question": "What is user acceptance testing? requirements expectations reliable scalable and manageable",
       "options": [
-        "A. Encryption",
-        "B. Authentication",
-        "C. Authorization",
-        "D. Non-repudiation"
+        "A. Testing performed by the development team to ensure that the system meets its",
+        "B. Testing performed by the users to ensure that the system meets their needs and",
+        "C. Testing performed by external testers to ensure that the system is secure and",
+        "D. Testing performed by the system administrators to ensure that the system is"
       ],
-      "answer": "A. Encryption"
+      "answer": "B. Testing performed by the users to ensure that the system meets their needs and expectations"
     },
     {
-      "id": "39",
-      "question": "Will the following java code successfully compiled? If yes, what is the output? public class A { int x = 20; } public class B extends A { int x = 30; } public class Test { public static void main(String[] args) { B b = new B(); System.out.println(b.x); A a = new A(); System.out.println(a.x); A a2 = new B(); System.out.println(a2.x); }}",
+      "id": "13",
+      "question": "What is the purpose of a feasibility study?",
       "options": [
-        "A. 30 20 20",
-        "B. 30 30 20",
-        "C. 20 20 30",
-        "D. 20 30 20"
+        "A. To identify problems and opportunities in a system",
+        "B. To design a new system",
+        "C. To determine whether a proposed system is achievable and viable",
+        "D. To maintain a system"
       ],
-      "answer": "A. 30 20 20"
+      "answer": "C. To determine whether a proposed system is achievable and viable"
     },
     {
-      "id": "40",
-      "question": "Will the following java code compile successfully? What is the output class A { String m1(String x){ System.out.println(\"One\"); return \"ABC\"; } String m1(String y){ System.out.println(\"Two\"); return \"PQR\"; } public static void main(String[] args){ A a = new A(); a.m1(\"ABC\"); } } Output: One",
+      "id": "15",
+      "question": "What is the main advantage of using object-oriented system analysis and design (OOSAD) in software development?",
       "options": [
-        "A. The code has Duplicate method error, no output",
-        "B. The code has Duplicate method error but the code will be compiled successfully.",
-        "C. The code is completely error",
-        "D. The code has no any error, the output is One Two"
+        "A. Improved software performance",
+        "B. Better user engagement",
+        "C. Reduced development time",
+        "D. Improved software quality and maintainability"
       ],
-      "answer": "A. The code has Duplicate method error, no output"
+      "answer": "D. Improved software quality and maintainability"
     },
     {
-      "id": "41",
-      "question": "Which statement is incorrect about Binding in object oriented programming? object at runtime Scenario: A company has a database that stores information about their inventory. The database has a table called \"products\" that contains information about the products they sell, including product ID, product name, description, price, and quantity. The company wants to retrieve a list of all the products that are currently in stock and have a price lower than $50.",
+      "id": "58",
+      "question": "Which aspect of object-oriented system analysis and design (OOSAD) can help improve software reusability and modularity?",
       "options": [
-        "A. Binding is connecting (linking) between a method call and method definition",
-        "B. Static binding is occurs during compilation and resolved at the compiled time",
-        "C. Dynamic binding is occurs during runtime and resolved based on the type of",
-        "D. None of the above"
+        "A. Inheritance",
+        "B. Encapsulation",
+        "C. Abstraction",
+        "D. Polymorphism"
       ],
-      "answer": "D. None of the above"
+      "answer": "A. Inheritance"
+    },
+    {
+      "id": "59",
+      "question": "What is the main disadvantage of using traditional, non-object-oriented approaches to system analysis and design?",
+      "options": [
+        "A. Difficulties with user interface design",
+        "B. Poor code organization and maintainability",
+        "C. Slow development times",
+        "D. Inefficient code"
+      ],
+      "answer": "B. Poor code organization and maintainability"
+    },
+    {
+      "id": "60",
+      "question": "Which system development methodology is based on the idea of delivering software in small, incremental steps, with a focus on rapid feedback and continuous improvement?",
+      "options": [
+        "A. Waterfall",
+        "B. Agile",
+        "C. Spiral",
+        "D. Iterative"
+      ],
+      "answer": "B. Agile"
+    },
+    {
+      "id": "61",
+      "question": "Which system development methodology is based on the idea of testing at each stage of the software development process, with a focus on ensuring that the software meets requirements and specifications?",
+      "options": [
+        "A. Waterfall",
+        "B. Spiral",
+        "C. V-shaped",
+        "D. RAD"
+      ],
+      "answer": "C. V-shaped"
+    },
+    {
+      "id": "62",
+      "question": "The Planning phase of the SDLC typically involves:",
+      "options": [
+        "A. Defining the project scope and objectives",
+        "B. Conducting a feasibility study",
+        "C. Establishing project timelines and budgets",
+        "D. All of the above"
+      ],
+      "answer": "D. All of the above"
+    }
+  ],
+  "Introduction to Information Retrieval": [
+    {
+      "id": "16",
+      "question": "The number of documents in the collection that contain a term is",
+      "options": [
+        "A. Term frequency",
+        "B. Document frequency",
+        "C. Collection frequency",
+        "D. All",
+        "E. None"
+      ],
+      "answer": "B. Document frequency"
+    },
+    {
+      "id": "17",
+      "question": "It stores all of the distinct terms that appear in any of the documents",
+      "options": [
+        "A. Postings File",
+        "B. Word list",
+        "C. Inverted List",
+        "D. Vocabulary file",
+        "E. A and D",
+        "F. B and D"
+      ],
+      "answer": "F. B and D"
+    },
+    {
+      "id": "18",
+      "question": "An entry in the matrix corresponds to the weight of a term in the document; zero means",
+      "options": [
+        "A. The document does not exist in the collection",
+        "B. The term does not exist in the document",
+        "C. The term is binary weight term",
+        "D. The document is non binary weight"
+      ],
+      "answer": "B. The term does not exist in the document"
+    },
+    {
+      "id": "19",
+      "question": "Let say we have query vector Q = (0.4, 0.8); and also document D1 = (0.2, 0.7). Compute their similarity using cosine? Which one is correct?",
+      "options": [
+        "A. 0.98",
+        "B. 0.45",
+        "C. 0.8",
+        "D. 0.7"
+      ],
+      "answer": "A. 0.98"
+    },
+    {
+      "id": "20",
+      "question": "From the following which one is wright about evaluating IR models",
+      "options": [
+        "A. Are they using binary or non-binary weight?",
+        "B. Are they measuring similarity or dissimilarity?",
+        "C. Are they applying exact matching or partial matching",
+        "D. All",
+        "E. None"
+      ],
+      "answer": "D. All"
+    },
+    {
+      "id": "54",
+      "question": "Which term weighting is proper for knowing the importance of the term for representing the document it exists in?",
+      "options": [
+        "A. Term Frequency",
+        "B. Document Frequency",
+        "C. Collection frequency",
+        "D. Inverse Document Frequency",
+        "E. All",
+        "F. None"
+      ],
+      "answer": "A. Term Frequency"
+    },
+    {
+      "id": "55",
+      "question": "A good weight must take into account two effects:",
+      "options": [
+        "A. Quantification of intra-document contents",
+        "B. Similarity",
+        "C. Quantification of inter-documents separation",
+        "D. Dissimilarity",
+        "E. All",
+        "F. None"
+      ],
+      "answer": "E. All"
+    },
+    {
+      "id": "56",
+      "question": "______ is defined as the product of the magnitudes of query and document vectors",
+      "options": [
+        "A. Dot product",
+        "B. Scalar product",
+        "C. Inner product",
+        "D. All",
+        "E. None"
+      ],
+      "answer": "D. All"
+    },
+    {
+      "id": "57",
+      "question": "Determine the Euclidean distance between the document 1 vector (0, 3, 2, 1, 10) and query vector (2, 7, 1, 0, 0). 0 means corresponding term not found in document or query. Which one is correct?",
+      "options": [
+        "A. 17.5",
+        "B. 11.05",
+        "C. 11.21",
+        "D. 17.21"
+      ],
+      "answer": "B. 11.05"
+    }
+  ],
+  "Database Systems": [
+    {
+      "id": "21",
+      "question": "A company has a database that stores customer information, including customer ID, name, and email address. Which of the following is an example of a functional dependency in this scenario?",
+      "options": [
+        "A. Customer name → Customer email address",
+        "B. Customer email address → Customer ID",
+        "C. Customer ID → Customer email address",
+        "D. Customer ID → Customer name"
+      ],
+      "answer": "C. Customer ID → Customer email address"
+    },
+    {
+      "id": "22",
+      "question": "In a database table that stores customer information, the attribute \"Customer ID\" uniquely identifies each customer, and the attribute \"Phone Number\" is dependent on the \"Customer ID\". However, the attribute \"Address\" is also dependent on the \"Phone Number\". Which of the following is the correct functional dependency for this scenario?",
+      "options": [
+        "A. Customer ID → Phone Number",
+        "B. Phone Number → Address",
+        "C. Customer ID → Address",
+        "D. Phone Number → Customer ID"
+      ],
+      "answer": "B. Phone Number → Address"
+    },
+    {
+      "id": "23",
+      "question": "A company has a database table that stores information about its employees, including employee ID, name, department, and salary. The table is currently in first normal form (1NF), but it has some redundancy and inconsistency issues. Which of the following is the most appropriate next step in normalizing this table? each department. dependencies. each attribute. with other techniques.",
+      "options": [
+        "A. Convert the table to second normal form (2NF) by creating a separate table for",
+        "B. Convert the table to third normal form (3NF) by removing transitive",
+        "C. Convert the table to fourth normal form (4NF) by creating separate tables for",
+        "D. Leave the table in 1NF and address the redundancy and inconsistency issues"
+      ],
+      "answer": "B. Convert the table to third normal form (3NF) by removing transitive dependencies."
+    },
+    {
+      "id": "24",
+      "question": "What is the purpose of concurrency control in a DBMS? interfering with each other access",
+      "options": [
+        "A. To ensure that all transactions execute successfully",
+        "B. To ensure that all transactions execute in a serial manner",
+        "C. To ensure that multiple transactions can execute simultaneously without",
+        "D. To ensure that transactions can access only the data they are authorized to"
+      ],
+      "answer": "C. To ensure that multiple transactions can execute simultaneously without interfering with each other"
     },
     {
       "id": "42",
@@ -476,51 +621,22 @@
         "D. It is the process of ensuring that the retrieval of the list of products that are"
       ],
       "answer": "D. It is the process of ensuring that the retrieval of the list of products that are currently in stock and have a price lower than $50 is executed as a single unit of work."
-    },
+    }
+  ],
+  "Information System Security": [
     {
-      "id": "45",
-      "question": "Suppose you want to declare abstract method in java program. Which of the following alternatives will correctly do this?",
+      "id": "38",
+      "question": "................ is to protect data and passwords.",
       "options": [
-        "A. abstract public void findArea();",
-        "B. abstract void findArea();",
-        "C. void findArea();",
-        "D. public void findArea();"
+        "A. Encryption",
+        "B. Authentication",
+        "C. Authorization",
+        "D. Non-repudiation"
       ],
-      "answer": "A. abstract public void findArea();"
-    },
-    {
-      "id": "46",
-      "question": "Which method are used for updating the values of a variable and used to retrieve the value of a variable respectively?",
-      "options": [
-        "A. Setter method and Mutator method",
-        "B. Getter method and Accessor method",
-        "C. Setter Method and Getter method",
-        "D. All of the above"
-      ],
-      "answer": "C. Setter Method and Getter method"
-    },
-    {
-      "id": "47",
-      "question": "What is a tightly encapsulated class in Java?",
-      "options": [
-        "A. If each variable is declared as private in the class",
-        "B. If each variable is declared as public in the class",
-        "C. If each variable is declared as protected in the class",
-        "D. None of the above"
-      ],
-      "answer": "A. If each variable is declared as private in the class"
-    },
-    {
-      "id": "48",
-      "question": "Which type of polymorphism accomplishes object binding with methods and the behaviour of a method is decided at runtime?",
-      "options": [
-        "A. Dynamic Polymorphism",
-        "B. Static Polymorphism",
-        "C. Compile-time Polymorphism",
-        "D. All of the above"
-      ],
-      "answer": "A. Dynamic Polymorphism"
-    },
+      "answer": "A. Encryption"
+    }
+  ],
+  "Fundamentals of Artificial Intelligence": [
     {
       "id": "49",
       "question": "For Medical diagnosis system, what will be performance measure, environment, actuator and sensor respectively?",
@@ -577,110 +693,6 @@
         "D. Narrow AI"
       ],
       "answer": "D. Narrow AI"
-    },
-    {
-      "id": "54",
-      "question": "Which term weighting is proper for knowing the importance of the term for representing the document it exists in?",
-      "options": [
-        "A. Term Frequency",
-        "B. Document Frequency",
-        "C. Collection frequency",
-        "D. Inverse Document Frequency",
-        "E. All",
-        "F. None"
-      ],
-      "answer": "A. Term Frequency"
-    },
-    {
-      "id": "55",
-      "question": "A good weight must take into account two effects:",
-      "options": [
-        "A. Quantification of intra-document contents",
-        "B. Similarity",
-        "C. Quantification of inter-documents separation",
-        "D. Dissimilarity",
-        "E. All",
-        "F. None"
-      ],
-      "answer": "E. All"
-    },
-    {
-      "id": "56",
-      "question": "______ is defined as the product of the magnitudes of query and document vectors",
-      "options": [
-        "A. Dot product",
-        "B. Scalar product",
-        "C. Inner product",
-        "D. All",
-        "E. None"
-      ],
-      "answer": "D. All"
-    },
-    {
-      "id": "57",
-      "question": "Determine the Euclidean distance between the document 1 vector (0, 3, 2, 1, 10) and query vector (2, 7, 1, 0, 0). 0 means corresponding term not found in document or query. Which one is correct?",
-      "options": [
-        "A. 17.5",
-        "B. 11.05",
-        "C. 11.21",
-        "D. 17.21"
-      ],
-      "answer": "B. 11.05"
-    },
-    {
-      "id": "58",
-      "question": "Which aspect of object-oriented system analysis and design (OOSAD) can help improve software reusability and modularity?",
-      "options": [
-        "A. Inheritance",
-        "B. Encapsulation",
-        "C. Abstraction",
-        "D. Polymorphism"
-      ],
-      "answer": "A. Inheritance"
-    },
-    {
-      "id": "59",
-      "question": "What is the main disadvantage of using traditional, non-object-oriented approaches to system analysis and design?",
-      "options": [
-        "A. Difficulties with user interface design",
-        "B. Poor code organization and maintainability",
-        "C. Slow development times",
-        "D. Inefficient code"
-      ],
-      "answer": "B. Poor code organization and maintainability"
-    },
-    {
-      "id": "60",
-      "question": "Which system development methodology is based on the idea of delivering software in small, incremental steps, with a focus on rapid feedback and continuous improvement?",
-      "options": [
-        "A. Waterfall",
-        "B. Agile",
-        "C. Spiral",
-        "D. Iterative"
-      ],
-      "answer": "B. Agile"
-    },
-    {
-      "id": "61",
-      "question": "Which system development methodology is based on the idea of testing at each stage of the software development process, with a focus on ensuring that the software meets requirements and specifications?",
-      "options": [
-        "A. Waterfall",
-        "B. Spiral",
-        "C. V-shaped",
-        "D. RAD"
-      ],
-      "answer": "C. V-shaped"
-    },
-    {
-      "id": "62",
-      "question": "The Planning phase of the SDLC typically involves:",
-      "options": [
-        "A. Defining the project scope and objectives",
-        "B. Conducting a feasibility study",
-        "C. Establishing project timelines and budgets",
-        "D. All of the above"
-      ],
-      "answer": "D. All of the above"
     },
     {
       "id": "63",
