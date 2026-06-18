@@ -32,7 +32,7 @@
 	}
 </script>
 
-<div class="col-span-12 flex flex-col">
+<div class="col-span-12 flex flex-col min-h-0">
 	<div class="flex items-center justify-between border-b p-3">
 		<span class="font-bold">Select Mock Exam</span>
 		<button
@@ -47,8 +47,8 @@
 			<Pencil class="h-4 w-4" />
 		</button>
 	</div>
-	<div class="flex flex-1 flex-col p-4">
-		<div class="flex flex-1 flex-col justify-center">
+	<div class="flex flex-1 flex-col p-4 min-h-0">
+		<div class="flex flex-1 flex-col overflow-y-auto min-h-0">
 			<div class="grid grid-cols-2 gap-4">
 				{#each mockMeta as mock (mock.key)}
 					<div class="relative">
@@ -92,7 +92,7 @@
 				{/each}
 			</div>
 		</div>
-		<div class="flex items-center justify-between">
+		<div class="flex items-center justify-between p-3 flex-none">
 			<ImportDialog onimport={onimport} />
 			<button
 				class="bg-primary px-6 py-2 font-semibold text-primary-foreground transition-opacity hover:opacity-90"

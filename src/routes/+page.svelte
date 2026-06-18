@@ -70,7 +70,7 @@
 	<div class="honeycomb-bg flex flex-1 items-center justify-center p-4">
 		<div
 			id="main-content"
-			class="grid h-full max-h-(--central-max-h) w-full max-w-[800px] grid-cols-12 border-2 bg-card shadow-xl overflow-y-auto"
+			class="grid h-full max-h-(--central-max-h) w-full max-w-[800px] grid-cols-12 border-2 bg-card shadow-xl min-h-0"
 		>
 			<MockSelector
 				mockMeta={allMockMeta}
