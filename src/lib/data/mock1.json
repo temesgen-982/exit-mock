@@ -1,1366 +1,1700 @@
 {
-  "Artificial Intelligence": [
+  "Database Systems": [
     {
       "id": "1",
-      "question": "_______ deals with treating knowledge and ideas on a computer and use inference to solve problems on a computer.",
+      "question": "For a database designed using relational database, one of the *1/1 following arguments is not correct.",
       "options": [
-        "A. Knowledge based system",
-        "B. Knowledge",
-        "C. Knowledge base",
-        "D. All"
+        "Duplicate tuples are not allowed in a relation",
+        "Every relation must have a unique identifier",
+        "A table can have more than one primary key",
+        "Foreign key can take a value of NULL"
       ],
-      "answer": "A. Knowledge based system"
+      "answerLetter": "",
+      "answer": ""
     },
     {
       "id": "2",
-      "question": "A search algorithm takes _________ as an input and returns ________ as an output.",
+      "question": "Which of the following contains information about the structure of a database? *1/1",
       "options": [
-        "A. input, output",
-        "B. problem, solution",
-        "C. parameters, sequence of actions",
-        "D. solution, problem"
+        "Data schema",
+        "Data dictionary",
+        "Data warehouse",
+        "Data repository"
       ],
-      "answer": "B. problem, solution"
+      "answerLetter": "",
+      "answer": ""
     },
     {
       "id": "3",
-      "question": "What is the major component/components for measuring the performance of problem solving?",
+      "question": "An ________ is a set of objects of the same class that share the same properties.",
       "options": [
-        "A. Optimality",
-        "B. Time and space complexity",
-        "C. Completeness",
-        "D. All"
+        "Attribute",
+        "Entity",
+        "Relationship set",
+        "Entity Relationship model"
       ],
-      "answer": "D. All"
+      "answerLetter": "",
+      "answer": ""
     },
     {
       "id": "4",
-      "question": "If the branching factor of a search space is 5, the solution depth is 20, and the maximum depth of the tree is 30, approximately how many nodes will be in memory in a worst case execution of depth-first search?",
+      "question": "DBMS has three categories of languages and one of this is DML. DML *1/1 is used for_________________",
       "options": [
-        "A. 5*20",
-        "B. 5*30",
-        "C. 5^20",
-        "D. 5^30"
+        "describe the logical setup or structure of the databse",
+        "specify the storage structure of the database system",
+        "processing the content of the database",
+        "changing the structure of the database"
       ],
-      "answer": "B. 5*30"
+      "answerLetter": "",
+      "answer": ""
     },
     {
       "id": "5",
-      "question": "______ is the types of problems that the environment is partially observable and it is not possible to know the effect of the agent's action.",
+      "question": "In relational database system, a conceptual schema is * 1/1 specification of how user data is actually stored",
       "options": [
-        "A. Single-state problem",
-        "B. Exploration problem",
-        "C. Contingency problem",
-        "D. Sensorless problem"
+        "description of how users perceive the data",
+        "representation of the entire database",
+        "a systematic way of representing data elements"
       ],
-      "answer": "C. Contingency problem"
+      "answerLetter": "",
+      "answer": ""
     },
     {
       "id": "6",
-      "question": "Which search algorithm can be used when only the goal state is required as a solution?",
+      "question": "DBMS systems can be made to execute transactions. Transaction processing is a process which does NOT include__________",
       "options": [
-        "A. Breadth first search",
-        "B. A* search",
-        "C. Uniform cost search",
-        "D. Hill-climbing"
+        "capturing daily business activities",
+        "generating summary and detailed reports",
+        "maintaining user data",
+        "initiating a response or verifying an action"
       ],
-      "answer": "D. Hill-climbing"
+      "answerLetter": "",
+      "answer": "initiating a response or verifying an action"
     },
     {
       "id": "7",
-      "question": "A technique that was developed to determine whether a machine could or could not demonstrate artificial intelligence known as the ___________.",
+      "question": "In database systems terminology, \"Data Independence\" is more described as *1/1 programs are not dependent on the physical attributes of data.",
       "options": [
-        "A. AI test",
-        "B. Competency test",
-        "C. Turing test",
-        "D. Algorthmic test"
+        "data in not related with other data",
+        "programs are dependent on the logical attributes of data.",
+        "data is defined separately and not included in programs."
       ],
-      "answer": "C. Turing test"
+      "answerLetter": "",
+      "answer": ""
     },
     {
       "id": "8",
-      "question": "If you are an AI engineer and your boss asks youto develop a classification model that classifies dogs by their size into three classes (big, medium and small), what kind of data and machine learning algorithm will you use?",
+      "question": "Among the relational algebra operators, _______, is used to produce a *1/1 result which contains attributes of two or more relations.",
       "options": [
-        "A. Unlabled data, supervisedmachine learning algorithm",
-        "B. Labled data, supervised machine learning algorithm",
-        "C. Unlabled data, unsupervised machinelearning algorithm",
-        "D. Labled data, unsupervised machine learning algorithm"
+        "Cartesian product",
+        "Intersection",
+        "Selection",
+        "Projection"
       ],
-      "answer": "B. Labled data, supervised machine learning algorithm"
+      "answerLetter": "",
+      "answer": ""
     },
     {
       "id": "9",
-      "question": "In First Order Logic (FOL), which one of the following is wrong?",
+      "question": "One of the following security mechanisms can NOT be enforced without using database management system software:",
       "options": [
-        "A. âx, ây is same as ây, âx",
-        "B. Æx, Æy is same as Æy, Æx",
-        "C. Æx, ây is same as ây, Æx",
-        "D. &quot;Every person in the universe is mortal&quot;  is represented by âx person(x) Î In (x, universe)âmortal(x)"
+        "Database user authorization",
+        "View (virtual table)",
+        "Firewall",
+        "None of the above",
+        "Concurrency control"
       ],
-      "answer": "C. Æx, ây is same as ây, Æx"
-    }
-  ],
-  "Database Systems": [
+      "answerLetter": "",
+      "answer": ""
+    },
     {
       "id": "10",
-      "question": "In relational database system, a conceptual schema is *",
+      "question": "Which name must be unique within a database ? * 1/1",
       "options": [
-        "representation of the entire database",
-        "a systematic way of representing data elements",
-        "specification of how user data is actually stored",
-        "description of how users perceive the data"
+        "Cell",
+        "Record",
+        "Field",
+        "Table"
       ],
-      "answer": "representation of the entire database"
+      "answerLetter": "",
+      "answer": ""
     },
     {
       "id": "11",
-      "question": "What is the main objective of the three-level architecture proposed by ANSI/SPARC?",
+      "question": "Assuming that there is an Employee table with attributes ID, NAME, *1/1",
       "options": [
-        "To standardize data definition languages",
-        "To optimize database query performance",
-        "To separate user views from physical database representation",
-        "To eliminate the need for database administrators"
+        "SALARY and AGE, where all are mandatory attributes, which of the",
+        "following is a valid SQL statement?",
+        "SELECT NULL FROM EMPLOYEE",
+        "SELECT NAME FROM EMPLOYEE WHERE SALARY = NULL",
+        "SELECT AGE FROM EMPLOYEE WHERE EMPLOYEE=AGE",
+        "SELECT EMPLOYEE.NAME FROM EMPLOYEE"
       ],
-      "answer": "To separate user views from physical database representation"
+      "answerLetter": "",
+      "answer": ""
     },
     {
       "id": "12",
-      "question": "Given a table \"Orders\" with columns \"OrderID\", \"CustomerID\", and \"OrderDate\", which SQL query would return the total number of orders placed by each customer?",
+      "question": "When a table from a database is stored at multiple servers and locations, it is known as:",
       "options": [
-        "a) SELECT CustomerID, COUNT(OrderID) FROM Orders GROUP BY CustomerID;",
-        "b) SELECT CustomerID, SUM(OrderID) FROM Orders GROUP BY CustomerID;",
-        "c) SELECT CustomerID, NUM(*) FROM Orders GROUP BY CustomerID;",
-        "d) SELECT CustomerID, TOTAL(OrderID) FROM Orders GROUP BY CustomerID;"
+        "replication",
+        "vertical distribution",
+        "centralization",
+        "horizontal distribution"
       ],
-      "answer": "a) SELECT CustomerID, COUNT(OrderID) FROM Orders GROUP BY CustomerID;"
+      "answerLetter": "",
+      "answer": ""
     },
     {
       "id": "13",
-      "question": "According to the ANSI/SPARC architecture, what role does the internal level play in database management?",
+      "question": "Appropriate controls must be designed to ensure that no field takes *1/1 on a value that is outside of the range of legal values. This rule is referred",
       "options": [
-        "It defines the logical structure of the database",
-        "It provides a customized view of the data for each user",
-        "It manages the mapping between the external and conceptual levels",
-        "It handles the physical storage details of the database, such as indexing or hashing"
+        "as____________.",
+        "referential integrity",
+        "key integrity",
+        "data integrity",
+        "domain integrity"
       ],
-      "answer": "It handles the physical storage details of the database, such as indexing or hashing"
+      "answerLetter": "",
+      "answer": ""
     },
     {
       "id": "14",
-      "question": "which normal form ensures that every non-key attribute is fully functionally dependent on only the primary key?",
+      "question": "A relation in 1NF and that contains no multivalued attributes, but has *1/1 non-primary key attributes dependent on part of the primary key is in its:",
       "options": [
-        "First Normal Form (1NF)",
-        "Second Normal Form (2NF)",
-        "Third Normal Form (3NF)",
-        "Primary Normal Form (BCNF"
+        "Third NF",
+        "First NF",
+        "Second NF",
+        "Unnormalized"
       ],
-      "answer": "Third Normal Form (3NF)"
+      "answerLetter": "",
+      "answer": ""
     },
     {
       "id": "15",
-      "question": "Which SQL keyword ensures the referential integrity rule between tables?",
-      "options": [
-        "FOREIGN KEY",
-        "CONSTRAINT",
-        "INDEX",
-        "CASCADE"
-      ],
-      "answer": "FOREIGN KEY"
-    },
-    {
-      "id": "16",
-      "question": "Which of the following provides the highest level of concurrency in a database system while ensuring serializability?",
-      "options": [
-        "Read Uncommitted",
-        "Read Committed",
-        "Repeatable Read",
-        "Serializable"
-      ],
-      "answer": "Serializable"
-    },
-    {
-      "id": "17",
-      "question": "Securing data in transit falls under which level of security measures?",
-      "options": [
-        "Physical Level",
-        "Application Level",
-        "Communication Network Level",
-        "Human Level"
-      ],
-      "answer": "Communication Network Level"
-    }
-  ],
-  "Machine Learning / Data Science / Data Mining": [
-    {
-      "id": "18",
-      "question": "What do you mean by machine learning?",
-      "options": [
-        "ML is a branch of science that deals with data and the processing of data",
-        "ML is the branch of artificial intelligence that give machines the power of what a human can do",
-        "ML is the branch of artificial intelligence that only deals with computer programs to make valuable insight from thedata",
-        "ML is an autonomous acquisition of knowledge through the use of manual programs."
-      ],
-      "answer": "ML is the branch of artificial intelligence that give machines the power of what a human can do"
-    },
-    {
-      "id": "19",
-      "question": "The data Warehouse is __________.",
-      "options": [
-        "Write only",
-        "Read only",
-        "Read Write only",
-        "None"
-      ],
-      "answer": "Read only"
-    },
-    {
-      "id": "20",
-      "question": "What are the types of Machine learning?",
-      "options": [
-        "There are three types of machine learning semi-supervised, supervised, and unsupervised.",
-        "There are two types of machine learning supervised and unsupervised.",
-        "Deep Learning is the only type of machine learning",
-        "There are four types of machine learning semi-supervised, supervised, unsupervised, and reinforcement"
-      ],
-      "answer": "There are four types of machine learning semi-supervised, supervised, unsupervised, and reinforcement"
-    },
-    {
-      "id": "21",
-      "question": "Which type of machine learning is defined by using only unlabelled data to analyze the data?",
-      "options": [
-        "Unsupervised Machine learning",
-        "Supervised Machine learning",
-        "Semi-supervised Machine learning",
-        "Reinforcement Machine learning"
-      ],
-      "answer": "Unsupervised Machine learning"
-    },
-    {
-      "id": "22",
-      "question": "What are the four steps of data preparation?",
-      "options": [
-        "Data cleaning -&gt; Data reduction -&gt; Data transformation -&gt; Data integration",
-        "Data reduction -&gt; Data cleaning -&gt; Data transformation -&gt; Data integration",
-        "Data cleaning -&gt; Data reduction -&gt; Data integration -&gt; Data transformation",
-        "Data cleaning  -&gt; Datatransformation -&gt; Data reduction -&gt; Data integration",
-        "Descriptive data analysis",
-        "Diagnostic dataanalysis",
-        "Predictive data analysis",
-        "Prescriptive data analysis"
-      ],
-      "answer": "Data cleaning -&gt; Data reduction -&gt; Data integration -&gt; Data transformation"
-    },
-    {
-      "id": "23",
-      "question": "What is overfitting in machine learning?",
-      "options": [
-        "When a model performs equally wellon training and testing data",
-        "When a model has too few parameters",
-        "When a model is undertrained",
-        "When a model performs well on the training data but poorly on new, unseen data"
-      ],
-      "answer": "When a model performs well on the training data but poorly on new, unseen data"
-    },
-    {
-      "id": "24",
-      "question": "What is a data warehouse used for in data science?",
-      "options": [
-        "Performing real-time data analysis",
-        "Collecting data from external sources",
-        "Storing and managing large volumes of data",
-        "Visualizing data",
-        "Storing andmanaging large volumes of data"
-      ],
-      "answer": "Storing andmanaging large volumes of data"
-    },
-    {
-      "id": "25",
-      "question": "A 4-input neuron has weights 1, 2, 3 and 4. The transfer function is linear with the constant of proportionality being equal to 2. The inputs are 4, 10, 5 and 20 respectively. The output will be:",
-      "options": [
-        "238",
-        "6",
-        "19",
-        "123"
-      ],
-      "answer": "238"
-    }
-  ],
-  "Internet Programming": [
-    {
-      "id": "26",
-      "question": "Which is the right way of declaring a variable in PHP?",
-      "options": [
-        "a. $3hello",
-        "b. $_hello",
-        "c. $this",
-        "d. $5_Hello"
-      ],
-      "answer": "b. $_hello"
-    },
-    {
-      "id": "27",
-      "question": "What will be the output of the following PHP program? &lt;?php $fruits = array ( \"apple\" , \"orange\" , array ( \"pear\" , \"mango\" ) , \"banana\" ) ; echo ( count ( $fruits , 1 ) ) ; ?&gt;",
-      "options": [
-        "a. 6",
-        "b. 5",
-        "c. 4",
-        "d. 3"
-      ],
-      "answer": "a. 6"
-    },
-    {
-      "id": "28",
-      "question": "Which one of the following PHP function is used to determine a fileâs last access time?",
-      "options": [
-        "a.  filetime()",
-        "b. fileatime()",
-        "c. fileltime()",
-        "d. filectime()"
-      ],
-      "answer": "b. fileatime()"
-    },
-    {
-      "id": "29",
-      "question": "How many predefined variables does PHP use to authenticate a user?",
-      "options": [
-        "a. 1",
-        "b. 2",
-        "c.. 3",
-        "d. 4"
-      ],
-      "answer": "b. 2"
-    },
-    {
-      "id": "30",
-      "question": "Which of the following variables does PHP use to authenticate a user? i) $_SERVER['PHP_AUTH_USER']. ii) $_SERVER['PHP_AUTH_USERS']. iii) $_SERVER['PHP_AUTH_PU']. iv) $_SERVER['PHP_AUTH_PW'].",
-      "options": [
-        "a.  i) and ii)",
-        "b. ii) and iv)",
-        "c. i) and iv)",
-        "d. ii) and iii)"
-      ],
-      "answer": "c. i) and iv)"
-    },
-    {
-      "id": "31",
-      "question": "Which HTML tag is used to declare internal CSS?",
-      "options": [
-        "a. &lt;style&gt;",
-        "b. &lt;link&gt;",
-        "c. &lt;script&gt;",
-        "d.  None of the above"
-      ],
-      "answer": "a. &lt;style&gt;"
-    },
-    {
-      "id": "32",
-      "question": "What will be the output of the following CSS code snippet?",
-      "options": [
-        "a. All span elements will have agreen thick border and a red outline",
-        "b. All span elements will have a red border and a green dotted outline",
-        "c. All span elements will have a outer green dotted border and an inner red border",
-        "d. All span elements will have an outer red border and inner green dotted border",
-        "c. All span elementswill have a outer green dotted border and an inner red border"
-      ],
-      "answer": "c. All span elementswill have a outer green dotted border and an inner red border"
-    },
-    {
-      "id": "33",
-      "question": "Which of the following CSS Property sets the stacking order of positioned elements?",
-      "options": [
-        "a. y-index",
-        "b. z-index",
-        "c. x-index",
-        "d. all of the above"
-      ],
-      "answer": "b. z-index"
-    },
-    {
-      "id": "34",
-      "question": "How to create a checkbox in HTML?",
-      "options": [
-        "a. &lt;input type = &quot;checkbox&quot;&gt;",
-        "b. &lt;input type = &quot;button&quot;&gt;",
-        "c.  &lt;checkbox&gt;",
-        "d. &lt;input type = &quot;check&quot;&gt;"
-      ],
-      "answer": "a. &lt;input type = &quot;checkbox&quot;&gt;"
-    }
-  ],
-  "Knowledge Management": [
-    {
-      "id": "35",
-      "question": "Implementation of KM in the organization will bring _______ impact on employee *",
-      "options": [
-        "A. Knowledge creation",
-        "B. Lifelong learning",
-        "C. Customer satisfaction",
-        "D. None"
-      ],
-      "answer": "B. Lifelong learning"
-    },
-    {
-      "id": "36",
-      "question": "Organization knowledge is different from individual knowledge because it is created _______ *",
-      "options": [
-        "A. By integrating knowledge held by individuals",
-        "B. Onlyby a group of employees working together in the organization",
-        "C. By the organization but individuals has no role in it",
-        "D. All"
-      ],
-      "answer": "A. By integrating knowledge held by individuals"
-    },
-    {
-      "id": "37",
-      "question": "Which one of the following is a statement that describes the impact of KM onemployees? *",
-      "options": [
-        "A. KM facilities employees to share knowledge with one another",
-        "B. KM allows employees to be more capable to undertake new tasks",
-        "C. KM allows employees to easily access knowledge available in the organization",
-        "D. KM allows organizations to be competitive"
-      ],
-      "answer": "B. KM allows employees to be more capable to undertake new tasks"
-    },
-    {
-      "id": "38",
-      "question": "Organization culture is one of the critical factors for KM success. Desirable organization culture for KM success is *",
-      "options": [
-        "A. Culture that promotes individual competency",
-        "B. Culture that promotes knowledge hoarding to achieve competitive advantage",
-        "C. Culture that promotes innovation",
-        "D. Culture that promotes competition among employees"
-      ],
-      "answer": "C. Culture that promotes innovation"
-    },
-    {
-      "id": "39",
-      "question": "Knowledge can be used to create value for the organization. One of the following statements not correct. *",
-      "options": [
-        "A. Creating new products by applying knowledge",
-        "B. Storing knowledge in the database",
-        "C. Creating new process that is more efficient and cost effective",
-        "D. Solving novel problem which is a challenge to your organization"
-      ],
-      "answer": "B. Storing knowledge in the database"
-    },
-    {
-      "id": "40",
-      "question": "What is a key barrier to Knowledge Sharing Systems (KSS)? *",
-      "options": [
-        "A. Excessive employee motivation",
-        "B. Cultural resistance to sharing knowledge",
-        "C. Overuse of paper documents",
-        "D.Lack of sunlight in offices"
-      ],
-      "answer": "B. Cultural resistance to sharing knowledge"
-    },
-    {
-      "id": "41",
-      "question": "One of the following solutions is more appropriate to promote tacit knowledge sharing *",
-      "options": [
-        "A. Creating strong social bond so as to build trust among people",
-        "B. Creatinga repository that make knowledge easily accessible",
-        "C. Creating a knowledge based system",
-        "D. Discouraging  reward system"
-      ],
-      "answer": "A. Creating strong social bond so as to build trust among people"
-    },
-    {
-      "id": "42",
-      "question": "The SECI modelâs \"Socialization\" phase involves: *",
-      "options": [
-        "A. Converting explicit knowledge into databases",
-        "B. Using AI to predict trends",
-        "C. Sharing tacit knowledge through direct interaction",
-        "D. Deleting outdated files"
-      ],
-      "answer": "C. Sharing tacit knowledge through direct interaction"
-    },
-    {
-      "id": "43",
-      "question": "What is the primary purpose of Knowledge Capture Systems *",
-      "options": [
-        "A. To replace human employees with AI",
-        "B. To reduce internet usage in organizations",
-        "C. To replace human employees with AI",
-        "D. To preserve and formalize knowledge for future use"
-      ],
-      "answer": "D. To preserve and formalize knowledge for future use"
-    }
-  ],
-  "Multimedia Systems": [
-    {
-      "id": "44",
-      "question": "Which one ofthe following is not the basic characteristics of a Multimedia system? *",
-      "options": [
-        "Multimedia systems must be computer controlled",
-        "Multimedia systems are integrated.",
-        "The multimedia data must be digitally represented",
-        "The system workson compressed data",
-        "The system works on compressed data"
-      ],
-      "answer": "The system works on compressed data"
-    },
-    {
-      "id": "45",
-      "question": "One of the following does not affect the quality and naturalness of the image during the conversion process from analog signal to digital media? *",
-      "options": [
-        "Quantization",
-        "Compression",
-        "Sampling",
-        "Searching"
-      ],
-      "answer": "Sampling"
-    },
-    {
-      "id": "46",
-      "question": "Multimedia information retrieval system is required for _____________. *",
-      "options": [
-        "Enabling media access to Internet",
-        "Creating multimedia documents",
-        "Integration of distinct media",
-        "Identifying relevant documents"
-      ],
-      "answer": "Identifying relevant documents"
-    },
-    {
-      "id": "47",
-      "question": "Animated picture of a sports personâs image is collected from a web page for inclusion ina multimedia production. Which format is it likely to be in? *",
-      "options": [
-        "GIF",
-        "WAV",
-        "JPEG",
-        "MPEG"
-      ],
-      "answer": "GIF"
-    },
-    {
-      "id": "48",
-      "question": "By compressing the string âMISISIPPIâ using Huffman encoding, which symbol is assigned the smallest binary digit codeword? *",
-      "options": [
-        "M",
-        "I",
-        "S",
-        "P"
-      ],
-      "answer": "I"
-    },
-    {
-      "id": "49",
-      "question": "All of the following file formats are examples of lossless compression technique, except _________. *",
-      "options": [
-        "MOV and GIF",
-        "MPEG and AVI",
-        "WAV and JPEG",
-        "BMP and PNG"
-      ],
-      "answer": "BMP and PNG"
-    },
-    {
-      "id": "50",
-      "question": "Which of the following is true about images? *",
-      "options": [
-        "16 gray levels can be represented in a gray scale image having a bit depthof 8",
-        "A binary image has a bit depth of 2.",
-        "An image is a 2-dimentional representation of a 3-dimention reality",
-        "In an RGB colourimage, each colour cannot be represented by a separate bit-depth"
-      ],
-      "answer": "An image is a 2-dimentional representation of a 3-dimention reality"
-    },
-    {
-      "id": "51",
-      "question": "The reason for the increase in storage capacity from CDs to DVDs is ___________. *",
-      "options": [
-        "Use of a larger disk",
-        "Use of fast DVD reader",
-        "Use of a smaller wavelength light",
-        "The use of pit and landings"
-      ],
-      "answer": "Use of a smaller wavelength light"
-    },
-    {
-      "id": "52",
-      "question": "Thetwo major subsystems of an IR system are __________ and _____________. *",
-      "options": [
-        "Searching and Indexing",
-        "Searching and Browsing",
-        "Inverted file and Vocabulary list",
-        "Logical and Physical view of data"
-      ],
-      "answer": "Searching and Indexing"
-    }
-  ],
-  "Systems Analysis and Design": [
-    {
-      "id": "53",
-      "question": "Which ofthe following alternative (to conventional structured and object oriented) development approaches is focused on capturing requirements on concrete rather than abstract/verbal forms? *",
-      "options": [
-        "A.   Rapid Application development (RAD)",
-        "B.     Prototyping",
-        "C. Participatory Design",
-        "D.    Agile Methods"
-      ],
-      "answer": "B.     Prototyping"
-    },
-    {
-      "id": "54",
-      "question": "Which type system maintenance is concerned with safeguarding the system from potential future adversaries? *",
-      "options": [
-        "A.    Adaptive",
-        "B.     Perfective",
-        "C.     Preventive",
-        "D.    Corrective"
-      ],
-      "answer": "C.     Preventive"
-    },
-    {
-      "id": "55",
-      "question": "A deliverable is *",
-      "options": [
-        "A.  A defined work with clear beginning and end dates",
-        "B.     A Tangible and verifiable product of work",
-        "C.     A hierarchical breakdown of project activities",
-        "D.    None of the above"
-      ],
-      "answer": "B.     A Tangible and verifiable product of work"
-    },
-    {
-      "id": "56",
-      "question": "One of the following statements is NOT in violation of the rules ofa DFD as process model *",
-      "options": [
-        "A.    A source can directly send data files to sink",
-        "B.     A dataflow can have bidirectional information flow",
-        "C.     Data cannot move directly from one data storeto another data store",
-        "D.    A data flow can go directly back to the same process it left"
-      ],
-      "answer": "C.     Data cannot move directly from one data storeto another data store"
-    },
-    {
-      "id": "57",
-      "question": "A decision tables *",
-      "options": [
-        "A.    Gets an accurate pictureof a system",
-        "B.     Shows the decision paths",
-        "C.     Represents the information flow",
-        "D.    Documents rules that select one or more actions based on one or more conditions from a set of alternatives",
-        "A.    The whole is the same as the sum of the parts due to the objective of each component",
-        "B.     The whole is more than the sum of the parts because of synergy among the components",
-        "C.     systems thinking provides the ability to see organizations as systems.",
-        "D.    None of the above"
-      ],
-      "answer": "A.    The whole is the same as the sum of the parts due to the objective of each component"
-    },
-    {
-      "id": "58",
-      "question": "Which of the following is WRONG about a system use case *",
-      "options": [
-        "A.    Reference to business rules is allowed",
-        "B.     Reference to UI and Screen elements are allowed",
-        "C.     Inclusion and extension relationships between use cases are permissible",
-        "D.    There should be at least one alternate scenario"
-      ],
-      "answer": "D.    There should be at least one alternate scenario"
-    },
-    {
-      "id": "59",
-      "question": "One of the following is an INCORRECT characterization and/or association of UX (User Experience) design *",
-      "options": [
-        "A.    Ease of use and customer satisfaction.",
-        "B.     Feel and Look Design.",
-        "C.     Optimization ofuser-system interaction",
-        "D.    User task/goal analysis"
-      ],
-      "answer": "B.     Feel and Look Design."
-    },
-    {
-      "id": "60",
-      "question": "Whenyou provide a proxy interface class that facilitates access to internal component services, the design pattern you have applied is most likely __________? *",
-      "options": [
-        "A.    Creational",
-        "B.     Behavioral",
-        "C.     Structural",
-        "D.    None of the above"
-      ],
-      "answer": "C.     Structural"
-    }
-  ],
-  "IS Project Management": [
-    {
-      "id": "61",
-      "question": "A project can be defined as *",
-      "options": [
-        "a set of sequential activities performed in a process or system.",
-        "a revenue generating activity that needs to be accomplished while achieving customer satisfaction.",
-        "an ongoing endeavour undertaken to meet customer or market requirements.",
-        "a temporary endeavour undertaken to create a unique product, service or result.",
-        "All are possible answers"
-      ],
-      "answer": "a temporary endeavour undertaken to create a unique product, service or result."
-    },
-    {
-      "id": "62",
-      "question": "What is the main goal of project cost management? *",
-      "options": [
-        "to complete a project for as little cost as possible",
-        "to complete a project within an approved budget",
-        "to provide truthful and accurate cost information on projects",
-        "to ensure that an organizationâs money is used wisely",
-        "to distribute the projectbudget equally throughout the project"
-      ],
-      "answer": "to complete a project within an approved budget"
-    },
-    {
-      "id": "63",
-      "question": "Which reserve allows for future situations that are unpredictable? *",
-      "options": [
-        "Contingency reserve",
-        "Financial reserve",
-        "Management reserve",
-        "Baseline reserve",
-        "Safety net reserve"
-      ],
-      "answer": "Management reserve"
-    },
-    {
-      "id": "64",
-      "question": "Which statement is false about agile project life cycle methodologies? *",
-      "options": [
-        "They divide tasks into small deliverables that can be completedin a short time frame.",
-        "They use a step-by-step process where one task is completed followed by another.",
-        "They are used primarily in the software development industry but can be applied across other industry areas.",
-        "They allow the project team to quickly adapt to new requirements and receive continuous feedback",
-        "All statements correctly characterize agile projectmanagement.",
-        "All statements correctly characterize agile project management."
-      ],
-      "answer": "All statements correctly characterize agile project management."
-    },
-    {
-      "id": "65",
-      "question": "The project manager has the highest level of independence and authority in a ____________ organization.",
-      "options": [
-        "Strong matrix",
-        "weak matrix",
-        "projectized",
-        "functional",
-        "geographical"
-      ],
-      "answer": "projectized"
-    },
-    {
-      "id": "66",
-      "question": "The initiating project management process group consists of the processes that",
-      "options": [
-        "deploy risk mitigation strategies.",
-        "facilitate the formal authorization to start a new project or a project phase.",
-        "establish and describe the need for a project selection process.",
-        "approve the market analysis to ensure resolution of projectdisputes.",
-        "None of the above"
-      ],
-      "answer": "facilitate the formal authorization to start a new project or a project phase."
-    },
-    {
-      "id": "67",
-      "question": "The document that recognizes the existence of the project is called:",
-      "options": [
-        "The Project Charter",
-        "the project assignment",
-        "the statement of work",
-        "the product description",
-        "the project management plan"
-      ],
-      "answer": "The Project Charter"
-    },
-    {
-      "id": "68",
-      "question": "Which logical relationship does the precedence diagramming method use most often?",
-      "options": [
-        "Start-to-finish",
-        "Start-to-start",
-        "Finish-to-finish",
-        "Finish-to-start",
-        "All are used equally"
-      ],
-      "answer": "Finish-to-start"
-    },
-    {
-      "id": "69",
-      "question": "As a project manager, you have decided to contract with a software company that specializes in customizing software programs. Which contract type do you prefer if you want to minimize the risk for your own organization?",
-      "options": [
-        "Costplus percentage of cost",
-        "Cost plusfixed fee",
-        "Firm-fixed price",
-        "Cost plus incentive fee",
-        "Time and material cost"
-      ],
-      "answer": "Firm-fixed price"
-    }
-  ],
-  "Information Retrieval": [
-    {
-      "id": "70",
-      "question": "1) The process of removing most common words (and, or, the, etc.) by an information retrieval system before indexing is known as *",
-      "options": [
-        "Lemmatization",
-        "Stop word removal",
-        "Normalization",
-        "Inverted indexing"
-      ],
-      "answer": "Stop word removal"
-    },
-    {
-      "id": "71",
-      "question": "2) Which of the following use the term 'AND' , 'OR' and 'NOT' ? *",
-      "options": [
-        "Phrase Search",
-        "Truncation Search",
-        "Boolean Search",
-        "Proximity Search"
-      ],
-      "answer": "Boolean Search"
-    },
-    {
-      "id": "72",
-      "question": "3)What affects effective retrieval of information?",
-      "options": [
-        "the user task alone",
-        "logical view of documents",
-        "the user task and the logical view of the documents",
-        "the user logical view"
-      ],
-      "answer": "the user task and the logical view of the documents"
-    },
-    {
-      "id": "73",
-      "question": "4)A group of related documents against which information retrieval is employed is called?",
-      "options": [
-        "Corpus",
-        "Text Database",
-        "Index Collection",
-        "Repository"
-      ],
-      "answer": "Corpus"
-    },
-    {
-      "id": "74",
-      "question": "5)The task whose main objectives are notclearly defined in the beginning and whose purpose might change during the interaction?",
-      "options": [
-        "Searching",
-        "Retrieval",
-        "Browsing",
-        "Sorting"
-      ],
-      "answer": "Browsing"
-    },
-    {
-      "id": "75",
-      "question": "6) Which of the following is correct search statement for \"Select all items that discuss software and not storage or hardware in the item\"?",
-      "options": [
-        "SOFTWARE OR (STORAGE NOT HARDWARE)",
-        "SOFTWARE OR STORAGE NOT HARDWARE",
-        "SOFTWARE AND NOT STORAGE OR HARDWARE",
-        "SOFTWARE OR NOT STORAGE AND HARDWARE"
-      ],
-      "answer": "SOFTWARE AND NOT STORAGE OR HARDWARE"
-    },
-    {
-      "id": "76",
-      "question": "7) _______ is directly affected by retrieval of non-relevant items and drops to a number close to zero.",
-      "options": [
-        "Precision",
-        "Recall",
-        "Both a and b",
-        "None of the above"
-      ],
-      "answer": "Precision"
-    },
-    {
-      "id": "77",
-      "question": "8) In information retrieval the term ârelevantâ is used to represent an item *",
-      "options": [
-        "Exactly match information needed",
-        "partially matches information needed",
-        "both a and b",
-        "None of the above"
-      ],
-      "answer": "both a and b"
-    },
-    {
-      "id": "78",
-      "question": "9) The purpose of the inverse document frequency is to increase the weight of terms with high collection frequency.",
-      "options": [
-        "True",
-        "False"
-      ],
-      "answer": "False"
+      "question": "If a set of attributes, K, in relation table R is a foreign key on the table *1/1 R, then:_____",
+      "options": [
+        "K cannot assume a value of NULL in R",
+        "Every non-null value of K, appearing in relation R, must also occur as a value for",
+        "K in S.",
+        "K is unique in R",
+        "There is another relation schema (say S) with the attributes K where K is a foreign",
+        "key for S"
+      ],
+      "answerLetter": "",
+      "answer": ""
     }
   ],
   "Computer Programming": [
     {
-      "id": "79",
-      "question": "One of the following create a variable named myAge and assign the value 20 to it. *",
+      "id": "1",
+      "question": "What is the output of the following code fragment? * char fullName[20]= {\"Zemzem\"}; char name[20] = {\"Ashenafi\"}; cout<<strcpy(fullName, name);",
       "options": [
-        "int myAge;",
-        "float myAge=21;",
-        "int myAge=21;",
-        "int myAge 21"
+        "Zemzem",
+        "Ashenafi",
+        "AshenafiZemzem",
+        "ZemzemAshenafi"
       ],
-      "answer": "int myAge=21;"
+      "answerLetter": "",
+      "answer": ""
     },
     {
-      "id": "80",
-      "question": "What is the output of cout&lt;&lt;emp1.emp_address.kketema; *",
+      "id": "2",
+      "question": "What is the output of cout<<emp1.emp_address.kketema; * 1/1",
       "options": [
         "Nebiat",
-        "Lemi Kura",
+        "Arada",
         "06",
-        "Arada"
+        "Yeka"
       ],
-      "answer": "Lemi Kura"
+      "answerLetter": "",
+      "answer": ""
     },
     {
-      "id": "81",
-      "question": "Which of the following is incorrect ? *",
+      "id": "3",
+      "question": "Which of the following is incorrect? *",
       "options": [
-        "int price[4] = {18, 46, 74, 98};",
+        "int price[5] = {5, 18, 0, 14, 34};",
         "double score[10]; the declared size of the array is 10",
-        "int a[3] = {2}; for(int b=0; b&lt;=3; b++) ; cout&lt;&lt;a[b];",
-        "float b[3] = {5.3, 6.7, 4.3}; b[1] = b[0]-1; the value of b[2] is same asb[2]"
+        "float b[3] = {2.1, 3.4, 5.0}; b[2] = b[0]; the value of cout<<b[2]; is 2.1",
+        "int a[3] = {2}; for(int b=0; b<=3; b++) ;",
+        "complete and run correctly."
       ],
-      "answer": "int a[3] = {2}; for(int b=0; b&lt;=3; b++) ; cout&lt;&lt;a[b];"
+      "answerLetter": "",
+      "answer": ""
     },
     {
-      "id": "82",
-      "question": "Given: int *p, *q; int a, b; q=&amp;a, a = 9; b = a; p = &amp;b; whichof the following statement is not appropriate to change the value of a to 11 ? *",
+      "id": "4",
+      "question": "What is the output of line 8? * 1/1",
       "options": [
-        "*a = 11;",
-        "b = 11;",
-        "*q = 11;",
-        "*p = 11;"
+        "0",
+        "15",
+        "20",
+        "null"
       ],
-      "answer": "*q = 11;"
+      "answerLetter": "",
+      "answer": ""
     },
     {
-      "id": "83",
-      "question": "Which statement can be used to print mango ? *",
+      "id": "5",
+      "question": "Given void *ptr; which of the following is illegal in C++? *",
       "options": [
-        "cout&lt;&lt;fruits[2][1];",
-        "cout&lt;&lt;fruits[0]",
-        "cout&lt;&lt;fruits[1][1];",
-        "cout&lt;&lt;fruits[1];"
+        "int x; ptr = &x;",
+        "float y; ptr = &y;",
+        "cout<<*ptr;",
+        "cout<<&ptr;",
+        "Option 5"
       ],
-      "answer": "cout&lt;&lt;fruits[1];"
+      "answerLetter": "",
+      "answer": ""
     },
     {
-      "id": "84",
-      "question": "What is the output of the second call to foo( ) function in the main function? void foo(){ int n=5; static int m; m+=3; n *=2; cout&lt;&lt;\"N: \"&lt;&lt;n&lt;&lt;\"M: \"&lt;&lt;m&lt;&lt;endl;} int main (){ foo(); foo(); } *",
+      "id": "6",
+      "question": "Which of the following is a properly defined structure? * 0/1 struct {int a;}",
       "options": [
-        "N: 10 M: 3",
-        "N: 20 M: 6",
-        "N: 10 M: 6",
-        "N: 5   M: 3"
+        "struct test_struct {int a;}",
+        "struct test_struct int a;",
+        "struct test_struct {int a;};"
       ],
-      "answer": "N: 10 M: 6"
+      "answerLetter": "",
+      "answer": "struct test_struct {int a;};"
     },
     {
-      "id": "85",
-      "question": "What is the output of the following code fragment? #include&lt;iostream&gt; int main(){ int ar1[2][2]={3,4,5,6}; int ar2[2][2]={3,4,5,6}; matrix_multiplication(ar1, ar2); return 0; } void matrix_product(int ar1[2][2], int ar2[2][2]) { int temp=0; for(int x=0;x&lt;2;x++) { for(inta=0;a&lt;2;a++) { temp = 0; for(int b=0;b&lt;2;b++) temp +ar1[x][b]*ar2[b][a]; cout&lt;&lt;temp&lt;&lt;\" \"; } } } *",
+      "id": "7",
+      "question": "Which of the following is true about the name of a variable/identity? * 0/1",
       "options": [
-        "29 36 45 56",
-        "36 45 56 29",
-        "29 56 36 45",
-        "56 29 36 45"
+        "Keywords/reserved words can be used as variable names",
+        "A variable name can start with a number",
+        "An underscore can be a variable name",
+        "Using descriptive names for variable names doesn’t add any value to the clarity and",
+        "understandability of a program"
       ],
-      "answer": "29 36 45 56"
+      "answerLetter": "",
+      "answer": ""
     },
     {
-      "id": "86",
-      "question": "Which of the following is incorrect about the variable name? *",
+      "id": "8",
+      "question": "Which one of the following is the correct output of the first cout *0/1 statement in the following program? #include <iostream> using namespace std; int main() { int x=20;",
       "options": [
-        "Keywords words can be used as variable names",
-        "A variable name can start with alphabetic character or underscore",
-        "A variable name can't have space as part of its name",
-        "Using descriptive names for variable names add clarity and understandability of a variable"
+        "x+=5;",
+        "x=x-5;",
+        "x++;",
+        "cout<<x++;",
+        "cout<<--x;",
+        "return 0;",
+        "}",
+        "19",
+        "20",
+        "21",
+        "22"
       ],
-      "answer": "Keywords words can be used as variable names"
+      "answerLetter": "",
+      "answer": "21"
+    },
+    {
+      "id": "9",
+      "question": "If a function has a call-by-reference parameter, which of the following will be the correct argument in a call to the function?",
+      "options": [
+        "A constant value",
+        "An expression that will be resolved to some value",
+        "A variable.",
+        "No value."
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "10",
+      "question": "If a function has this parameter (int *a), all of the following will be correct except: *1/1",
+      "options": [
+        "A change made through “*a” affects the variable in the calling function.",
+        "The argument in a call to this function can just be the name of an ordinary",
+        "variable.",
+        "Dereferencing ‘a’ is necessary to change the value of the memory that the variable",
+        "‘a’ points to.",
+        "The function cannot be called with a constant value as an argument."
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "11",
+      "question": "Which one is the correct output of the following program? * #include <iostream> using namespace std; int main() { float mark=70.0; char grade_letter; if(mark>=90 && mark<=100) { grade_letter='A'; cout<<grade_letter; } else if(mark>=70 && mark<90) { grade_letter='B'; cout<<grade_letter; } else if(mark>=50 && mark<=70) { grade_letter='C'; cout<<grade_letter; } else { grade_letter='F'; 1/1 cout<<grade_letter; } return 0; }",
+      "options": [
+        "C",
+        "A",
+        "B",
+        "F"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "12",
+      "question": "The result of the following program is_____. * #include <iostream> using namespace std; int main() { for(int i=0;i<5;i++) { for(int j=i;j<5-i;j++) { cout<<j+i; } cout<<endl; } return 0;",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "13",
+      "question": "Which one is the correct output of the program given below? * #include <iostream> using namespace std; int main() { int i=5; do { i+=100; cout<<i<<\" \"; } while(i<5); return 0; }",
+      "options": [
+        "100",
+        "105",
+        "5 100",
+        "5",
+        "…",
+        "if(!myfile)",
+        "else"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "14",
+      "question": "Which line of code writes content onto the file sample.txt? *",
+      "options": [
+        "myfile<<\"Abel Mesfin\";",
+        "myfile>>\" John Alex \";",
+        "myfile<<\"Meron Kassa\"",
+        "myfile<<Abebe Solomon;"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "15",
+      "question": "Assuming there is a statement myfile.close(); immediately after the write to the file above, what is the purpose of the line of code *1/1 myfile.close()?",
+      "options": [
+        "It detaches the file pointer object myfile from the sample.txt file",
+        "It releases any resources being used by the program",
+        "It updates the file size of sample.txt accordingly",
+        "All of the above"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    }
+  ],
+  "Data Communication and Computer Networks": [
+    {
+      "id": "1",
+      "question": "Which of the following is not a component of a computer network? *",
+      "options": [
+        "Network cable",
+        "Operating system",
+        "Network device",
+        "None of the above"
+      ],
+      "answerLetter": "",
+      "answer": "None of the above"
+    },
+    {
+      "id": "2",
+      "question": "Which of the following is a form of signal that is transmitted through optical fiber? *1/1",
+      "options": [
+        "Light",
+        "Mechanical",
+        "Electric",
+        "Radio wave"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "3",
+      "question": "Which network category includes wi-fi? * 1/1",
+      "options": [
+        "Wireless LAN",
+        "Wired LAN",
+        "Wireless WAN",
+        "Wired WAN"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "4",
+      "question": "The transport protocol that is used to create end-to-end communication with acknowledgement is",
+      "options": [
+        "TCP",
+        "UDP",
+        "IP",
+        "DNS"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "5",
+      "question": "Which of the following network device works at physical layer? * 1/1",
+      "options": [
+        "Router",
+        "Hub",
+        "Switch",
+        "Bridge"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "6",
+      "question": "The command used to know the IP address of servers over the internet *1/1 ping",
+      "options": [
+        "netstat",
+        "nslookup",
+        "tracert"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "7",
+      "question": "Which of the following does not use tcp as transport protocol? *",
+      "options": [
+        "http",
+        "smtp",
+        "ftp",
+        "snmp"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "8",
+      "question": "Which of the following is not a media access control method? * 1/1",
+      "options": [
+        "Token passing",
+        "CSMA/CD",
+        "CSMA/CA",
+        "Microwave"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "9",
+      "question": "Which access method is used by the GSM network? * 1/1",
+      "options": [
+        "CDMA",
+        "FDMA",
+        "TDMA",
+        "SDMA"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "10",
+      "question": "Pick the true statement *",
+      "options": [
+        "Ethernet is a protocol that works at the data link layer",
+        "DHCP helps to map domain names with IP",
+        "Manchester encoding techniques work to encode data from application layer to",
+        "transport layer",
+        "SSH is used to compress data to transport from one network to another"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "11",
+      "question": "Which of the following is not true about IP address? * 1/1",
+      "options": [
+        "Class E IP addresses can be assigned as IP addresses for computers in",
+        "networks",
+        "The total number of IP addresses in Class A is greater than that of class B",
+        "88.88.88.88 is a class A IP address",
+        "One can know Class B addresses if the numbers in the first octet are between 128",
+        "and 191"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "12",
+      "question": "Which of the following IP address belongs to class D? * 1/1",
+      "options": [
+        "100.100.100.100",
+        "192.68.0.0",
+        "223.255.255.255",
+        "None of the above"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "13",
+      "question": "An ARP query packet is encapsulated in *",
+      "options": [
+        "An IP datagram",
+        "A data link layer frame addressed to a specific adapter (NIC)",
+        "A data link layer broadcast frame",
+        "A data link layer multicast frame"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "14",
+      "question": "Which of the following protocol information is not found in the IP Packet? *0/1",
+      "options": [
+        "Destination IP Address",
+        "Source IP Address",
+        "Time To Leave",
+        "None of the above"
+      ],
+      "answerLetter": "",
+      "answer": "None of the above"
+    },
+    {
+      "id": "15",
+      "question": "A NIC of a computer has been assigned an IP address of *1/1",
+      "options": [
+        "130.31.128.60 with a mask of 255.255.255.224. To which subnet does",
+        "the IP address belong?",
+        "130.31.128.0",
+        "130.31.192.128",
+        "130.31.192.64",
+        "130.31.192.32"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    }
+  ],
+  "Information Systems Project Management": [
+    {
+      "id": "1",
+      "question": "The five project management process groups are: * 1/1 initiating, planning, executing, monitoring & controlling, and closing.",
+      "options": [
+        "planning, checking, directing, monitoring, and recording.",
+        "initiating, executing, monitoring, evaluating, and closing.",
+        "planning, executing, directing, closing, and delivering."
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "2",
+      "question": "A project can be defined as: *",
+      "options": [
+        "a set of sequential activities performed in a process or system.",
+        "a revenue generating activity that needs to be accomplished while achieving",
+        "customer satisfaction.",
+        "a temporary endeavour undertaken to create a unique product, service or result.",
+        "an ongoing endeavour undertaken to meet customer or market requirements."
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "3",
+      "question": "A project manager for a software project is well regarded by people in *0/1 her company for her programming skills. She has a good reputation",
+      "options": [
+        "among the senior managers as well as the employees under her",
+        "supervision. Which best describes the power the project manager is",
+        "exerting?",
+        "Reward power",
+        "Expert power",
+        "Referent power",
+        "Punishment power"
+      ],
+      "answerLetter": "",
+      "answer": "Expert power"
+    },
+    {
+      "id": "4",
+      "question": "Much of a project manager’s time is spent: *",
+      "options": [
+        "managing procurements",
+        "managing communications",
+        "managing quality",
+        "evaluating risks"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "5",
+      "question": "In sequencing activities using the precedence diagramming method which of the logical relationships is most frequently used? *1/1",
+      "options": [
+        "Start-to-start",
+        "Start-to-finish",
+        "Finish-to-finish",
+        "Finish-to-start"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "6",
+      "question": "In understanding the project environment, all of the following are true *1/1 except:",
+      "options": [
+        "projects are planned or implemented in a social, economic, and environmental",
+        "context.",
+        "projects may have intended positive and/or negative impacts.",
+        "projects may have unintended positive and/or negative impacts.",
+        "the project team should rarely consider the political and physical environmental",
+        "contexts of the project."
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "7",
+      "question": "The project manager has the highest level of independence and authority in a ____________ organization.",
+      "options": [
+        "strong matrix",
+        "weak matrix",
+        "projectized",
+        "functional"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "8",
+      "question": "A project manager has just become the manager of a project. The *1/1 document that recognizes the existence of the project is called:",
+      "options": [
+        "the project charter",
+        "the project assignment",
+        "the statement of work",
+        "the project management plan"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "9",
+      "question": "What is the main goal of project cost management? * 1/1 to complete a project for as little cost as possible",
+      "options": [
+        "to complete a project within an approved budget",
+        "to provide truthful and accurate cost information on projects",
+        "to distribute the project budget equally throughout the project"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "10",
+      "question": "Strategies typically used to deal with threats or risks that may have negative impacts on project objectives if they occur include all of the following EXCEPT:",
+      "options": [
+        "avoid",
+        "transfer",
+        "mitigate",
+        "interpret"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "11",
+      "question": "A project cost that can never be fully retrieved (returned) is: * 1/1 tangible cost",
+      "options": [
+        "sunk Cost",
+        "indirect Cost",
+        "intangible cost"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "12",
+      "question": "Who has overall responsibility for quality planning? * 1/1 project manager",
+      "options": [
+        "quality manager",
+        "senior management",
+        "project planner"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "13",
+      "question": "A matrix that maps persons to tasks in the work breakdown structure *1/1 is called",
+      "options": [
+        "Work breakdown structure",
+        "Stakeholder register",
+        "Resource histogram",
+        "Responsibility assignment matrix"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "14",
+      "question": "You are the project manager for a technical implementation project. *1/1 The customer has requested that you include the after-the-project costs, such as maintenance and service. This is an example of which one of the following.",
+      "options": [
+        "Scope creep",
+        "Project spin off",
+        "Life cycle costs",
+        "Critical Path"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "15",
+      "question": "Which of the following is most true about quality? * 1/1",
+      "options": [
+        "It will cost more money to build quality into the project.",
+        "It will cost less money to build quality into the project process.",
+        "Quality is inspection driven.",
+        "High cost means high quality."
+      ],
+      "answerLetter": "",
+      "answer": ""
+    }
+  ],
+  "Fundamentals of Artificial Intelligence": [
+    {
+      "id": "1",
+      "question": "The term Artificial Intelligence was coined by ____________ in ______________.",
+      "options": [
+        "A. Alan Turing, 1956",
+        "B. John McCarthy, 1956",
+        "C. Alan Turing, 1950",
+        "D. John McCarthy, 1950"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "2",
+      "question": "Which one of the following describes Artificial Intelligent? * 1/1",
+      "options": [
+        "A. It is a science that enables us to create a machine that does everything.",
+        "B. It is about programming a machine with your own Intelligence.",
+        "C. It aims at creating machines that perform tasks that require intelligence.",
+        "D. None"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "3",
+      "question": "The following are the key characteristics of an intelligent system except *1/1",
+      "options": [
+        "A. Use vast amount of knowledge.",
+        "B. Learn from experience and adapt to changing environment.",
+        "C. They know the outcome of their action.",
+        "D. Tolerate error and ambiguity in communication.",
+        "E. Interact with human using natural language and speech."
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "4",
+      "question": "Suppose you are asked to design an agent that acts on the basis of condition-action rules and internal state, besides the current percept. What type of agent do you design?",
+      "options": [
+        "A. Simple reflex agent",
+        "B. Goal-based agent",
+        "C. Model-based reflex agent",
+        "D. Learning agent"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "5",
+      "question": "In which one of the following problem types the agent has no *1/1 knowledge of what its actions do and about the environment?",
+      "options": [
+        "A. Single State problem",
+        "B. Contingency problem",
+        "C. Multi- State problem",
+        "D. Exploration problem"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "6",
+      "question": "One of the following is true about constraint satisfaction problem. *",
+      "options": [
+        "A. A state is represented by variables and values for each variables.",
+        "B. A solution is a sequence of actions.",
+        "C. A state is considered as atomic indivisible.",
+        "D. A solution is a complete assignment."
+      ],
+      "answerLetter": "",
+      "answer": "A. A state is represented by variables and values for each variables."
+    },
+    {
+      "id": "7",
+      "question": "Suppose you are asked to implement a search algorithm for a *0/1 particular problem. Your boss told you that your search algorithm need to",
+      "options": [
+        "return only the final or the goal state. Which class of search algorithm will",
+        "you use?",
+        "A. Uninformed Search Algorithms",
+        "B. Iterative Improvement search algorithms",
+        "C. Informed Search Algorithms",
+        "D. Local Search Algorithms",
+        "E. B and D",
+        "F. A and C"
+      ],
+      "answerLetter": "",
+      "answer": "E. B and D"
+    },
+    {
+      "id": "8",
+      "question": "One of the following is not true about Hill-Climbing search algorithm. *",
+      "options": [
+        "A. It is a local search algorithm.",
+        "B. It considers a state space as a graph.",
+        "C. It stops searching when no neighbour has higher value than the current state.",
+        "D. It has low memory requirement."
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "9",
+      "question": "Which data structure is best to implement Depth First Search? * 1/1",
+      "options": [
+        "A. Stack",
+        "B. Priority queue",
+        "C. Queue",
+        "D. All"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "10",
+      "question": "Which of the following is not the property or requirement of knowledge representation languages? *1/1",
+      "options": [
+        "A. Inferencial adquecy",
+        "B. Understandablity",
+        "C. Representational adquecy",
+        "D. Representational verification"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "11",
+      "question": "Which one of the following is a knowledge representation language? * 1/1",
+      "options": [
+        "A. Propositional Logic",
+        "B. Semantic network",
+        "C.Production rules",
+        "D. All",
+        "E. None"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "12",
+      "question": "Which one of the following First Order Logic sentence represents the *1/1 statement \"All cats like milk\"?",
+      "options": [
+        "A. ∀c Cat(c)⇒likes(c,milk)",
+        "B. ∀c Cat(c) Λ likes(c,milk)",
+        "C. ∀c likes(c,milk) Λ Cat(c)",
+        "D. ∀c likes(c,milk) ⇒ Cat(c)"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "13",
+      "question": "The component/s of an Expert system is/are_________. * 1/1",
+      "options": [
+        "A. Knowledge base",
+        "B. User Interface",
+        "C. Inference Engine",
+        "D. All",
+        "E. None"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "14",
+      "question": "______________ learning algorithm uses explicit input-output feedback. * 1/1",
+      "options": [
+        "A. Unsupervised learning",
+        "B. Supervised learning",
+        "C. Reinforcement learning",
+        "D. Semi-supervised learning"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "15",
+      "question": "A decision tree learning algorithm: * 0/1",
+      "options": [
+        "A. is an unsupervised learning algorithm.",
+        "B. selects an attribute with the lowest disorder or entropy for spliting the data.",
+        "C. selects an attribute with the highest information gain for spliting the data.",
+        "D. All",
+        "E. B and C"
+      ],
+      "answerLetter": "",
+      "answer": "E. B and C"
+    }
+  ],
+  "Systems Analysis and Design": [
+    {
+      "id": "1",
+      "question": "In Relational Data Modeling, which of the following is false *",
+      "options": [
+        "A. The goal of normalization is to produce well-structured relations while the goal",
+        "of denormalization is more of performance",
+        "B. “Entries in cells are simple” in relational data model means that at the",
+        "intersection of a column and a row there should be a single value",
+        "C. Any relation with single attribute forming the primary key is already in third",
+        "normal form.",
+        "D. Eliminating partial dependency is the target of second normal form."
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "2",
+      "question": "Referring to the following ER-Diagram, which of the following statements are false?",
+      "options": [
+        "A. There is a recursive relationship.",
+        "B. All tuples of the lease entity must have corresponding matching records from",
+        "Client entity.",
+        "C. Staff is a weak entity.",
+        "D. The \" 0...1\" multiplicity indicates an optional participation."
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "3",
+      "question": "Referring to the ER-diagram in question number 2, which one of the *1/1 statements is TRUE?",
+      "options": [
+        "A. A branch registers exactly one client.",
+        "B. A client must hold a lease for a property.",
+        "C. A property for lease can be owned by more than one owner.",
+        "D. A staff may or may not manage a branch."
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "4",
+      "question": "The logic of processes in a DFD can be expressed by of all of the following except?",
+      "options": [
+        "A. Decision Tree",
+        "B. Primitive DFD",
+        "C. Decision Table",
+        "D. Structured English"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "5",
+      "question": "Given the following picture, which type of installation is implied by it * 1/1",
+      "options": [
+        "A. Direct",
+        "B. Parallel",
+        "C. Phased",
+        "D. Single Location (Pilot)"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "6",
+      "question": "In software project management, a deliverable is *",
+      "options": [
+        "A. A defined work with clear beginning and end dates",
+        "B. A Tangible and verifiable product of work",
+        "C. A hierarchical breakdown of project activities",
+        "D. None of the above"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "7",
+      "question": "Which of the following type of Alpha Testing is about testing the system to see if the system withstands an attempt to break it down? *1/1",
+      "options": [
+        "A. Security testing",
+        "B. Recovery testing",
+        "C. Performance testing",
+        "D. Stress Testing"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "8",
+      "question": "________ is a collection of artefacts, including your use case model, user interface, domain model, change cases model, and supplementary specifications that describe the requirements for a system.",
+      "options": [
+        "A. Requirements Model.",
+        "B. Use Case modeling.",
+        "C. Class Diagram.",
+        "D. Use Case Description.",
+        "A professor in the university offers courses. At the end of each semester, *1/1",
+        "he/she is responsible to submit grade to a department and a registrar.",
+        "The registrar maintains students' grades and computes CGPA for each",
+        "student. Students receive grades for the courses they took along with",
+        "CGPA in a slip."
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "9",
+      "question": "Given the above business description, which of the following could be actors?",
+      "options": [
+        "A. Student, Registrar, Professor, Course, and Grade.",
+        "B. Student, Registrar, Professor and Course.",
+        "C. Student, Registrar, and Professor.",
+        "D. Course, Grade, and CGPA."
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "10",
+      "question": "Referring to the business description in question number 2, what could be a use case (s)?",
+      "options": [
+        "A. Prepare Grade.",
+        "B. Compute CGPA.",
+        "C. Submit Course.",
+        "D. Register Student."
+      ],
+      "answerLetter": "",
+      "answer": "B. Compute CGPA."
+    },
+    {
+      "id": "11",
+      "question": "Referring to the business description in question number 2, what are the possible classes?",
+      "options": [
+        "A. Professor, Course, Student, Grade, and Registrar.",
+        "B. Professor, Course, Student, Grade, Registrar and CGPA.",
+        "C. Course, Grade and CGPA",
+        "D. Course and Grade."
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "12",
+      "question": "What does this diagram represent? *",
+      "options": [
+        "A. Component Diagram for Student Registration.",
+        "B. Class Diagram for Student Registration.",
+        "C. Activity Diagram for Student Registration.",
+        "D. Sequence Diagram for Student Registration.",
+        "C. Activity Diagram for Student Registration."
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "13",
+      "question": "What does Register() refer to in the following sequence diagram? *",
+      "options": [
+        "A. The lifeline of the student object.",
+        "B. Message passing.",
+        "C. Method of Validate Profile Object.",
+        "D. Method of Authenticate Profile Object."
+      ],
+      "answerLetter": "",
+      "answer": "B. Message passing."
+    },
+    {
+      "id": "14",
+      "question": "Referring to the following diagram, can you identify the subclasses? * 1/1",
+      "options": [
+        "A. Student, Professor, and Person.",
+        "B. Person and Address.",
+        "C. Student, Professor and Address.",
+        "D. Student and Professor."
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "15",
+      "question": "Refer to the class diagram under question number14 Which of the following are the behavior/methods of classes? *1/1",
+      "options": [
+        "A. Salary in Professor Class.",
+        "B. Student Number and Average Mark in Student Class.",
+        "C. Purchase Parking Pass in Person Class.",
+        "D. Country in Address Class."
+      ],
+      "answerLetter": "",
+      "answer": ""
+    }
+  ],
+  "Introduction to Information Retrieval": [
+    {
+      "id": "1",
+      "question": "What is Information? * 1/1",
+      "options": [
+        "Processed data",
+        "Dat organized in a meaningful manner to be used in decision making",
+        "Data accumulated over time",
+        "Same as data"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "2",
+      "question": "Which of the following is not true about Boolean IR model? *",
+      "options": [
+        "The Model penalizes documents when they contain term that is not in the query",
+        "Ranking of retrieved documents is possible",
+        "Term weighting is always binary weight",
+        "Partial matching is not possible"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "3",
+      "question": "Which methods can be applied to remove stop words from a corpus *0/1",
+      "options": [
+        "(text document collection)?",
+        "Dictionary method (Lookup table)",
+        "Frequency method",
+        "TF*IDF",
+        "None of the above"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "4",
+      "question": "The query operation NOT (T1 AND T2) will retrieve documents that ______________________.",
+      "options": [
+        "Contain T2 but not T1",
+        "Contain T1 but not T2",
+        "Contain T1 but not T2 and T2 but not T1",
+        "None of the above"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "5",
+      "question": "An inverted index arranges data in a sorted order as per *1/1",
+      "options": [
+        "_________________.",
+        "Document IDs",
+        "Index Terms",
+        "The frequesncy of the terms (tf)",
+        "The frequency of the documents"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "6",
+      "question": "What is the metric used to measure the rarity of a term in a corpus *1/1",
+      "options": [
+        "(text document collection)?",
+        "Term Frequency (tf)",
+        "Normalized Term Frequency (TF)",
+        "Inverse Document Frequency (IDF)",
+        "TF*IDF"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "7",
+      "question": "The heuristic process of cutting off one or more letters from the beginning or end of words to extract word classes from inflected words is called __________",
+      "options": [
+        "Lemmatization",
+        "Stemming",
+        "Modelling",
+        "Case folding"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "8",
+      "question": "Which of the following is true? * 1/1",
+      "options": [
+        "Recall and precision often increase proportionally",
+        "Precision decreases when a non-relevant document is retrieved",
+        "Corpus size increases proportionally with vocabulary size",
+        "Recall decreases when a non-relevant document is retrieved"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "9",
+      "question": "Which of the following is true about Stemming? * 1/1",
+      "options": [
+        "It increases the recall and reduces the precision",
+        "It often has a negative effect on the retrieval model",
+        "It is language independent",
+        "None of the above"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "10",
+      "question": "What is the meaning of \"error of commission\"? *",
+      "options": [
+        "When a relevant document is not retrieved",
+        "When a Non-relevant document is predicted to be Relevant",
+        "When no-document is retrieved",
+        "When all documents in the corpus are retreived"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "11",
+      "question": "Recall will be 100% when _________________________. * 0/1 all the relevant documents in the corpus are retrieved",
+      "options": [
+        "the whole corpus is retrieved",
+        "recall is much greater than precision",
+        "all the documents in the corpus are relevant"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "12",
+      "question": "Which of the following is not true? *",
+      "options": [
+        "With correct query, data retrieval works 100% accurately.",
+        "Information retrieval works 100% accurately if given the correct query.",
+        "Data retrieval can achieve better result on unstructured corpus.",
+        "None of the above"
+      ],
+      "answerLetter": "",
+      "answer": "Data retrieval can achieve better result on unstructured corpus."
+    },
+    {
+      "id": "13",
+      "question": "The harmonic mean of recall and precision will give us *1/1",
+      "options": [
+        "__________________.",
+        "Average Precision",
+        "F-Score",
+        "Accuracy",
+        "is calculated as (Recall + Precision)/2",
+        "Option 5"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "14",
+      "question": "Suppose the vocabulary size of a corus having 100 terms is 10 and that of a corpus having 500 terms is 25. What is the estimated vocabulary size of a corpus having 10000 terms if we take beta to be 0.5? (Hint: use Heaps Law)",
+      "options": [
+        "10",
+        "100",
+        "1000",
+        "50"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "15",
+      "question": "Suppose you have the following five documents in your corpus D1 = {t1, t2, t3, t4, t5}, D2 = {t1, t2, t3, t4}, D3 = {t2, t4, t6, t8}, D4 = {t1, t3, t5, *0/1 t7}, and D5 = {t2, t3, t4} where t stands for term. Which documents will be",
+      "options": [
+        "retrieved for the query Q=t1 AND (t2 OR (NOT t3)) using Boolean Model.",
+        "{D1, D2, D3}",
+        "{D1, D2}",
+        "{D1, D2, D4}",
+        "{D1}"
+      ],
+      "answerLetter": "",
+      "answer": "{D1, D2}"
+    }
+  ],
+  "Internet Programming": [
+    {
+      "id": "1",
+      "question": "Which of the following HTML elements is a block element ? *",
+      "options": [
+        "<p>",
+        "<span>",
+        "<img>",
+        "<a>"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "2",
+      "question": "What is the correct syntax to add a audio/ sound content to an HTML *1/1 page ?",
+      "options": [
+        "<sound src=\"src\" type=\"sound/mp3\"></sound>",
+        "<audio src=\"src\" type=\"sound/mp3\"></sound>",
+        "<sound><source src=\"src\" type=\"sound/mp3\"/></sound>",
+        "<audio><source src=\"src\" type=\"audio/mp3\"/></audio>"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "3",
+      "question": "Which of the following HTML form control is used to receive sensitive *1/1 data, like pin code, from a user ?",
+      "options": [
+        "text",
+        "number",
+        "select",
+        "password"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "4",
+      "question": "What is the right way to use anchor tag / hyperlink to visit a certain page ?",
+      "options": [
+        "<link href=\"url\" target=\"_blank\">Visit</a>",
+        "<link src=\"url\" target=\"_blank\">Visit</a>",
+        "<a src=\"url\" target=\"_blank\">Visit</a>",
+        "<a href=\"url\" target=\"_blank\">Visit</a>"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "5",
+      "question": "What is the correct attribute name that is used to merge two or more *1/1 columns of an HTML table ? 5. What is the correct attribute name that is",
+      "options": [
+        "used to merge two or more columns of an HTML table ?",
+        "rowspan",
+        "rowextend",
+        "colextend",
+        "colspan"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "6",
+      "question": "What is the maximum number of columns allowed in a row *1/1 in bootstrap's grid layout ?",
+      "options": [
+        "10",
+        "15",
+        "12",
+        "6"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "7",
+      "question": "In bootstrap CSS, which of the following class is used to define grid columns for all device sizes ?",
+      "options": [
+        ".col-sm.col.col-md.col-lg-"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "8",
+      "question": "Which of the following property is used to align elements of a flex-box *1/1 container to the center on the main axis ?",
+      "options": [
+        "justify-content",
+        "align-content",
+        "align-items",
+        "row-gap"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "9",
+      "question": "Which of the following following statement is not correct about the grid and flex-box layout systems?",
+      "options": [
+        "Grid layout system is a two dimensional layout system",
+        "Flex-box layout system is a one dimensonal layout system",
+        "It is possible to nest flex-box inside grid and vice versa",
+        "By using flex-box we can't design a layout that can be done using grid layout",
+        "system"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "10",
+      "question": "How many rows will be there when rendering the following HTML code on a browser? <html> <head> <style> #container { display: grid; grid-template-columns: repeat(3, 1fr); } </style> </head> <body> <div id=\"container\"> <div>......</div> <div>......</div> <div>......</div> <div>......</div> <div> </body> </html>",
+      "options": [
+        "1",
+        "3",
+        "4",
+        "2"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "11",
+      "question": "Among the following events, which one originates from a mouse? * 1/1 blur",
+      "options": [
+        "change",
+        "keydown",
+        "click"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "12",
+      "question": "Which of the following is not true about server-side scripting *1/1 language ?",
+      "options": [
+        "It is executed on the server",
+        "Has access to the server operating system",
+        "It has to be translated to the corresponding client side language before rendered on",
+        "the browser",
+        "It can be executed by the browser"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "13",
+      "question": "Which of the following is the correct syntax to write a PHP code? *",
+      "options": [
+        "<?php ?>",
+        "< php >",
+        "< ? php ?>",
+        "<? ?>"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "14",
+      "question": "Which is the right way of declaring a variable in PHP? * 1/1",
+      "options": [
+        "$3hello",
+        "$_hello",
+        "$this",
+        "<? ?>"
+      ],
+      "answerLetter": "",
+      "answer": ""
+    },
+    {
+      "id": "15",
+      "question": "Which is the right way of declaring a variable in PHP? * 1/1",
+      "options": [
+        "$3hello",
+        "$_hello",
+        "$this",
+        "$5_Hello"
+      ],
+      "answerLetter": "",
+      "answer": ""
     }
   ],
   "Information System Security": [
     {
-      "id": "88",
-      "question": "____________ is a subject or objectâs ability to use, manipulate, modify, or affect another subject or object. *",
+      "id": "1",
+      "question": "The likelihood of a threat source taking advantage of a vulnerability is called _____________.",
       "options": [
-        "Asset",
-        "Threat",
-        "Threat agent",
-        "Access"
-      ],
-      "answer": "Access"
-    },
-    {
-      "id": "89",
-      "question": "___________ is an intentional or unintentional act that can damage or otherwise compromise information and the systems that support it. *",
-      "options": [
-        "Exploit",
+        "Exposure",
+        "Vulnerability",
         "Risk",
-        "Attack",
-        "Exposure"
+        "Threat"
       ],
-      "answer": "Attack"
+      "answerLetter": "",
+      "answer": ""
     },
     {
-      "id": "90",
-      "question": "______________ ensures that only users with the rights, privileges, and need to access information are able to do so. When unauthorized individualsor systems view information, its confidentiality is breached. *",
+      "id": "2",
+      "question": "Which of the following statements about policy, standards, guidelines, *1/1 or procedures is correct?",
       "options": [
-        "Confidentiality",
-        "Availability",
-        "Disclosure",
-        "Integrity"
+        "Standards are mandatory step-by-step, detailed actions required to complete a task",
+        "successfully",
+        "Procedures are mandatory requirements that support individual policies",
+        "Guideline is a high-level statement of enterprise beliefs, goals, and the general",
+        "means for their attainment",
+        "Policies are organizational laws"
       ],
-      "answer": "Confidentiality"
+      "answerLetter": "",
+      "answer": ""
     },
     {
-      "id": "91",
-      "question": "Which ofthe following statements is correct? *",
+      "id": "3",
+      "question": "In developing a security awareness program, it is MOST important to __________.",
       "options": [
-        "The possession of information is its usefulness. In other words, information has value whenit can serve a purpose.",
-        "Information is accuracy when it is in the same state in whichit was created, placed, stored, or transferred.",
-        "Information has accuracy when it is free from mistakes or errors and has the value that the end user expects.",
-        "The utility of information is thequality or state of ownership or control."
+        "Identify weaknesses in line management support",
+        "Understand the corporate culture and how it will affect security",
+        "Understand employees’ preferences for information security",
+        "Know what security awareness products are available"
       ],
-      "answer": "Information has accuracy when it is free from mistakes or errors and has the value that the end user expects."
+      "answerLetter": "",
+      "answer": ""
     },
     {
-      "id": "92",
-      "question": "Which of the following statements is correct? *",
+      "id": "4",
+      "question": "Once the key risks have been assessed, what action is unacceptable *0/1 for very low risks?",
       "options": [
-        "A hacker is the unauthorized duplication, installation, or distribution of copyrighted computer software, which is a violation of intellectual property.",
-        "A cracker is a hacker who intentionally removes or bypasses software copyright protection designed to prevent unauthorized duplication or use",
-        "Software piracy is a person who accesses systems and information without authorization and often illegally",
-        "Exploit is original ideas and inventions created, owned, and controlled by a particular person or organization; IP includes the representation of original ideas."
+        "They can be terminated",
+        "They can be accepted",
+        "They can be ignored",
+        "They can be treated"
       ],
-      "answer": "A cracker is a hacker who intentionally removes or bypasses software copyright protection designed to prevent unauthorized duplication or use"
+      "answerLetter": "",
+      "answer": "They can be ignored"
     },
     {
-      "id": "93",
-      "question": "________________ is a category of threat that involves the deliberate sabotage of a computer system or business or acts of vandalism to destroy an asset or damage the image of an organization. *",
+      "id": "5",
+      "question": "What aspect is considered your weakest link in any security solution? * 1/1",
       "options": [
-        "Technological Obsolescence",
-        "Technical Hardware Failures or Errors",
-        "Sabotage or Vandalism",
-        "Software Attacks"
+        "Humans/Employees",
+        "Security policies and procedures",
+        "Insufficient encryption protocols",
+        "Third-party developed security products"
       ],
-      "answer": "Sabotage or Vandalism"
+      "answerLetter": "",
+      "answer": ""
     },
     {
-      "id": "94",
-      "question": "________________ are information security safeguards focusing on lower-level planning that deals with the functionality of the organizationâs security; they include disaster recovery planning, incident response planning, and SETA programs. *",
+      "id": "6",
+      "question": "As an information system security principle, “Integrity” is all about _________.",
       "options": [
-        "Operational controls",
-        "Managerial controls",
-        "Technical controls",
-        "Technological controls"
+        "preventing unauthorized subjects from modifying information.",
+        "allowing only unauthorized subjects to modify information.",
+        "preventing unauthorized subjects from accessing information.",
+        "allowing only authorized subjects access to information."
       ],
-      "answer": "Operational controls"
+      "answerLetter": "",
+      "answer": ""
     },
     {
-      "id": "95",
-      "question": "______________________ are sets of rules that define acceptable behavior within a specific organizational resource, such as e-mail or Internet usage. *",
+      "id": "7",
+      "question": "Which of the following is most relevant to determining the maximum *1/1 effective cost of access control?",
       "options": [
-        "Issue-specific security policies (ISSPs)",
-        "Organizational level information security policy (EISP)",
-        "Enterprise information security policy (EISP)",
-        "Systems-specific policies (SysSPs)"
+        "Management's perceptions regarding data importance",
+        "Budget planning related to base versus incremental spending.",
+        "The value of information that is protected",
+        "The cost to replace lost data"
       ],
-      "answer": "Issue-specific security policies (ISSPs)"
+      "answerLetter": "",
+      "answer": ""
     },
     {
-      "id": "96",
-      "question": "Which of the following statements is incorrect? *",
+      "id": "8",
+      "question": "When a user logs onto a computer system and is asked for their *1/1 mother’s maiden name, which of the following aspects is the system",
       "options": [
-        "Risk appetite is the risk to information assets that remains even after current controls have been applied.",
-        "Risk management is the process of identifying risk, assessing its relative magnitude, and taking steps to reduce it to an acceptable level.",
-        "Risk assessment is the identification, analysis, and evaluation of risk as an initial part of risk management.",
-        "Risk treatment is the applicationof safeguards or controls to reduce the risks to an organizationâsinformation assets to an acceptable level."
+        "ensuring?",
+        "Authentication",
+        "Authorization",
+        "Applicability",
+        "Accountability"
       ],
-      "answer": "Risk appetite is the risk to information assets that remains even after current controls have been applied."
-    }
-  ],
-  "Management of Information Sources and Systems": [
-    {
-      "id": "97",
-      "question": "Which of the following environmental factors is considered as âa two-way streetâ *",
-      "options": [
-        "A. The Internet Economy",
-        "B. The global marketplace",
-        "C. The Business Ecosystem",
-        "D.  Decapitalization"
-      ],
-      "answer": "B. The global marketplace"
+      "answerLetter": "",
+      "answer": ""
     },
     {
-      "id": "98",
-      "question": "Which of the following signifies a sound âcustomer-centricâ approach *",
+      "id": "9",
+      "question": "Which one of the following is an incorrect explanation in relation to *1/1 layers in information systems security Defense-in-Depth Strategy?",
       "options": [
-        "A.  After-sales service",
-        "B. Real-time complaint handling",
-        "C. Demand push",
-        "D. Supply push"
+        "Communications security is to protect an organization’s communications media,",
+        "technology, and content.",
+        "Network security is to protect networking components, connections, and contents.",
+        "Personal security is to protect the details of a particular operation or series of",
+        "activities.",
+        "Physical security is to protect the physical items, objects, or areas of an",
+        "organization from unauthorized access and misuse."
       ],
-      "answer": "C. Demand push"
+      "answerLetter": "",
+      "answer": ""
     },
     {
-      "id": "99",
-      "question": "All are examples of self-servicing systems except *",
+      "id": "10",
+      "question": "How should a security risk be handled when the cost of the *1/1 countermeasures outweighs the cost of the risk?",
       "options": [
-        "A. ATM",
-        "B. ERP",
-        "C. Online shopping",
-        "D.  Package tracking"
+        "Reduce the risk",
+        "Accept the risk",
+        "Perform another risk analysis",
+        "Reject the risk"
       ],
-      "answer": "B. ERP"
+      "answerLetter": "",
+      "answer": ""
     },
     {
-      "id": "100",
-      "question": "Which of the following systems fosters collaborative work and communications among far flung team members *",
+      "id": "11",
+      "question": "Why must senior management endorse a security policy? * 1/1",
       "options": [
-        "A.  Portals",
-        "B. Websites",
-        "C. E-commerce",
-        "D. Groupware"
+        "So that they will accept ownership for security within the organization.",
+        "So that employees will follow the policy directives.",
+        "So that external bodies will recognize the organization’s commitment to security.",
+        "So that they can be held legally accountable."
       ],
-      "answer": "D. Groupware"
+      "answerLetter": "",
+      "answer": ""
     },
     {
-      "id": "101",
-      "question": "Which of the following is not true about IT and the firmâs competitiveness *",
+      "id": "12",
+      "question": "Which of the following statements is not correct in relation to *1/1 information security culture?",
       "options": [
-        "A. IT delivers business values",
-        "B. IT economic impact comes incrementally",
-        "C. Automation of routine processes yields competitiveness"
+        "Many losses are not caused by users of technology and faulty human behavior",
+        "but rather by lack of technology or faulty technology.",
+        "The behavior of employees and their interaction with computer systems have a",
+        "significant impact on the security of information.",
+        "Although the technical aspect of information security needs due attention, a more",
+        "serious and under-rated aspect of information security is the human element.",
+        "The purpose of information security culture is to address the various human",
+        "factors that can affect an organization’s overall information security efforts."
       ],
-      "answer": "C. Automation of routine processes yields competitiveness"
+      "answerLetter": "",
+      "answer": ""
     },
     {
-      "id": "102",
-      "question": "Which of the following best corresponds to the âsense and respond strategy approachâ *",
+      "id": "13",
+      "question": "Which of the following statements is correct? * 1/1",
       "options": [
-        "A. Barrier to entry",
-        "B. Strategic fit",
-        "C. Strategic envelop",
-        "D. Strategy choice"
+        "Identification of security requirements at an enterprise level is performed during",
+        "design phase of security system development life cycle.",
+        "It is impossible to obtain perfect security even if organizations use maximum",
+        "security control measures.",
+        "Spoofing attack is about the prevention of authorized access to resources",
+        "A Denial of service or degrading of service attack is situation in which one person",
+        "or program successfully imitate another by falsifying data and thereby gaining an",
+        "illegitimate advantage."
       ],
-      "answer": "C. Strategic envelop"
+      "answerLetter": "",
+      "answer": ""
     },
     {
-      "id": "103",
-      "question": "Which of the following is not true about the Internet in light of the Five Forces Competitive Analysis Model? *",
+      "id": "14",
+      "question": "The root cause of some discovered vulnerabilities of an application *1/1 might reasonably be which of the following?",
       "options": [
-        "A. increases the bargaining powerof buyers allowing direct dealing with supplies",
-        "B. Increases barriers to entryto a new market",
-        "C. Increases the bargaining power of suppliers",
-        "D. Increases the threat of substitute products and services",
-        "B. Increases barriers to entry to a new market"
+        "The developers did not invest enough money and effort during the development",
+        "The government regulators were smarter than the developers expected",
+        "Security vulnerabilities are hidden and therefore acceptable to leave in place",
+        "The designers had too much technical training"
       ],
-      "answer": "B. Increases barriers to entry to a new market"
+      "answerLetter": "",
+      "answer": ""
     },
     {
-      "id": "104",
-      "question": "Which of the following systems are primarily aimed at enhancing internal business processes *",
+      "id": "15",
+      "question": "The integrity threat can be exemplified by which of the following scenarios?",
       "options": [
-        "A. Internet technologies",
-        "B. Collaborative systems",
-        "C. Enterprise Resource Planning Systems",
-        "D. Management support systems"
+        "Customer records were hidden, but one might have been slightly garbled",
+        "The entire employee database was posted to the Internet",
+        "Every customer record is exposed by nation states",
+        "Every customer record is stolen by hackers"
       ],
-      "answer": "C. Enterprise Resource Planning Systems"
-    },
-    {
-      "id": "105",
-      "question": "The e-business model intended to serve customers as per their buying patterns is___ *",
-      "options": [
-        "A. On-demand service",
-        "B. Convenience",
-        "C. Personalization",
-        "D. Accessibility"
-      ],
-      "answer": "C. Personalization"
-    }
-  ],
-  "Network Systems": [
-    {
-      "id": "106",
-      "question": "Which of the following is not true about IP addresses?",
-      "options": [
-        "A. The total number of IP addresses in Class A is greater than that of class B",
-        "B. We find IP addresses in class A with the first bit being zero",
-        "C. Class E IP addresses are reserved for multicasting",
-        "D. One can identify Class B addresses if the numbers in the first are 128 up to 191"
-      ],
-      "answer": "C. Class E IP addresses are reserved for multicasting"
-    },
-    {
-      "id": "107",
-      "question": "Which physical topology is the most resistant to failure? *",
-      "options": [
-        "A.    Bus",
-        "B.    Ring",
-        "C.    Mesh",
-        "D.    Star"
-      ],
-      "answer": "C.    Mesh"
-    },
-    {
-      "id": "108",
-      "question": "Select the true statement about the data communication model. *",
-      "options": [
-        "A. In simplex mode, data is acknowledged by the receiver.",
-        "B.  In half duplex mode, data moves in both directions at once.",
-        "C.   In full duplex mode, data moves bidirectional but one at a time.",
-        "D.  In half and full duplex mode, it is possible to confirm the successful transmission of data."
-      ],
-      "answer": "D.  In half and full duplex mode, it is possible to confirm the successful transmission of data."
-    },
-    {
-      "id": "109",
-      "question": "One of the following is not an advantage of Subnetting",
-      "options": [
-        "A.  Increase the network traffic",
-        "B.  Improve the network performance",
-        "C. Simplify the network management",
-        "D.  Efficient usability of IP addresses",
-        "A.    The destination is contacted before a packet is sent.",
-        "B.    The destination is not contacted before a packet is sent.",
-        "C.    The sender sends an acknowledgment to the source that indicates the packet was received.",
-        "D. The sender sends an acknowledgment to the source that requests the next packet to be sent."
-      ],
-      "answer": "B.    The destination is not contacted before a packet is sent."
-    },
-    {
-      "id": "110",
-      "question": "In a computer network, the Router works at ______ layer whereas the bridge works at the ___layer of the OSI model. *",
-      "options": [
-        "A.    3rd and 5th",
-        "B.    7th and 6th",
-        "C.    3rd and 2nd",
-        "D.    2nd and 3rd"
-      ],
-      "answer": "C.    3rd and 2nd"
-    },
-    {
-      "id": "111",
-      "question": "Select the wrong statement about packet-switched technology. *",
-      "options": [
-        "A. Data moves in separate paths",
-        "B.  Message gets broken into smaller data packets",
-        "C. Both the sender and receiver transfer data at the same speed",
-        "D. Packet switched uses a logical connection totransfer data",
-        "A. Provide connectivity",
-        "B.Manage data flow",
-        "C.Regenerate &amp; retransmit data signals",
-        "D. Propagate network traffics"
-      ],
-      "answer": "C. Both the sender and receiver transfer data at the same speed"
-    }
-  ],
-  "Enterprise Systems": [
-    {
-      "id": "112",
-      "question": "Which of these is not currently listed as marketing an ERP system? *",
-      "options": [
-        "Oracle",
-        "Peoplesoft",
-        "IBM",
-        "SAP"
-      ],
-      "answer": "IBM"
-    },
-    {
-      "id": "113",
-      "question": "An older system that is still of use to an organization despite the need for frequent maintenance is a(n): *",
-      "options": [
-        "obsolete system",
-        "legacy system",
-        "repository",
-        "None of the above"
-      ],
-      "answer": "legacy system"
-    },
-    {
-      "id": "114",
-      "question": "Which of the following best describes Enterprise Systems? *",
-      "options": [
-        "Individual software applications designed for specific business functions.",
-        "A set of integrated software applications that help manage business processes",
-        "Stand-alone systems that do not communicate with each other",
-        "Software used only bysmall businesses"
-      ],
-      "answer": "A set of integrated software applications that help manage business processes"
-    },
-    {
-      "id": "115",
-      "question": "What is the primary purpose of Customer Relationship Management (CRM) software within an Enterprise System? *",
-      "options": [
-        "Managing employee payroll",
-        "Tracking customer interactions and improving relationships.",
-        "Generating financial reports.",
-        "Providing inventory management"
-      ],
-      "answer": "Tracking customer interactions and improving relationships."
-    },
-    {
-      "id": "116",
-      "question": "All are Essential ERP vendor evaluation criteria except one; *",
-      "options": [
-        "Functional fit",
-        "Systems integration",
-        "Line of code",
-        "Vendor technology"
-      ],
-      "answer": "Line of code"
-    },
-    {
-      "id": "117",
-      "question": "Which of the following implementation of ERP systems may not require the purchase of servers and recruitment of system and network administrators. *",
-      "options": [
-        "On-premise",
-        "Cloud",
-        "Hybrid",
-        "None of the above"
-      ],
-      "answer": "Cloud"
-    },
-    {
-      "id": "118",
-      "question": "While procuring an ERP system, one of the following may not be important. *",
-      "options": [
-        "Studying the existing business processes",
-        "Providing training to the end users",
-        "Selecting the programming language to develop the ERP",
-        "Allocating budget for procuring the ERP"
-      ],
-      "answer": "Selecting the programming language to develop the ERP"
-    },
-    {
-      "id": "119",
-      "question": "Considering the functionalperspective, identify that is not part of an ERP module? *",
-      "options": [
-        "Human resources module",
-        "Finance and accounting module",
-        "Network module",
-        "Procurement Module"
-      ],
-      "answer": "Network module"
-    },
-    {
-      "id": "120",
-      "question": "Mechanisms to prevent scope creep/change includes the following Except ? *",
-      "options": [
-        "Validate requirements before implementation",
-        "Define a process for adding new features.",
-        "Adding requirements as they appear.",
-        "Discuss priorities often."
-      ],
-      "answer": "Adding requirements as they appear."
+      "answerLetter": "",
+      "answer": ""
     }
   ]
 }
