@@ -1,1682 +1,1682 @@
 {
-  "I. Information Science": [
+  "Information Science": [
     {
       "id": "1",
       "question": "Which one of the following is character tics of Web 1.0 except__________?",
       "options": [
-        "A. Web 1.0 is a static website",
-        "C. Web 1.0 is a company focus",
-        "B. Web 1.0 is community focus",
-        "D. All of the above"
+        "Web 1.0 is a static website",
+        "Web 1.0 is a company focus",
+        "Web 1.0 is community focus",
+        "All of the above"
       ],
-      "answer": "B. Web 1.0 is community focus"
+      "answer": "Web 1.0 is community focus"
     },
     {
       "id": "2",
       "question": "________is a person who works in information centers, in information science, and museums.",
       "options": [
-        "A. Information Professional",
-        "C. Knowledge Management",
-        "B. Data Management",
-        "D. Data Processing"
+        "Information Professional",
+        "Knowledge Management",
+        "Data Management",
+        "Data Processing"
       ],
-      "answer": "A. Information Professional"
+      "answer": "Information Professional"
     },
     {
       "id": "3",
       "question": "A systematic arrangement of entries designed to enable users to locate information in a document.",
       "options": [
-        "A. Abstract",
-        "B. Index",
-        "C. Indexer",
-        "D. Retrieval"
+        "Abstract",
+        "Index",
+        "Indexer",
+        "Retrieval"
       ],
-      "answer": "B. Index"
+      "answer": "Index"
     },
     {
       "id": "4",
       "question": "Which one of the following is correct about the nature of information except_____________?",
       "options": [
-        "A. Information can exist in a liquid state",
-        "C. Information can exist in the gesture",
-        "B. Information can exist in a solid-state",
-        "D. Information only flows from source to receiver"
+        "Information can exist in a liquid state",
+        "Information can exist in the gesture",
+        "Information can exist in a solid-state",
+        "Information only flows from source to receiver"
       ],
-      "answer": "D. Information only flows from source to receiver"
+      "answer": "Information only flows from source to receiver"
     },
     {
       "id": "5",
       "question": "Which one of the following is the Function of information system___________?",
       "options": [
-        "A. Increasing quality of productivity",
-        "C. Manage employee information",
-        "B. Makes financial decisions",
-        "D. None of the above"
+        "Increasing quality of productivity",
+        "Manage employee information",
+        "Makes financial decisions",
+        "None of the above"
       ],
-      "answer": "D. None of the above"
+      "answer": "None of the above"
     },
     {
       "id": "6",
       "question": "________ is the design of organization, labeling, navigation, and search systems to help people find and manage information more successfully.",
       "options": [
-        "A. Information architecture",
-        "C. Information demand",
-        "B. Information society",
-        "D. Social development"
+        "Information architecture",
+        "Information demand",
+        "Information society",
+        "Social development"
       ],
-      "answer": "A. Information architecture"
+      "answer": "Information architecture"
     },
     {
       "id": "7",
       "question": "Any law, regulation, rule, or practice (written or unwritten) that affects the creation, acquisition, organization, and dissemination of information.",
       "options": [
-        "A. Copy right",
-        "C. Patent right",
-        "B. Information policy",
-        "D. Confidential Information"
+        "Copy right",
+        "Patent right",
+        "Information policy",
+        "Confidential Information"
       ],
-      "answer": "B. Information policy"
+      "answer": "Information policy"
     },
     {
       "id": "8",
       "question": "Which Characteristics of information defined the value and usefulness of information is highly subjective, because what is information for one person may not be for another.",
       "options": [
-        "A. Completeness",
-        "B. Subjectivity",
-        "C. Relevance",
-        "D. Accuracy"
+        "Completeness",
+        "Subjectivity",
+        "Relevance",
+        "Accuracy"
       ],
-      "answer": "B. Subjectivity"
+      "answer": "Subjectivity"
     },
     {
       "id": "9",
       "question": "An interdisciplinary science primarily concerned with the analysis, collection, classification, manipulation, storage, retrieval, and dissemination of information.",
       "options": [
-        "A. Information Management",
-        "C. Information System",
-        "B. Information Science",
-        "D. Information Retrieval"
+        "Information Management",
+        "Information System",
+        "Information Science",
+        "Information Retrieval"
       ],
-      "answer": "B. Information Science"
+      "answer": "Information Science"
     },
     {
       "id": "10",
       "question": "Which one is the best way to protect your computer and personal data from cybercrime Attacks?",
       "options": [
-        "A. Clicking in spam emails",
-        "C. Use strong passwords",
-        "B. Give your data via email",
-        "D. Give out personal information"
+        "Clicking in spam emails",
+        "Use strong passwords",
+        "Give your data via email",
+        "Give out personal information"
       ],
-      "answer": "C. Use strong passwords"
+      "answer": "Use strong passwords"
     }
   ],
-  "VII. Information Retrieval System": [
+  "Information Retrieval System": [
     {
       "id": "11",
       "question": "Which of the following steps of in the process of constructing indexing file are performed in the right order?",
       "options": [
-        "A. Tokenization, Stemming, Stop-word Removal, Thesaurus Construction",
-        "B. Stop-word Removal, Tokenization, Thesaurus Construction, Stemming",
-        "C. Tokenization, Stop-word Removal, Stemming, Thesaurus Construction",
-        "D. Stemming, Thesaurus Construction, Tokenization, Stop-word Removal"
+        "Tokenization, Stemming, Stop-word Removal, Thesaurus Construction",
+        "Stop-word Removal, Tokenization, Thesaurus Construction, Stemming",
+        "Tokenization, Stop-word Removal, Stemming, Thesaurus Construction",
+        "Stemming, Thesaurus Construction, Tokenization, Stop-word Removal"
       ],
-      "answer": "C. Tokenization, Stop-word Removal, Stemming, Thesaurus Construction"
+      "answer": "Tokenization, Stop-word Removal, Stemming, Thesaurus Construction"
     },
     {
       "id": "12",
       "question": "One of the following statements is true about Zipf’s law in statistical properties of a text?",
       "options": [
-        "A. The numerical position of a word in a list sorted by decreasing frequency",
-        "B. Word significance is very useful for indexing",
-        "C. Concerns the size of the number of unique words in the corpus",
-        "D. Find documents relevant to an information need from a large document set"
+        "The numerical position of a word in a list sorted by decreasing frequency",
+        "Word significance is very useful for indexing",
+        "Concerns the size of the number of unique words in the corpus",
+        "Find documents relevant to an information need from a large document set"
       ],
-      "answer": "A. The numerical position of a word in a list sorted by decreasing frequency"
+      "answer": "The numerical position of a word in a list sorted by decreasing frequency"
     },
     {
       "id": "13",
       "question": "Which one of the following is a non-binary term weighting mechanism that refers the sum of term frequencies of a given term across the document collection or corpus?",
       "options": [
-        "A. Document Frequency",
-        "B. Inverse Document Frequency",
-        "C. Collection Frequency",
-        "D. Term Frequency"
+        "Document Frequency",
+        "Inverse Document Frequency",
+        "Collection Frequency",
+        "Term Frequency"
       ],
-      "answer": "C. Collection Frequency"
+      "answer": "Collection Frequency"
     },
     {
       "id": "14",
       "question": "______________ is a subfield of  information retrieval dealing with retrieving information written in a language different from the language of the user's query.",
       "options": [
-        "A. Multi language retrieval",
-        "B. Cross language retrieval",
-        "C. Multimedia Retrieval",
-        "D. Text representation"
+        "Multi language retrieval",
+        "Cross language retrieval",
+        "Multimedia Retrieval",
+        "Text representation"
       ],
-      "answer": "B. Cross language retrieval"
+      "answer": "Cross language retrieval"
     },
     {
       "id": "15",
       "question": "Which of the following Information Retrieval models that return documents to a query ranked by decreasing likelihood of relevance with respect to the query?",
       "options": [
-        "A. Boolean Model",
-        "B. Vector Space Model",
-        "C. Probabilistic Model",
-        "D. Extended Boolean Model"
+        "Boolean Model",
+        "Vector Space Model",
+        "Probabilistic Model",
+        "Extended Boolean Model"
       ],
-      "answer": "C. Probabilistic Model"
+      "answer": "Probabilistic Model"
     },
     {
       "id": "16",
       "question": "_____________refers to the number of documents contain a given term across the document collections.",
       "options": [
-        "A. Proximity Operator",
-        "B. Vocabulary Lexicon",
-        "C. Term Frequency",
-        "D. Document Frequency"
+        "Proximity Operator",
+        "Vocabulary Lexicon",
+        "Term Frequency",
+        "Document Frequency"
       ],
-      "answer": "D. Document Frequency"
+      "answer": "Document Frequency"
     },
     {
       "id": "17",
       "question": "For a query, a retrieval system retrieves 25 relevant documents and 10 irrelevant documents from a document collection that consists of 100 relevant documents. What is the recall value of the retrieval system?",
       "options": [
-        "A. 0.5",
-        "B. 0.25",
-        "C. 0.75",
-        "D. 0.05"
+        "0.5",
+        "0.25",
+        "0.75",
+        "0.05"
       ],
-      "answer": "B. 0.25"
+      "answer": "0.25"
     },
     {
       "id": "18",
       "question": "Which one of the following operations is becomes the first and the last step in process of building text information retrieval system respectively?",
       "options": [
-        "A. Define a text database and Users specifies their need",
-        "B. Build an index and weighting a term",
-        "C. Rank of relevant documents and Text operations",
-        "D. Define a text database and Users reformulate query"
+        "Define a text database and Users specifies their need",
+        "Build an index and weighting a term",
+        "Rank of relevant documents and Text operations",
+        "Define a text database and Users reformulate query"
       ],
-      "answer": "D. Define a text database and Users reformulate query"
+      "answer": "Define a text database and Users reformulate query"
     },
     {
       "id": "19",
       "question": "Which of the following is true about binary term weighting in information retrieval process?",
       "options": [
-        "A. Simple model based on set theory",
-        "B. Partial matching is possible",
-        "C. Terms are either present or absent",
-        "D. A and C",
-        "A. and C"
+        "Simple model based on set theory",
+        "Partial matching is possible",
+        "Terms are either present or absent",
+        "A and C",
+        "and C"
       ],
-      "answer": "D. A and C"
+      "answer": "A and C"
     },
     {
       "id": "20",
       "question": "One of the following is the stemming technique that works using set of rules in information retrieval system?",
       "options": [
-        "A. Huffman Coding",
-        "B. Porter Stemming",
-        "C. Lempel Stemming",
-        "D. B & C",
-        "B. & C"
+        "Huffman Coding",
+        "Porter Stemming",
+        "Lempel Stemming",
+        "B & C",
+        "& C"
       ],
-      "answer": "B. Porter Stemming"
+      "answer": "Porter Stemming"
     },
     {
       "id": "21",
       "question": "The TF-IDF weight a given term is best t will be ______ when t occurs in the document but rarely in the rest of the document collection.",
       "options": [
-        "A. Lowest",
-        "B. Highest",
-        "C. Cannot determine",
-        "D. Lower"
+        "Lowest",
+        "Highest",
+        "Cannot determine",
+        "Lower"
       ],
-      "answer": "B. Highest"
+      "answer": "Highest"
     },
     {
       "id": "22",
       "question": "Which of the following is not true about suffix array index structure in information retrieval system?",
       "options": [
-        "A. Suffix array is always sorted",
-        "B. Suffix array is used in string matching problem",
-        "C. Suffix array is always unsorted",
-        "D. Suffix array contains all the suffixes of the given string"
+        "Suffix array is always sorted",
+        "Suffix array is used in string matching problem",
+        "Suffix array is always unsorted",
+        "Suffix array contains all the suffixes of the given string"
       ],
-      "answer": "C. Suffix array is always unsorted"
+      "answer": "Suffix array is always unsorted"
     },
     {
       "id": "23",
       "question": "Consider a document containing 50 words wherein the word information appears 5 times. Now, assume we have 1 million documents and information appears in five thousand of these. What is the normalized TF-IDF value term information?",
       "options": [
-        "A. 0.1",
-        "B. 0.23",
-        "C. 0.5",
-        "D. 0.05"
+        "0.1",
+        "0.23",
+        "0.5",
+        "0.05"
       ],
-      "answer": "B. 0.23"
+      "answer": "0.23"
     },
     {
       "id": "24",
       "question": "Let say we have two documents in our corpus; D1 = (0.8, 0.3) and D2 = (0.2, 0.7). Given query vector Q = (0.4, 0.8), determine which document is the most relevant one for the query using cosine similarity?",
       "options": [
-        "A. D1",
-        "B. D2",
-        "C. D1 and D2",
-        "D. All of the above"
+        "D1",
+        "D2",
+        "D1 and D2",
+        "All of the above"
       ],
-      "answer": "B. D2"
+      "answer": "D2"
     },
     {
       "id": "25",
       "question": "Given the following four documents with the following contents: D1 = “computer information retrieval”; D2 = “computer retrieval”; D3 = “information”; D4 = “computer information”, which of the following the relevant documents retrieved for the query “information AND retrieval”?",
       "options": [
-        "A. D1",
-        "B. D2",
-        "C. D3",
-        "D. D4"
+        "D1",
+        "D2",
+        "D3",
+        "D4"
       ],
-      "answer": "A. D1"
+      "answer": "D1"
     }
   ],
-  "II. Programming I": [
+  "Programming I": [
     {
       "id": "26",
       "question": "Which one of the following libraries helps to handle the input and output?",
       "options": [
-        "A. include",
-        "B. int main ()",
-        "C. Using Namespace",
-        "D. <iostream>"
+        "include",
+        "int main ()",
+        "Using Namespace",
+        "<iostream>"
       ],
-      "answer": "D. <iostream>"
+      "answer": "<iostream>"
     },
     {
       "id": "27",
       "question": "Which one of the following specifies the real beginning of our program?",
       "options": [
-        "A. #include",
-        "B. <iostream>",
-        "C. Using Namespace",
-        "D. int main()"
+        "#include",
+        "<iostream>",
+        "Using Namespace",
+        "int main()"
       ],
-      "answer": "D. int main()"
+      "answer": "int main()"
     },
     {
       "id": "28",
       "question": "In C++, which line of the statement is true?",
       "options": [
-        "A. #include <iostream>;",
-        "B. Cout>>” Hello Worlds!!”;",
-        "C. int main();",
-        "D. using namespace std;"
+        "#include <iostream>;",
+        "Cout>>” Hello Worlds!!”;",
+        "int main();",
+        "using namespace std;"
       ],
-      "answer": "D. using namespace std;"
+      "answer": "using namespace std;"
     },
     {
       "id": "29",
       "question": "In C++, the programming errors are called",
       "options": [
-        "A. debugging",
-        "B. bugs",
-        "C. errors",
-        "D. compile errors"
+        "debugging",
+        "bugs",
+        "errors",
+        "compile errors"
       ],
-      "answer": "B. bugs"
+      "answer": "bugs"
     },
     {
       "id": "30",
       "question": "which one of the following is a valid identifier?",
       "options": [
-        "A. main",
-        "B. return",
-        "C. _taxRate",
-        "D. 20age"
+        "main",
+        "return",
+        "_taxRate",
+        "20age"
       ],
-      "answer": "C. _taxRate"
+      "answer": "_taxRate"
     },
     {
       "id": "31",
       "question": "which one of the following relational operators is different from the other in C++?",
       "options": [
-        "A. =",
-        "B. <",
-        "C. >",
-        "D. =="
+        "=",
+        "<",
+        ">",
+        "=="
       ],
-      "answer": "A. ="
+      "answer": "="
     },
     {
       "id": "32",
       "question": "Which one of the following loop statements are executed at least once before testing the expression?",
       "options": [
-        "A. For loop",
-        "B. While loop",
-        "C. do…. while loop",
-        "D. nested for loop"
+        "For loop",
+        "While loop",
+        "do…. while loop",
+        "nested for loop"
       ],
-      "answer": "C. do…. while loop"
+      "answer": "do…. while loop"
     },
     {
       "id": "33",
       "question": "Which one of the following is true about identifiers in C++?",
       "options": [
-        "A. Keywords can be used as identifiers",
-        "B. Identifiers must be unique and case-sensitive.",
-        "C. Identifier must begin with a letter or a number",
-        "D. All are the answer."
+        "Keywords can be used as identifiers",
+        "Identifiers must be unique and case-sensitive.",
+        "Identifier must begin with a letter or a number",
+        "All are the answer."
       ],
-      "answer": "B. Identifiers must be unique and case-sensitive."
+      "answer": "Identifiers must be unique and case-sensitive."
     },
     {
       "id": "34",
       "question": "Assume (int k = 7; ), which one of the following display the true answer?",
       "options": [
-        "A. y = k++ + 12; gives 19",
-        "B. y = ++k + 12; gives 20",
-        "C. y = --k + 12; gives 19",
-        "D. y = k-- + 12; gives 18"
+        "y = k++ + 12; gives 19",
+        "y = ++k + 12; gives 20",
+        "y = --k + 12; gives 19",
+        "y = k-- + 12; gives 18"
       ],
-      "answer": "B. y = ++k + 12; gives 20"
+      "answer": "y = ++k + 12; gives 20"
     },
     {
       "id": "35",
       "question": "Which one of the following conditional statements is executed only a certain condition is true?",
       "options": [
-        "A. If-else statement",
-        "C. if statement",
-        "B. Switch-case statement",
-        "D. if…else if…else statement"
+        "If-else statement",
+        "if statement",
+        "Switch-case statement",
+        "if…else if…else statement"
       ],
-      "answer": "C. if statement"
+      "answer": "if statement"
     }
   ],
-  "III. Programing II (C++)": [
+  "Programing II (C++)": [
     {
       "id": "36",
       "question": "Data type variable float in the program occupies a space in the computer’s memory.",
       "options": [
-        "A. Two  byte",
-        "B. Four  byte",
-        "C. One byte",
-        "D. Eight byte"
+        "Two  byte",
+        "Four  byte",
+        "One byte",
+        "Eight byte"
       ],
-      "answer": "B. Four  byte"
+      "answer": "Four  byte"
     },
     {
       "id": "37",
       "question": "Which kind of number is similar to the house number of Keble that is used to locate the information stored in that particular variable?",
       "options": [
-        "A. Pointer",
-        "B. Memory",
-        "C. Address",
-        "D. Location"
+        "Pointer",
+        "Memory",
+        "Address",
+        "Location"
       ],
-      "answer": "C. Address"
+      "answer": "Address"
     },
     {
       "id": "38",
       "question": "If a variable X value is two hundred and the address is a hundred, what is the value of the pointer?",
       "options": [
-        "A. Hundred",
-        "B. Two hundred",
-        "C. Three hundred",
-        "D. A&B"
+        "Hundred",
+        "Two hundred",
+        "Three hundred",
+        "A&B"
       ],
-      "answer": "A. Hundred"
+      "answer": "Hundred"
     },
     {
       "id": "39",
       "question": "Pointers declare in multiple statements, int *y, *z, k, m; which one is true about these declarations?",
       "options": [
-        "A. k&m points to variable type int",
-        "B. y&z points to variable type int",
-        "C. y&z are variables of the type int",
-        "D. z&k are variables of the type int"
+        "k&m points to variable type int",
+        "y&z points to variable type int",
+        "y&z are variables of the type int",
+        "z&k are variables of the type int"
       ],
-      "answer": "B. y&z points to variable type int"
+      "answer": "y&z points to variable type int"
     },
     {
       "id": "40",
       "question": "Pointer comparisons are used when two pointers point to a common object is….?",
       "options": [
-        "A. Structure",
-        "B. Pointer",
-        "C. Array",
-        "D. String"
+        "Structure",
+        "Pointer",
+        "Array",
+        "String"
       ],
-      "answer": "C. Array"
+      "answer": "Array"
     },
     {
       "id": "41",
       "question": "Which is the declaration of pointers to pointers?",
       "options": [
-        "A. int **y",
-        "B. int *z",
-        "C. int &x",
-        "D. int p"
+        "int **y",
+        "int *z",
+        "int &x",
+        "int p"
       ],
-      "answer": "A. int **y"
+      "answer": "int **y"
     },
     {
       "id": "42",
       "question": "Which one is a convenient tool for handling a group of logically related data items?",
       "options": [
-        "A. File",
-        "B. Structure",
-        "C. pointer",
-        "D. Array"
+        "File",
+        "Structure",
+        "pointer",
+        "Array"
       ],
-      "answer": "B. Structure"
+      "answer": "Structure"
     },
     {
       "id": "43",
       "question": "Which one is used to access the structure variable?",
       "options": [
-        "A. Index value",
-        "B. position",
-        "C. dot operator",
-        "D. A&C"
+        "Index value",
+        "position",
+        "dot operator",
+        "A&C"
       ],
-      "answer": "B. position"
+      "answer": "position"
     },
     {
       "id": "44",
       "question": "Of the following is structure contains an array as its member variable?",
       "options": [
-        "A. An array of structure",
-        "C. Array within the structure",
-        "B. The array of pointer",
-        "D. Array within the pointer"
+        "An array of structure",
+        "Array within the structure",
+        "The array of pointer",
+        "Array within the pointer"
       ],
-      "answer": "C. Array within the structure"
+      "answer": "Array within the structure"
     },
     {
       "id": "45",
       "question": " What is the syntax of the above declaration?",
       "options": [
-        "A. Array within structure",
-        "B. Structure within a structure",
-        "C. Structure within pointer",
-        "D. Structure within function"
+        "Array within structure",
+        "Structure within a structure",
+        "Structure within pointer",
+        "Structure within function"
       ],
-      "answer": "B. Structure within a structure"
+      "answer": "Structure within a structure"
     },
     {
       "id": "46",
       "question": "Which data type represents the input file stream and is used to read information from the file?",
       "options": [
-        "A. ifstream",
-        "B. ofstream",
-        "C. fstream",
-        "D. iostream"
+        "ifstream",
+        "ofstream",
+        "fstream",
+        "iostream"
       ],
-      "answer": "A. ifstream"
+      "answer": "ifstream"
     },
     {
       "id": "47",
       "question": "Which is a sequence of bytes stored in permanent storage?",
       "options": [
-        "A. String",
-        "B. File",
-        "C. Stream",
-        "D. Read"
+        "String",
+        "File",
+        "Stream",
+        "Read"
       ],
-      "answer": "B. File"
+      "answer": "File"
     },
     {
       "id": "48",
       "question": "Which one is true about the array?",
       "options": [
-        "A. The array can store multiple data items having different data types.",
-        "B. The first element of the array has an index number size of -1.",
-        "C. The last element of the array has an index number of 0.",
-        "D. Elements of an array can be accessed by using their index number."
+        "The array can store multiple data items having different data types.",
+        "The first element of the array has an index number size of -1.",
+        "The last element of the array has an index number of 0.",
+        "Elements of an array can be accessed by using their index number."
       ],
-      "answer": "D. Elements of an array can be accessed by using their index number."
+      "answer": "Elements of an array can be accessed by using their index number."
     },
     {
       "id": "49",
       "question": "Which is the correct array declaration?",
       "options": [
-        "A. int num;",
-        "C. int num(4);",
-        "B. int num[4];",
-        "D. int num{4};"
+        "int num;",
+        "int num(4);",
+        "int num[4];",
+        "int num{4};"
       ],
-      "answer": "B. int num[4];"
+      "answer": "int num[4];"
     },
     {
       "id": "50",
       "question": "Which one is an invalid variable declaration?",
       "options": [
-        "A. int a, b;",
-        "C. int a; b; c;",
-        "B. float a=5, b, c=6;",
-        "D. float x, y, z;"
+        "int a, b;",
+        "int a; b; c;",
+        "float a=5, b, c=6;",
+        "float x, y, z;"
       ],
-      "answer": "C. int a; b; c;"
+      "answer": "int a; b; c;"
     },
     {
       "id": "51",
       "question": "Given an array declaration as int a[6];  the first and last index values, respectively are",
       "options": [
-        "A. 1 and 6",
-        "B. 0 and 5",
-        "C. 0 and 6",
-        "D. 1 and 5"
+        "1 and 6",
+        "0 and 5",
+        "0 and 6",
+        "1 and 5"
       ],
-      "answer": "B. 0 and 5"
+      "answer": "0 and 5"
     }
   ],
-  "V. Internet Programming Questions": [
+  "Internet Programming": [
     {
       "id": "52",
       "question": "Which one is true about HTML-like XML features?",
       "options": [
-        "A. Like HTML, it contains empty and paired tags.",
-        "B. Like HTML, it has predefined tags",
-        "C. Like HTML, the closing tag is optional.",
-        "D. No answer"
+        "Like HTML, it contains empty and paired tags.",
+        "Like HTML, it has predefined tags",
+        "Like HTML, the closing tag is optional.",
+        "No answer"
       ],
-      "answer": "D. No answer"
+      "answer": "No answer"
     },
     {
       "id": "53",
       "question": "In the external CSS method, it is not mandatory to use one of the following elements.",
       "options": [
-        "A. Link element",
-        "B. type element",
-        "C. href element",
-        "D. all are mandatory elements"
+        "Link element",
+        "type element",
+        "href element",
+        "all are mandatory elements"
       ],
-      "answer": "B. type element"
+      "answer": "type element"
     },
     {
       "id": "54",
       "question": "What is “<link rel=\"stylesheet“ href=“see.css\" type=\"text/css\">”?",
       "options": [
-        "A. It is a stylesheet embedded in html document",
-        "B. It is HTM",
-        "L. linked file embedded in a CS",
-        "S. file.",
-        "C. It is a hyperlink that refers to other documents placed in other places.",
-        "D. Answer not given"
+        "It is a stylesheet embedded in html document",
+        "It is HTML linked file embedded in a CSS file.",
+        "It is a hyperlink that refers to other documents placed in other places.",
+        "Answer not given"
       ],
-      "answer": "A. It is a stylesheet embedded in html document"
+      "answer": "It is HTML linked file embedded in a CSS file."
     },
     {
       "id": "55",
       "question": "How can we declare elements in DTD?",
       "options": [
-        "A. !<ELEMEN",
-        "T. element name(content-model)>",
-        "B. <!",
-        "E. LEMEN",
-        "T. element name(content-model)>",
-        "C. <Element>  content here </Element>",
-        "D. < element name(content-model)>"
+        "!<ELEMEN",
+        "element name(content-model)>",
+        "<!",
+        "LEMEN",
+        "element name(content-model)>",
+        "<Element>  content here </Element>",
+        "< element name(content-model)>"
       ],
-      "answer": "B. <!"
+      "answer": "<!"
     },
     {
       "id": "56",
       "question": "One is not Operator used to tell the frequency of one element in an XML document:",
       "options": [
-        "A. #",
-        "B. +",
-        "C. ?                    D.*"
+        "#",
+        "+",
+        "?",
+        "*"
       ],
-      "answer": "A. #"
+      "answer": "#"
     },
     {
       "id": "57",
       "question": "One of the following tags is used to specify links in HTML.",
       "options": [
-        "B. <a>",
-        "C. <Target>",
-        "D. all      Answer: B"
+        "<a>",
+        "<Target>",
+        "all"
       ],
-      "answer": "B. <a>"
+      "answer": "<a>"
     },
     {
       "id": "58",
       "question": "Look into the following table and choose a set of tag fragments for a merged cell with “FIESTA”:",
       "options": [
-        "A. <td rowspan =\"4\"><td rowspan =\"4\"><align=\"center\">FIESTA</td>",
-        "B. <td colspanspan =\"2\"><td colspan =\"2\"> FIEST",
-        "A. </td>",
-        "C. <td rowspan =\"4\"rowspan =\"4\" text = \"center\"> FIEST",
-        "A. </td>",
-        "D. <td rowspan =\"2\"colspan =\"2\"align=\"center\"> FIEST",
-        "A. </td>"
+        "<td rowspan =\"4\"><td rowspan =\"4\"><align=\"center\">FIESTA</td>",
+        "<td colspanspan =\"2\"><td colspan =\"2\"> FIEST",
+        "</td>",
+        "<td rowspan =\"4\"rowspan =\"4\" text = \"center\"> FIEST",
+        "</td>",
+        "<td rowspan =\"2\"colspan =\"2\"align=\"center\"> FIEST",
+        "</td>"
       ],
-      "answer": "D. <td rowspan =\"2\"colspan =\"2\"align=\"center\"> FIEST"
+      "answer": "<td rowspan =\"2\"colspan =\"2\"align=\"center\"> FIEST"
     },
     {
       "id": "59",
       "question": "Which one of the following satisfies the CSS syntax rule as an external or internal style?",
       "options": [
-        "A. H3  {font-size: 14  color: gray} ;",
-        "B. {font-size: 14  color: gray} H3",
-        "C. {font= “14”; color=”gray”} H3",
-        "D. H3  {font-size: 14; color: gray}"
+        "H3  {font-size: 14  color: gray} ;",
+        "{font-size: 14  color: gray} H3",
+        "{font= “14”; color=”gray”} H3",
+        "H3  {font-size: 14; color: gray}"
       ],
-      "answer": "D. H3  {font-size: 14; color: gray}"
+      "answer": "H3  {font-size: 14; color: gray}"
     },
     {
       "id": "60",
       "question": "What is the advantage of using CSS on web pages?",
       "options": [
-        "A. To increase website accessibility",
-        "B. For Easier management of multiple changes",
-        "C. To make the webpages similar and consistent.",
-        "D. All of the above are correct answers"
+        "To increase website accessibility",
+        "For Easier management of multiple changes",
+        "To make the webpages similar and consistent.",
+        "All of the above are correct answers"
       ],
-      "answer": "D. All of the above are correct answers"
+      "answer": "All of the above are correct answers"
     },
     {
       "id": "61",
       "question": "Which is the correct way to comment on something in CSS?",
       "options": [
-        "A. Using <!-- and -->",
-        "B. Using </-- and -/->",
-        "C. Using <!-- and -!>",
-        "D. None"
+        "Using <!-- and -->",
+        "Using </-- and -/->",
+        "Using <!-- and -!>",
+        "None"
       ],
-      "answer": "A. Using <!-- and -->"
+      "answer": "Using <!-- and -->"
     },
     {
       "id": "62",
       "question": "colspan and rowspan are attributes of the table-cell elements,",
       "options": [
-        "A. < Table> and <th>",
-        "B. < Table> and  <td>",
-        "C. <th> and <td>",
-        "D. All"
+        "< Table> and <th>",
+        "< Table> and  <td>",
+        "<th> and <td>",
+        "All"
       ],
-      "answer": "C. <th> and <td>"
+      "answer": "<th> and <td>"
     },
     {
       "id": "63",
       "question": "In the client-server model, which of the following can be helpful for client and server tasks?",
       "options": [
-        "A. Client machine, server machine, protocol, markup language, URL",
-        "B. Browser, search engines, Client machine, server machine, protocols, markup language, URL",
-        "C. Internet, Browser, search engines, Client machine, server machine, protocols, markup language, URL",
-        "D. All of the above"
+        "Client machine, server machine, protocol, markup language, URL",
+        "Browser, search engines, Client machine, server machine, protocols, markup language, URL",
+        "Internet, Browser, search engines, Client machine, server machine, protocols, markup language, URL",
+        "All of the above"
       ],
-      "answer": "C. Internet, Browser, search engines, Client machine, server machine, protocols, markup language, URL"
+      "answer": "Internet, Browser, search engines, Client machine, server machine, protocols, markup language, URL"
     },
     {
       "id": "64",
       "question": "Which of the following tag is used to add rows in the table?",
       "options": [
-        "A. <td> and </td>",
-        "B. <th> and </th>",
-        "C. <tr> and </tr>   D.None"
+        "<td> and </td>",
+        "<th> and </th>",
+        "<tr> and </tr>",
+        "None"
       ],
-      "answer": "C. <tr> and </tr>   D.None"
+      "answer": "<tr> and </tr>"
     },
     {
       "id": "65",
       "question": "Computers can communicate with each other using:",
       "options": [
-        "A. Human language",
-        "B. Protocol address",
-        "C. DN",
-        "D. None"
+        "Human language",
+        "Protocol address",
+        "DN",
+        "None"
       ],
-      "answer": "B. Protocol address"
+      "answer": "Protocol address"
     },
     {
       "id": "66",
       "question": "How can we insert an image file type with the ‘.png’  file extension in the web page HTML?",
       "options": [
-        "A. <img href = \"file.png\" >",
-        "B. <img url = \" file.png\" > C.<img link = \" file.png\" >",
-        "D. None"
+        "<img href = \"file.png\" >",
+        "<img url = \"file.png\" >",
+        "<img link = \"file.png\" >",
+        "None"
       ],
-      "answer": "D. None"
+      "answer": "None"
     }
   ],
-  "VIII. Visual Basic Questions": [
+  "Visual Basic": [
     {
       "id": "67",
       "question": "How to add the items to combo box in Visual studio 2010 if it names combo box1",
       "options": [
-        "A. combo box1.Items “name”",
-        "B. combo box1.Add (“name”)",
-        "C. combo box1.Items. Add(“name”)",
-        "B. Add” name”",
-        "D. cmb. Add” name”"
+        "combo box1.Items “name”",
+        "combo box1.Add (“name”)",
+        "combo box1.Items. Add(“name”)",
+        "Add” name”",
+        "cmb. Add” name”"
       ],
-      "answer": "C. combo box1.Items. Add(“name”)"
+      "answer": "combo box1.Items. Add(“name”)"
     },
     {
       "id": "68",
       "question": "_______is where the user interface is actually designed by placing the controls from Tool Box.",
       "options": [
-        "A. Form design window",
-        "B. The Properties window",
-        "C. Tool bar",
-        "D. Code Editor Window"
+        "Form design window",
+        "The Properties window",
+        "Tool bar",
+        "Code Editor Window"
       ],
-      "answer": "A. Form design window"
+      "answer": "Form design window"
     },
     {
       "id": "69",
       "question": "Which of the following is the correct statement for specifying the words to appear in the title bar of Form called Form1?",
       "options": [
-        "A. Form1.Text = “My Text”",
-        "C. Form1.TitleBar = “My Text”",
-        "B. Me.Text = “My Text”",
-        "D. Me.Caption = “My Text”"
+        "Form1.Text = “My Text”",
+        "Form1.TitleBar = “My Text”",
+        "Me.Text = “My Text”",
+        "Me.Caption = “My Text”"
       ],
-      "answer": "B. Me.Text = “My Text”"
+      "answer": "Me.Text = “My Text”"
     },
     {
       "id": "70",
       "question": "When we are creating a menu item using Menu Strip at the menu bar all are the available options except one.",
       "options": [
-        "A. Menu Item",
-        "B. combo box",
-        "C. List box",
-        "D. Textbox"
+        "Menu Item",
+        "combo box",
+        "List box",
+        "Textbox"
       ],
-      "answer": "C. List box"
+      "answer": "List box"
     },
     {
       "id": "71",
       "question": "The ________ is used to perform string concatenation in visual basic 2010.",
       "options": [
-        "A. Percent symbol (%)",
-        "C. Dollar sign ($)",
-        "B. Pound Symbol (#)",
-        "D. Ampersand symbol (&)"
+        "Percent symbol (%)",
+        "Dollar sign ($)",
+        "Pound Symbol (#)",
+        "Ampersand symbol (&)"
       ],
-      "answer": "D. Ampersand symbol (&)"
+      "answer": "Ampersand symbol (&)"
     },
     {
       "id": "72",
       "question": "From the following, which is the correct ways of declare the variables in visual studio 2010?",
       "options": [
-        "A. Dim password As String",
-        "B. Dim name As String",
-        "C. Dim password As String, name As String, address As Integer",
-        "D. All of the above"
+        "Dim password As String",
+        "Dim name As String",
+        "Dim password As String, name As String, address As Integer",
+        "All of the above"
       ],
-      "answer": "D. All of the above"
+      "answer": "All of the above"
     },
     {
       "id": "73",
       "question": "Which one of the following is correct statement about ADO.NET object model?",
       "options": [
-        "A. Provides a bridge between the front-end controls and the back-end database.",
-        "B. Used to connect an application to a database.",
-        "A. and B",
-        "D. None of the above"
+        "Provides a bridge between the front-end controls and the back-end database.",
+        "Used to connect an application to a database.",
+        "A and B",
+        "None of the above"
       ],
-      "answer": "A. and B"
+      "answer": "A and B"
     },
     {
       "id": "74",
       "question": "Which is a kind of visual studio programming errors occurring when you write code that does not conform to the rules of the programming language.",
       "options": [
-        "A. Syntax errors",
-        "C. Runtime errors",
-        "B. Logical errors",
-        "D. Build errors"
+        "Syntax errors",
+        "Runtime errors",
+        "Logical errors",
+        "Build errors"
       ],
-      "answer": "A. Syntax errors"
+      "answer": "Syntax errors"
     },
     {
       "id": "75",
       "question": "After creating the command and passing it to the database through the connection, you can then execute it. To support this, the OleDbCommand class is equipped with a method named as:",
       "options": [
-        "A. Command",
-        "B. Data adapter",
-        "C. Dataset",
-        "D. ExecuteNonQuery()     Answer :  D"
+        "Command",
+        "Data adapter",
+        "Dataset",
+        "ExecuteNonQuery()"
       ],
-      "answer": "D. ExecuteNonQuery()"
+      "answer": "ExecuteNonQuery()"
     }
   ],
-  "IV. Fundamental of Database Questions": [
+  "Fundamental of Database": [
     {
       "id": "76",
       "question": "Of the following alternatives, one is not true about the database approach",
       "options": [
-        "A. It has a crash recovery mechanism",
-        "B. It is easy to apply integrity constraint",
-        "C. It helps to store a collection of raw data files on the hard disk.",
-        "D. It has a backup and recovery mechanism"
+        "It has a crash recovery mechanism",
+        "It is easy to apply integrity constraint",
+        "It helps to store a collection of raw data files on the hard disk.",
+        "It has a backup and recovery mechanism"
       ],
-      "answer": "C. It helps to store a collection of raw data files on the hard disk."
+      "answer": "It helps to store a collection of raw data files on the hard disk."
     },
     {
       "id": "77",
       "question": "Suppose, after your graduation, you will be recruited by the Commercial Bank of Ethiopia with the job title of Database Administrator. Which one of the following alternatives is your responsibility?",
       "options": [
-        "A. Choosing the appropriate structures to represent and store data",
-        "B. Authorizing access to the database",
-        "C. Determine the requirements of end users and develop specifications for canned transactions",
-        "D. Design and implements DBM",
-        "S. modules and interfaces as a package"
+        "Choosing the appropriate structures to represent and store data",
+        "Authorizing access to the database",
+        "Determine the requirements of end users and develop specifications for canned transactions",
+        "Design and implements DBM",
+        "modules and interfaces as a package"
       ],
-      "answer": "B. Authorizing access to the database"
+      "answer": "Authorizing access to the database"
     },
     {
       "id": "78",
       "question": "Of the following alternatives, one is false about DBMS Architecture.",
       "options": [
-        "A. In the local database system, all the processing is done on a single server",
-        "B. In DBM",
-        "S. Architecture, all layers are independent",
-        "C. As the number of layer increase, security, data integrity, and scalability will increase",
-        "D. In the second-tier Architecture, the application layer is responsible for load balancing, query request correctness, and security"
+        "In the local database system, all the processing is done on a single server",
+        "In DBM",
+        "Architecture, all layers are independent",
+        "As the number of layer increase, security, data integrity, and scalability will increase",
+        "In the second-tier Architecture, the application layer is responsible for load balancing, query request correctness, and security"
       ],
-      "answer": "D. In the second-tier Architecture, the application layer is responsible for load balancing, query request correctness, and security"
+      "answer": "In the second-tier Architecture, the application layer is responsible for load balancing, query request correctness, and security"
     },
     {
       "id": "79",
       "question": "Of the following alternatives, one is incorrect about schema.",
       "options": [
-        "A. Internal describes the actual physical storage structure of the database.",
-        "B. While the DB",
-        "A. changing the conceptual structure of the database, users can be affected",
-        "C. Conceptual describes the overall logical structure of the whole database for a community of users",
-        "D. The external schema describes the end-user interaction with database systems"
+        "Internal describes the actual physical storage structure of the database.",
+        "While the DB",
+        "changing the conceptual structure of the database, users can be affected",
+        "Conceptual describes the overall logical structure of the whole database for a community of users",
+        "The external schema describes the end-user interaction with database systems"
       ],
-      "answer": "B. While the DB"
+      "answer": "While the DB"
     },
     {
       "id": "80",
       "question": "Among the given alternatives, one is used to create a skeleton structure of the database.",
       "options": [
-        "A. Drop",
-        "B. Update",
-        "C. Select",
-        "D. Revoke"
+        "Drop",
+        "Update",
+        "Select",
+        "Revoke"
       ],
-      "answer": "A. Drop"
+      "answer": "Drop"
     },
     {
       "id": "81",
       "question": "Of the following, one is used to save the transaction on the database.",
       "options": [
-        "A. Savepoint",
-        "B. Rollback",
-        "C. Commit",
-        "D. ALL"
+        "Savepoint",
+        "Rollback",
+        "Commit",
+        "ALL"
       ],
-      "answer": "C. Commit"
+      "answer": "Commit"
     },
     {
       "id": "82",
       "question": "Which data model is used to organize the records in a tree-like structure?",
       "options": [
-        "A. Network Data model",
-        "C. Hierarchical Data model",
-        "B. Relational Data model",
-        "D. Object Data model"
+        "Network Data model",
+        "Hierarchical Data model",
+        "Relational Data model",
+        "Object Data model"
       ],
-      "answer": "C. Hierarchical Data model"
+      "answer": "Hierarchical Data model"
     },
     {
       "id": "83",
       "question": "Which key is used to create a relationship between entities?",
       "options": [
-        "A. Composite key",
-        "C. Primary key",
-        "B. Alternative key",
-        "D. Foreign key"
+        "Composite key",
+        "Primary key",
+        "Alternative key",
+        "Foreign key"
       ],
-      "answer": "D. Foreign key"
+      "answer": "Foreign key"
     },
     {
       "id": "84",
       "question": "While mapping the entity-relationship model to the relational model, which one is incorrectly matched?",
       "options": [
-        "A. All single values of the attribute  column of the table",
-        "B. Any multi-valued attributes  new separate table",
-        "C. Any composite attributes are merged  same table as different columns",
-        "D. None"
+        "All single values of the attribute  column of the table",
+        "Any multi-valued attributes  new separate table",
+        "Any composite attributes are merged  same table as different columns",
+        "None"
       ],
-      "answer": "D. None"
+      "answer": "None"
     },
     {
       "id": "85",
       "question": "Which types of functional dependency should be removed to change the first normal form into the second normal form?",
       "options": [
-        "A. Repeating groups",
-        "C. Partial dependency",
-        "B. Transitive dependency",
-        "D. Multi-valued dependency"
+        "Repeating groups",
+        "Partial dependency",
+        "Transitive dependency",
+        "Multi-valued dependency"
       ],
-      "answer": "C. Partial dependency"
+      "answer": "Partial dependency"
     },
     {
       "id": "86",
       "question": "Which types of constraints can be used to ensure the primary key cannot be null?",
       "options": [
-        "A. Constraints on NULLs",
-        "C. Key Constraints",
-        "B. Referential Integrity Constraints",
-        "D. Entity Integrity Constraint"
+        "Constraints on NULLs",
+        "Key Constraints",
+        "Referential Integrity Constraints",
+        "Entity Integrity Constraint"
       ],
-      "answer": "D. Entity Integrity Constraint"
+      "answer": "Entity Integrity Constraint"
     },
     {
       "id": "87",
       "question": "Which condition should be satisfied for computing union operation?",
       "options": [
-        "A. Both the relations have different numbers of attributes and the data types of their corresponding attributes must be different",
-        "B. Both the relations have different numbers of attributes and the data types of their corresponding attributes must be the same",
-        "D. Both the relations have the same number of attributes and the data types of their corresponding attributes must be different",
-        "D. Both the relations have the same number of attributes and the data types of their corresponding attributes must be different"
+        "Both the relations have different numbers of attributes and the data types of their corresponding attributes must be different",
+        "Both the relations have different numbers of attributes and the data types of their corresponding attributes must be the same",
+        "Both the relations have the same number of attributes and the data types of their corresponding attributes must be different",
+        "Both the relations have the same number of attributes and the data types of their corresponding attributes must be different"
       ],
-      "answer": "D. Both the relations have the same number of attributes and the data types of their corresponding attributes must be different"
+      "answer": "Both the relations have the same number of attributes and the data types of their corresponding attributes must be different"
     },
     {
       "id": "88",
       "question": "Suppose your final industrial project is entitled to a web-based job-seeking and recruitment system and you want to give criteria for applicants with a CGPA of 3.25 and above also the applicants should apply only once in one email. So, which types of constraints you will put in your system for CGPA and email respectively?",
       "options": [
-        "A. Default value and Null",
-        "C. Check and Unique",
-        "B. Default and Check",
-        "D. Unique and Null"
+        "Default value and Null",
+        "Check and Unique",
+        "Default and Check",
+        "Unique and Null"
       ],
-      "answer": "C. Check and Unique"
+      "answer": "Check and Unique"
     },
     {
       "id": "89",
       "question": "Among the given alternatives, one is a combination of Cartesian products followed by selection.",
       "options": [
-        "A. Union operation",
-        "C. Projection operation",
-        "B. Join operation",
-        "D. Cartesian product operation"
+        "Union operation",
+        "Projection operation",
+        "Join operation",
+        "Cartesian product operation"
       ],
-      "answer": "B. Join operation"
+      "answer": "Join operation"
     }
   ],
-  "V. Data Communication and Networking": [
+  "Data Communication and Networking": [
     {
       "id": "90",
       "question": "Which one of the following is/are the hardware components of a network?",
       "options": [
-        "A. Network interface card",
-        "B. Protocol",
-        "C. Network card driver",
-        "D. All"
+        "Network interface card",
+        "Protocol",
+        "Network card driver",
+        "All"
       ],
-      "answer": "A. Network interface card"
+      "answer": "Network interface card"
     },
     {
       "id": "91",
       "question": "Which of the following concepts of network determine how data are transmitted between computing devices and over networks?",
       "options": [
-        "A. Protocol",
-        "B. Router",
-        "C. Bridge",
-        "D. None"
+        "Protocol",
+        "Router",
+        "Bridge",
+        "None"
       ],
-      "answer": "A. Protocol"
+      "answer": "Protocol"
     },
     {
       "id": "92",
       "question": "Which of the following type of networks used to connect computer devices which are located within small geographical areas like homes, and offices?",
       "options": [
-        "A. LA",
-        "B. MA",
-        "C. WA",
-        "D. All"
+        "LA",
+        "MA",
+        "WA",
+        "All"
       ],
-      "answer": "D. All"
+      "answer": "All"
     },
     {
       "id": "93",
       "question": "Which of the following is an example of half-duplex transmission mode?",
       "options": [
-        "A. Walkie-talkie",
-        "B. Telephone",
-        "C. Doorbell",
-        "D. Radio broadcast"
+        "Walkie-talkie",
+        "Telephone",
+        "Doorbell",
+        "Radio broadcast"
       ],
-      "answer": "A. Walkie-talkie"
+      "answer": "Walkie-talkie"
     },
     {
       "id": "94",
       "question": "Which one of the following cables is to transmit data as pulses of light?",
       "options": [
-        "A. Fiber optic",
-        "B. Coaxial",
-        "C. Twisted Pair",
-        "D. All"
+        "Fiber optic",
+        "Coaxial",
+        "Twisted Pair",
+        "All"
       ],
-      "answer": "A. Fiber optic"
+      "answer": "Fiber optic"
     },
     {
       "id": "95",
       "question": "Which of the following is/are unguided transmission media?",
       "options": [
-        "A. Microwave",
-        "B. Satellite",
-        "C. Radio frequency propagation",
-        "D. All"
+        "Microwave",
+        "Satellite",
+        "Radio frequency propagation",
+        "All"
       ],
-      "answer": "D. All"
+      "answer": "All"
     },
     {
       "id": "96",
       "question": "­­­­­­­­Which of the following OSI reference model is/are represents the interface between the end user and the network?",
       "options": [
-        "A. Application layer",
-        "B. Presentation layer",
-        "C. Network layer",
-        "D. Data link layer"
+        "Application layer",
+        "Presentation layer",
+        "Network layer",
+        "Data link layer"
       ],
-      "answer": "A. Application layer"
+      "answer": "Application layer"
     },
     {
       "id": "97",
       "question": "Which of the following OSI reference model is/are provides the physical transmission of data and handles error notification, network topology, and flow control?",
       "options": [
-        "A. Presentation layer",
-        "B. Application layer",
-        "C. Data link layer",
-        "D. Transport layer"
+        "Presentation layer",
+        "Application layer",
+        "Data link layer",
+        "Transport layer"
       ],
-      "answer": "C. Data link layer"
+      "answer": "Data link layer"
     },
     {
       "id": "98",
       "question": "­­­­­____ is the address used by applications and hosts to send information to all nodes on a network.",
       "options": [
-        "A. Broadcast address",
-        "B. Network address",
-        "C. Host address",
-        "D. All"
+        "Broadcast address",
+        "Network address",
+        "Host address",
+        "All"
       ],
-      "answer": "A. Broadcast address"
+      "answer": "Broadcast address"
     }
   ],
-  "VI. Multimedia System": [
+  "Multimedia System": [
     {
       "id": "99",
       "question": "Which of the following best describes the process of streaming?",
       "options": [
-        "A. Playing audio files.",
-        "B. Delaying playing multimedia elements until enough data has been buffered so the element can play uninterrupted.",
-        "C. Reducing the load time, of a web page by streaming operations.",
-        "D. Sending packets to a web server to improve server performance.",
-        "E. None"
+        "Playing audio files.",
+        "Delaying playing multimedia elements until enough data has been buffered so the element can play uninterrupted.",
+        "Reducing the load time, of a web page by streaming operations.",
+        "Sending packets to a web server to improve server performance.",
+        "None"
       ],
-      "answer": "B. Delaying playing multimedia elements until enough data has been buffered so the element can play uninterrupted."
+      "answer": "Delaying playing multimedia elements until enough data has been buffered so the element can play uninterrupted."
     },
     {
       "id": "100",
       "question": "Which one of the following is the best definition for virtual reality?",
       "options": [
-        "A. Any computer game involving graphics",
-        "A. 3",
-        "D. simulation of a real or imagined environment using computers",
-        "A. simulator which require a special eye glass",
-        "D. The process of coding in another dimension",
-        "E. All"
+        "Any computer game involving graphics",
+        "3D simulation of a real or imagined environment using computers",
+        "simulator which require a special eye glass",
+        "The process of coding in another dimension",
+        "All"
       ],
-      "answer": "D. simulation of a real or imagined environment using computers"
+      "answer": "3D simulation of a real or imagined environment using computers"
     },
     {
       "id": "101",
       "question": "Web based course management tools integrate all of the following except.",
       "options": [
-        "A. multimedia presentation , collaborative and conferencing tools",
-        "B. communication and self -assessment tools",
-        "C. note-taking , management  and Authoring  tools",
-        "D. All",
-        "E. None"
+        "multimedia presentation , collaborative and conferencing tools",
+        "communication and self -assessment tools",
+        "note-taking , management  and Authoring  tools",
+        "All",
+        "None"
       ],
-      "answer": "E. None"
+      "answer": "None"
     },
     {
       "id": "102",
       "question": "Which one of the following is excluding from the instructional application of Web based course management tools?",
       "options": [
-        "A. Web-Based Instruction and Knowledge networks",
-        "B. Asynchronous  learning and Distributed learning environments",
-        "C. Both A&B",
-        "D. All",
-        "E. None"
+        "Web-Based Instruction and Knowledge networks",
+        "Asynchronous  learning and Distributed learning environments",
+        "Both A&B",
+        "All",
+        "None"
       ],
-      "answer": "E. None"
+      "answer": "None"
     },
     {
       "id": "103",
       "question": "The criteria that we use to classify types of authoring tools is",
       "options": [
-        "A. Based on the type of software they use",
-        "B. Based on the mood of the data presents",
-        "C. Based on the style that the data displays",
-        "D. A&B",
-        "E. None"
+        "Based on the type of software they use",
+        "Based on the mood of the data presents",
+        "Based on the style that the data displays",
+        "A&B",
+        "None"
       ],
-      "answer": "E. None"
+      "answer": "None"
     },
     {
       "id": "104",
       "question": "Which of the following authoring systems have less features and easier to learn?",
       "options": [
-        "A. Icon or score model",
-        "B. Object-oriented models",
-        "C. Scripting language model",
-        "D. B&",
-        "C. E.None"
+        "Icon or score model",
+        "Object-oriented models",
+        "Scripting language model",
+        "B and C",
+        "None"
       ],
-      "answer": "A. Icon or score model"
+      "answer": "Icon or score model"
     },
     {
       "id": "105",
       "question": "Which one of the following statement is incorrect?",
       "options": [
-        "A. Programing tools are high level but not authoring tools",
-        "B. Authoring tools have technical details but not programing tools",
-        "C. Programing tools require advanced level of  profession",
-        "D. All",
-        "E. None"
+        "Programing tools are high level but not authoring tools",
+        "Authoring tools have technical details but not programing tools",
+        "Programing tools require advanced level of  profession",
+        "All",
+        "None"
       ],
-      "answer": "A. Programing tools are high level but not authoring tools"
+      "answer": "Programing tools are high level but not authoring tools"
     },
     {
       "id": "106",
       "question": "From the following one is the common feature of CDROM and Web-based Authoring tools.",
       "options": [
-        "A. Internal lining feature",
-        "B. Internet enabling feature",
-        "C. Stable content feature",
-        "D. All",
-        "E. A&C"
+        "Internal lining feature",
+        "Internet enabling feature",
+        "Stable content feature",
+        "All",
+        "A&C"
       ],
-      "answer": "C. Stable content feature"
+      "answer": "Stable content feature"
     },
     {
       "id": "107",
       "question": "A types of authoring system in which  each parts are displayed independently is called",
       "options": [
-        "A. Frame based  authoring system",
-        "B. Slide based authoring system",
-        "C. Icon base authoring system",
-        "D. All",
-        "E. None"
+        "Frame based  authoring system",
+        "Slide based authoring system",
+        "Icon base authoring system",
+        "All",
+        "None"
       ],
-      "answer": "B. Slide based authoring system"
+      "answer": "Slide based authoring system"
     },
     {
       "id": "108",
       "question": "A types of authoring system that has multimedia object lives in a track in known as",
       "options": [
-        "A. Frame based  authoring system",
-        "B. Slide based authoring system",
-        "C. Icon base authoring system",
-        "D. All except C",
-        "E. None"
+        "Frame based  authoring system",
+        "Slide based authoring system",
+        "Icon base authoring system",
+        "All except C",
+        "None"
       ],
-      "answer": "B. Slide based authoring system"
+      "answer": "Slide based authoring system"
     },
     {
       "id": "113",
       "question": "One of the following is incorrect about multimedia and hypermedia.",
       "options": [
-        "A. Hypermedia is the collection of associative links within multimedia",
-        "B. Hypermedia is the subset of multimedia, whereas hypertext is the subset of hyper media.",
-        "C. Multimedia is the combination of different file options, whereas hypertext is the software representation of these files.",
-        "D. Hypertext is linear, whereas multimedia is both linear and non-linear.",
-        "E. All",
-        "F. None"
+        "Hypermedia is the collection of associative links within multimedia",
+        "Hypermedia is the subset of multimedia, whereas hypertext is the subset of hyper media.",
+        "Multimedia is the combination of different file options, whereas hypertext is the software representation of these files.",
+        "Hypertext is linear, whereas multimedia is both linear and non-linear.",
+        "All",
+        "None"
       ],
-      "answer": "D. Hypertext is linear, whereas multimedia is both linear and non-linear."
+      "answer": "Hypertext is linear, whereas multimedia is both linear and non-linear."
     },
     {
       "id": "116",
       "question": "Which one is not true about Unicode?",
       "options": [
-        "A. Represent geographical symbols.",
-        "B. Suitable for multiple languages.",
-        "C. Uses up to 65536 numbers of codes.",
-        "D. All",
-        "E. None"
+        "Represent geographical symbols.",
+        "Suitable for multiple languages.",
+        "Uses up to 65536 numbers of codes.",
+        "All",
+        "None"
       ],
-      "answer": "C. Uses up to 65536 numbers of codes."
+      "answer": "Uses up to 65536 numbers of codes."
     },
     {
       "id": "117",
       "question": "One bit is equivalent to",
       "options": [
-        "A. 0.125 bytes",
-        "B. 0.0001220703 kilo bytes",
-        "C. 0 or 1 binary digit",
-        "D. All",
-        "E. All except ‘B’"
+        "0.125 bytes",
+        "0.0001220703 kilo bytes",
+        "0 or 1 binary digit",
+        "All",
+        "All except ‘B’"
       ],
-      "answer": "D. All"
+      "answer": "All"
     }
   ],
-  "IX. Automation of Library System": [
+  "Automation of Library System": [
     {
       "id": "118",
       "question": "One of the following is not the benefits of Library Automation Systems.",
       "options": [
-        "A. Library automation reduces the workload for library staff",
-        "B. Online Search Service can be provided",
-        "C. High cost and trained technicians are required",
-        "D. Fast cataloguing and circulation services can be gained"
+        "Library automation reduces the workload for library staff",
+        "Online Search Service can be provided",
+        "High cost and trained technicians are required",
+        "Fast cataloguing and circulation services can be gained"
       ],
-      "answer": "C. High cost and trained technicians are required"
+      "answer": "High cost and trained technicians are required"
     },
     {
       "id": "119",
       "question": "Which one is not the main requirement for developing library automation systems?",
       "options": [
-        "A. Availability of Collection",
-        "B. Number of Users",
-        "C. Home design or open source software",
-        "D. Having more branch libraries"
+        "Availability of Collection",
+        "Number of Users",
+        "Home design or open source software",
+        "Having more branch libraries"
       ],
-      "answer": "D. Having more branch libraries"
+      "answer": "Having more branch libraries"
     },
     {
       "id": "120",
       "question": "Which of the following tool can be used to represent library collections’ barcode number during developing an automated library system.",
       "options": [
-        "A. labeler",
-        "B. Barcode card",
-        "C. RFI",
-        "D. tag",
-        "B. & C"
+        "labeler",
+        "Barcode card",
+        "RFI",
+        "tag",
+        "& C"
       ],
-      "answer": "D. tag"
+      "answer": "tag"
     },
     {
       "id": "121",
       "question": "One of the following module of integrated library management system provides the ability to search collections and reserve it online.",
       "options": [
-        "A. Online public accesses catalogue",
-        "B. Patron management",
-        "C. Cataloguing",
-        "D. Acquisition"
+        "Online public accesses catalogue",
+        "Patron management",
+        "Cataloguing",
+        "Acquisition"
       ],
-      "answer": "A. Online public accesses catalogue"
+      "answer": "Online public accesses catalogue"
     },
     {
       "id": "122",
       "question": "From the following alternatives one is false regarding MARC-21 standards.",
       "options": [
-        "A. It facilitate data interchange between libraries and institutions.",
-        "B. MARC-21 format are the most widely used Meta data standards.",
-        "C. MAR",
-        "D. All are correct."
+        "It facilitate data interchange between libraries and institutions.",
+        "MARC-21 format are the most widely used Meta data standards.",
+        "MAR",
+        "All are correct."
       ],
-      "answer": "C. MAR"
+      "answer": "MAR"
     },
     {
       "id": "123",
       "question": "Which of the following is odd from the following choices?",
       "options": [
-        "A. ILMS",
-        "B. z39.50",
-        "C. Resource Description & Access",
-        "D. MARC-21 format"
+        "ILMS",
+        "z39.50",
+        "Resource Description & Access",
+        "MARC-21 format"
       ],
-      "answer": "A. ILMS"
+      "answer": "ILMS"
     },
     {
       "id": "124",
       "question": "If you want to customize and redisign library automation system from open source tools which can’t be used?",
       "options": [
-        "A. Koha",
-        "B. OpenBiblio",
-        "C. Marc",
-        "D. Evergreen"
+        "Koha",
+        "OpenBiblio",
+        "Marc",
+        "Evergreen"
       ],
-      "answer": "C. Marc"
+      "answer": "Marc"
     },
     {
       "id": "125",
       "question": "Which service couldn’t be provided by an automated library system?",
       "options": [
-        "A. Fast cataloguing services",
-        "B. Online Search Service",
-        "C. Item Reservation",
-        "D. Item Digitization"
+        "Fast cataloguing services",
+        "Online Search Service",
+        "Item Reservation",
+        "Item Digitization"
       ],
-      "answer": "D. Item Digitization"
+      "answer": "Item Digitization"
     },
     {
       "id": "126",
       "question": "A standard which uses for the representation of bibliographic and related information for books and other library materials in machine-readable form is called_________.",
       "options": [
-        "A. Z39.50  Protocol",
-        "B. Machine-Readable Cataloging",
-        "C. Dublin Core",
-        "D. Anglo American Cataloging Rules"
+        "Z39.50  Protocol",
+        "Machine-Readable Cataloging",
+        "Dublin Core",
+        "Anglo American Cataloging Rules"
       ],
-      "answer": "B. Machine-Readable Cataloging"
+      "answer": "Machine-Readable Cataloging"
     },
     {
       "id": "127",
       "question": "Which one is not a special features of library automation system?",
       "options": [
-        "A. Standardization in library work",
-        "B. Availability of information",
-        "C. Networking",
-        "D. None"
+        "Standardization in library work",
+        "Availability of information",
+        "Networking",
+        "None"
       ],
-      "answer": "D. None"
+      "answer": "None"
     },
     {
       "id": "128",
       "question": "One of the following should not be considered while selecting and evaluating library automation software.",
       "options": [
-        "A. Portability and functionality",
-        "B. User friendliness",
-        "C. No support and training",
-        "D. Supporting Internationally known standards"
+        "Portability and functionality",
+        "User friendliness",
+        "No support and training",
+        "Supporting Internationally known standards"
       ],
-      "answer": "C. No support and training"
+      "answer": "No support and training"
     }
   ],
-  "X. Knowledge Organization Management": [
+  "Knowledge Organization Management": [
     {
       "id": "129",
       "question": "Which classification scheme categorized under Enumerative?",
       "options": [
-        "A. DDC& UDC",
-        "B. LCC&DDC",
-        "C. UD",
-        "D. LC",
-        "C. & COLON"
+        "DDC& UDC",
+        "LCC&DDC",
+        "UD",
+        "LC",
+        "& COLON"
       ],
-      "answer": "B. LCC&DDC"
+      "answer": "LCC&DDC"
     },
     {
       "id": "130",
       "question": "Which of the following is natural Indexing language?",
       "options": [
-        "A. author indexes",
-        "B. title indexes",
-        "C. citation indexes",
-        "D. All of the above"
+        "author indexes",
+        "title indexes",
+        "citation indexes",
+        "All of the above"
       ],
-      "answer": "D. All of the above"
+      "answer": "All of the above"
     },
     {
       "id": "131",
       "question": "From the main class of Library congress classification which letter represent Library science?",
       "options": [
-        "A. H",
-        "B. Q",
-        "C. Z",
-        "D. T"
+        "H",
+        "Q",
+        "Z",
+        "T"
       ],
-      "answer": "C. Z"
+      "answer": "Z"
     },
     {
       "id": "132",
       "question": "The standard size of the catalogue card is __________",
       "options": [
-        "A. 10.5 X7",
-        "B. 7X12",
-        "C. 7.5X12.5",
-        "D. 7X12.5"
+        "10.5 X7",
+        "7X12",
+        "7.5X12.5",
+        "7X12.5"
       ],
-      "answer": "C. 7.5X12.5"
+      "answer": "7.5X12.5"
     },
     {
       "id": "133",
       "question": "Which association is not a participated in the development of AACR?",
       "options": [
-        "A. American Library Association,",
-        "B. Australian Committee on Cataloguing",
-        "C. Library of Congress and the",
-        "D. Canadian Library Association."
+        "American Library Association,",
+        "Australian Committee on Cataloguing",
+        "Library of Congress and the",
+        "Canadian Library Association."
       ],
-      "answer": "B. Australian Committee on Cataloguing"
+      "answer": "Australian Committee on Cataloguing"
     },
     {
       "id": "134",
       "question": "Which of the following is true about card catalog?",
       "options": [
-        "A. Large number of users use at the same time from various access point.",
-        "B. Users can broaden or narrow down search by use of various search operators",
-        "C. Library have to follow cataloging rules/codes",
-        "D. Usage is global, as user can access it from anywhere, at any time"
+        "Large number of users use at the same time from various access point.",
+        "Users can broaden or narrow down search by use of various search operators",
+        "Library have to follow cataloging rules/codes",
+        "Usage is global, as user can access it from anywhere, at any time"
       ],
-      "answer": "C. Library have to follow cataloging rules/codes"
+      "answer": "Library have to follow cataloging rules/codes"
     },
     {
       "id": "135",
       "question": "Which of the following is true, when a book written by four authors?",
       "options": [
-        "A. main entry is to be made under the firs author.",
-        "B. main entry is to be made under title.",
-        "C. Added entry is made for all authors",
-        "D. All of the above"
+        "main entry is to be made under the firs author.",
+        "main entry is to be made under title.",
+        "Added entry is made for all authors",
+        "All of the above"
       ],
-      "answer": "B. main entry is to be made under title."
+      "answer": "main entry is to be made under title."
     },
     {
       "id": "136",
       "question": "___________gives information about the number of pages, volumes, illustrated matter and the size of the item.",
       "options": [
-        "A. Physical description",
-        "B. Statement of responsibility",
-        "C. Tracings",
-        "D. Series"
+        "Physical description",
+        "Statement of responsibility",
+        "Tracings",
+        "Series"
       ],
-      "answer": "A. Physical description"
+      "answer": "Physical description"
     },
     {
       "id": "137",
       "question": "Which of the following is not elements of Subject Analysis?",
       "options": [
-        "A. Discipline",
-        "B. Phenomena",
-        "C. Finding",
-        "D. Form"
+        "Discipline",
+        "Phenomena",
+        "Finding",
+        "Form"
       ],
-      "answer": "C. Finding"
+      "answer": "Finding"
     },
     {
       "id": "138",
       "question": "Works of unknown author is called_________",
       "options": [
-        "A. Antonymous work",
-        "B. Anonymous work",
-        "C. Pseudonymous work",
-        "D. Fiction work"
+        "Antonymous work",
+        "Anonymous work",
+        "Pseudonymous work",
+        "Fiction work"
       ],
-      "answer": "B. Anonymous work"
+      "answer": "Anonymous work"
     },
     {
       "id": "139",
       "question": "which of the following is standard for descriptive cataloging?",
       "options": [
-        "A. Z39.50",
-        "B. RDA",
-        "C. OSI",
-        "D. IS",
-        "O. 2709"
+        "Z39.50",
+        "RDA",
+        "OSI",
+        "IS",
+        "2709"
       ],
-      "answer": "B. RDA"
+      "answer": "RDA"
     },
     {
       "id": "140",
       "question": "Which of the following is the name for the 3-digit number that identifies the kind of data that follows?",
       "options": [
-        "A. Field",
-        "B. Subfield",
-        "C. Tag",
-        "D. Indicator"
+        "Field",
+        "Subfield",
+        "Tag",
+        "Indicator"
       ],
-      "answer": "C. Tag"
+      "answer": "Tag"
     },
     {
       "id": "141",
       "question": "Which of the following is not correct about MARC 21? Part XI:  Scholarly Communication",
       "options": [
-        "A. Is cataloging standard",
-        "B. Is communication standard",
-        "A. framework for exchange catalogue records",
-        "D. All of the above"
+        "Is cataloging standard",
+        "Is communication standard",
+        "framework for exchange catalogue records",
+        "All of the above"
       ],
-      "answer": "A. Is cataloging standard"
+      "answer": "Is cataloging standard"
     },
     {
       "id": "142",
       "question": "Which one of the following is tool to assist in locating information, without having to examine an entire document include document surrogates/replacement?",
       "options": [
-        "A. Catalog records",
-        "B. Citations",
-        "C. Indexes",
-        "D. Abstract",
-        "E. All"
+        "Catalog records",
+        "Citations",
+        "Indexes",
+        "Abstract",
+        "All"
       ],
-      "answer": "D. Abstract"
+      "answer": "Abstract"
     },
     {
       "id": "143",
       "question": "Which one of the following is publication type is correctly matched with its definition?",
       "options": [
-        "A. Conference papers - the main source of recent, up to date information that affects everyday life.",
-        "B. Research reports: - are published when authors do experiments to help support their topics.",
-        "C. Encyclopedia: - are slower to publish information, but are more reputable than magazines and newspapers.",
-        "D. Journal article: - Published during conferences",
-        "E. None"
+        "Conference papers - the main source of recent, up to date information that affects everyday life.",
+        "Research reports: - are published when authors do experiments to help support their topics.",
+        "Encyclopedia: - are slower to publish information, but are more reputable than magazines and newspapers.",
+        "Journal article: - Published during conferences",
+        "None"
       ],
-      "answer": "B. Research reports: - are published when authors do experiments to help support their topics."
+      "answer": "Research reports: - are published when authors do experiments to help support their topics."
     },
     {
       "id": "144",
       "question": "…………………are new metrics that count numbers of downloads, views, comments on scholarly websites and blogs?",
       "options": [
-        "A. Bibliometrics",
-        "B. Cyber metrics",
-        "C. Altmetrics",
-        "D. Scientometrics",
-        "E. Web metrics"
+        "Bibliometrics",
+        "Cyber metrics",
+        "Altmetrics",
+        "Scientometrics",
+        "Web metrics"
       ],
-      "answer": "C. Altmetrics"
+      "answer": "Altmetrics"
     },
     {
       "id": "145",
       "question": "Which one is incorrect about scholarly communication?",
       "options": [
-        "A. The preservation can potentially lead to generation of new content and thus start a new iteration of the process",
-        "B. Depending on mode of dissemination, some components may not exist in its cyclical process",
-        "C. It is a mode of researchers share the results of their research with their colleagues",
-        "D. The system which contains creation, evaluation, dissemination, and preservation of scholarly writings.",
-        "E. None"
+        "The preservation can potentially lead to generation of new content and thus start a new iteration of the process",
+        "Depending on mode of dissemination, some components may not exist in its cyclical process",
+        "It is a mode of researchers share the results of their research with their colleagues",
+        "The system which contains creation, evaluation, dissemination, and preservation of scholarly writings.",
+        "None"
       ],
-      "answer": "A. The preservation can potentially lead to generation of new content and thus start a new iteration of the process"
+      "answer": "The preservation can potentially lead to generation of new content and thus start a new iteration of the process"
     },
     {
       "id": "146",
       "question": "Who are stakeholders involved in the scholarly communication process",
       "options": [
-        "A. Publishers",
-        "B. Libraries",
-        "C. Researchers",
-        "D. funding agencies",
-        "E. All"
+        "Publishers",
+        "Libraries",
+        "Researchers",
+        "funding agencies",
+        "All"
       ],
-      "answer": "E. All"
+      "answer": "All"
     },
     {
       "id": "147",
       "question": "Which one of the following is incorrect about characteristics of a scholarly journal",
       "options": [
-        "A. Written by Experts who have deep-running knowledge of a specific topic",
-        "B. Contain articles on a narrowly-defined topic",
-        "C. Also known as peer-reviewed journals",
-        "D. The best sources for wide-ranging information on academic topics",
-        "E. None"
+        "Written by Experts who have deep-running knowledge of a specific topic",
+        "Contain articles on a narrowly-defined topic",
+        "Also known as peer-reviewed journals",
+        "The best sources for wide-ranging information on academic topics",
+        "None"
       ],
-      "answer": "D. The best sources for wide-ranging information on academic topics"
+      "answer": "The best sources for wide-ranging information on academic topics"
     },
     {
       "id": "148",
       "question": "What are the reasons behind patent?",
       "options": [
-        "A. To encourage new inventions by recognizing the inventor",
-        "B. To allow the patentee to benefit from commercial exploitation of the invention",
-        "C. To prohibit others from making, using or selling an invention without permission.",
-        "D. To trade I",
-        "P. with other patent holders",
-        "E. All"
+        "To encourage new inventions by recognizing the inventor",
+        "To allow the patentee to benefit from commercial exploitation of the invention",
+        "To prohibit others from making, using or selling an invention without permission.",
+        "To trade I",
+        "with other patent holders",
+        "All"
       ],
-      "answer": "E. All"
+      "answer": "All"
     },
     {
       "id": "149",
       "question": "Which one is the correct step to create a bibliography",
       "options": [
-        "A. Decide  type of bibliography        Decide on the citation formatting        Keep a record of the citations",
-        "B. Decide  type of bibliography         Keep a record of the citations        Decide on the citation formatting",
-        "C. Decide on the citation formatting        Decide  type of bibliography        Keep a record of the citations",
-        "D. Keep a record of the citations         Decide on the citation formatting        Decide  type of bibliography",
-        "E. Keep a record of the citations         Decide  type of bibliography        Decide on the citation formatting"
+        "Decide  type of bibliography        Decide on the citation formatting        Keep a record of the citations",
+        "Decide  type of bibliography         Keep a record of the citations        Decide on the citation formatting",
+        "Decide on the citation formatting        Decide  type of bibliography        Keep a record of the citations",
+        "Keep a record of the citations         Decide on the citation formatting        Decide  type of bibliography",
+        "Keep a record of the citations         Decide  type of bibliography        Decide on the citation formatting"
       ],
-      "answer": "A. Decide  type of bibliography        Decide on the citation formatting        Keep a record of the citations"
+      "answer": "Decide  type of bibliography        Decide on the citation formatting        Keep a record of the citations"
     },
     {
       "id": "150",
       "question": "Which of the followings provided by E-Prints repositories?",
       "options": [
-        "A. Time saving deposits",
-        "B. Import data from other repositories and services",
-        "C. Auto complete-as-you-type for fast data entry",
-        "D. Flexible plug-in architecture for developing extensions",
-        "E. All"
+        "Time saving deposits",
+        "Import data from other repositories and services",
+        "Auto complete-as-you-type for fast data entry",
+        "Flexible plug-in architecture for developing extensions",
+        "All"
       ],
-      "answer": "E. All"
+      "answer": "All"
     },
     {
       "id": "151",
       "question": "…………….....…. concentrates on the use of computer supported tools to explore large amount of abstract data.",
       "options": [
-        "A. Knowledge visualization",
-        "B. Information visualization",
-        "C. Educational visualization",
-        "D. Product visualization",
-        "E. Systems visualization"
+        "Knowledge visualization",
+        "Information visualization",
+        "Educational visualization",
+        "Product visualization",
+        "Systems visualization"
       ],
-      "answer": "B. Information visualization"
+      "answer": "Information visualization"
     },
     {
       "id": "152",
       "question": "………………….is a full service management information solution that gives you an overview of the effectiveness of your e-business and digital marketing.",
       "options": [
-        "A. Altmetrics",
-        "B. Web metrics",
-        "C. E-Metrics",
-        "D. Cyber metrics",
-        "E. Scientometrics"
+        "Altmetrics",
+        "Web metrics",
+        "E-Metrics",
+        "Cyber metrics",
+        "Scientometrics"
       ],
-      "answer": "C. E-Metrics"
+      "answer": "E-Metrics"
     },
     {
       "id": "153",
       "question": "………………….is a system of working with each other to do a task and to achieve shared goals.",
       "options": [
-        "A. Scholarly community",
-        "B. Collaboration",
-        "C. Researchers",
-        "D. Authors",
-        "E. Publishers"
+        "Scholarly community",
+        "Collaboration",
+        "Researchers",
+        "Authors",
+        "Publishers"
       ],
-      "answer": "B. Collaboration"
+      "answer": "Collaboration"
     }
   ]
 }
