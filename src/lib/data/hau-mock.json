@@ -1,0 +1,1357 @@
+{
+  "Computer Programming": [
+    {
+      "id": "1",
+      "question": "Which one of the following can be considered a building block of a C++ program?",
+      "options": [
+        "Class",
+        "Control statements",
+        "Function",
+        "All of the above."
+      ],
+      "answer": "All of the above."
+    },
+    {
+      "id": "2",
+      "question": "Which one is a false declaration in the case of constant variables?",
+      "options": [
+        "const int id =30;",
+        "const int id; id = 30;",
+        "#define hours 24;",
+        "None of the above"
+      ],
+      "answer": "const int id; id = 30;"
+    },
+    {
+      "id": "3",
+      "question": "How do you dynamically allocate memory for a float in C++?",
+      "options": [
+        "float *ptr = malloc(sizeof(float));",
+        "float *ptr = new float;",
+        "float ptr = new float;",
+        "float ptr = (float)malloc(sizeof(float));"
+      ],
+      "answer": "float *ptr = new float;"
+    },
+    {
+      "id": "4",
+      "question": "What is the output of the following string array C++ program using the + operator?",
+      "options": [
+        "Helen Abebe",
+        "H",
+        "Syntax Error",
+        "Abebe Dereje"
+      ],
+      "answer": "Syntax Error"
+    },
+    {
+      "id": "53",
+      "question": "What is the output of the following fragment code?",
+      "options": [
+        "a = 5 b=7 C=2",
+        "a = 5 b= 8 C=4",
+        "a =6 b=7 C=4",
+        "a= 6 b= 8 C=4"
+      ],
+      "answer": "No answer"
+    },
+    {
+      "id": "54",
+      "question": "All of the following are examples of integral data types, EXCEPT:",
+      "options": [
+        "int",
+        "short",
+        "char",
+        "double"
+      ],
+      "answer": "double"
+    },
+    {
+      "id": "55",
+      "question": "Which type of loop is guaranteed to execute at least once?",
+      "options": [
+        "for loop",
+        "while loop",
+        "do-while loop",
+        "None of the above"
+      ],
+      "answer": "do-while loop"
+    },
+    {
+      "id": "56",
+      "question": "How do you access the third element of an array named  '' numbers\"?",
+      "options": [
+        "numbers[2]",
+        "numbers[3]",
+        "numbers(2)",
+        "numbers(3)"
+      ],
+      "answer": "numbers[2]"
+    },
+    {
+      "id": "57",
+      "question": "What does the `*` symbol mean when used in a pointer declaration?",
+      "options": [
+        "It declares a reference.",
+        "It declares a pointer.",
+        "It dereferences a pointer.",
+        "It multiplies two numbers."
+      ],
+      "answer": "It declares a pointer."
+    },
+    {
+      "id": "58",
+      "question": "What is the purpose of a loop in programming?",
+      "options": [
+        "To perform mathematical calculations",
+        "To make decisions based on conditions",
+        "To store and retrieve data",
+        "To repeat a set of instructions"
+      ],
+      "answer": "To repeat a set of instructions"
+    },
+    {
+      "id": "59",
+      "question": "What is the output of the following loop?",
+      "options": [
+        "0 1 2 3 4",
+        "1 2 3 4 5",
+        "5 4 3 2 1",
+        "0 0 0 0 0"
+      ],
+      "answer": "No answer"
+    },
+    {
+      "id": "60",
+      "question": "What is the correct way to declare a constant variable in C++?",
+      "options": [
+        "const int x;",
+        "final int x;",
+        "int const x;",
+        "int x;"
+      ],
+      "answer": "const int x;"
+    },
+    {
+      "id": "82",
+      "question": "One is not the use of finally blocks in Java.",
+      "options": [
+        "Clearing objects from main memory",
+        "Closing opened database connection",
+        "Closing the opened files",
+        "None"
+      ],
+      "answer": "Clearing objects from main memory"
+    },
+    {
+      "id": "83",
+      "question": "One is the major pillar of object-oriented programming",
+      "options": [
+        "Encapsulation",
+        "Polymorphism",
+        "Inheritance",
+        "All"
+      ],
+      "answer": "All"
+    },
+    {
+      "id": "84",
+      "question": "Which one is the feature of the Java programming language?",
+      "options": [
+        "It is the most secure programming language.",
+        "It is platform independent.",
+        "It is object-oriented programming language",
+        "All"
+      ],
+      "answer": "All"
+    },
+    {
+      "id": "85",
+      "question": "Which one of the following is incorrect?",
+      "options": [
+        "BufferedReader, is I/O class which is used to read character from input stream",
+        "Object is instance of a class",
+        "A class will occupy memory space",
+        "None"
+      ],
+      "answer": "A class will occupy memory space"
+    },
+    {
+      "id": "86",
+      "question": "Which inheritance type is not supported by Java?",
+      "options": [
+        "Single inheritance",
+        "Multiple inheritances",
+        "Multilevel inheritance",
+        "Hierarchal inheritance"
+      ],
+      "answer": "Multiple inheritances"
+    },
+    {
+      "id": "87",
+      "question": "Which one is false about constructor in java?",
+      "options": [
+        "It is special methods.",
+        "Has same name with class name.",
+        "It invoked during object creation.",
+        "Has void return type."
+      ],
+      "answer": "Has void return type."
+    },
+    {
+      "id": "88",
+      "question": "Which operation comes first during event handling?",
+      "options": [
+        "The event is generated.",
+        "The user clicks the button",
+        "Event object is forwarded to the method of the registered listener class.",
+        "The method is gets executed and returns"
+      ],
+      "answer": "The user clicks the button"
+    },
+    {
+      "id": "89",
+      "question": "Which one is not true about<<extend>>use case?",
+      "options": [
+        "Make payment includes check funds availability: we can use this as example for extend use case",
+        "One use case includes the behavior of another use case at specific point.",
+        "It is Alternate course of the base use case",
+        "All of the above"
+      ],
+      "answer": "One use case includes the behavior of another use case at specific point."
+    },
+    {
+      "id": "90",
+      "question": "What the Rectangle around the use cases indicates in system use case",
+      "options": [
+        "Actor",
+        "use case",
+        "Associations",
+        "System Boundary"
+      ],
+      "answer": "System Boundary"
+    },
+    {
+      "id": "91",
+      "question": "Collaboration from a user interface class in analysis artifact implies:",
+      "options": [
+        "Dependency, between the classes",
+        "Association between the classes",
+        "Aggregation between the classes",
+        "A and C"
+      ],
+      "answer": "Dependency, between the classes"
+    },
+    {
+      "id": "92",
+      "question": "Which of the following is different?",
+      "options": [
+        "Collaboration Diagram",
+        "Use case diagram",
+        "State chart diagram",
+        "Persistent diagram"
+      ],
+      "answer": "State chart diagram"
+    }
+  ],
+  "Data Communication and Computer Networks": [
+    {
+      "id": "5",
+      "question": "Which of the following is NOT a benefit of a converged network?",
+      "options": [
+        "Cost savings due to the integration of different communication types.",
+        "It is more efficient the use of resources such as bandwidth.",
+        "The need for separate network components for each service.",
+        "Reduced operational complexity"
+      ],
+      "answer": "The need for separate network components for each service."
+    },
+    {
+      "id": "6",
+      "question": "Half-duplex systems are typically used in situations where:",
+      "options": [
+        "Real-time communication between two parties is required.",
+        "Only one device needs to transmit data at a time.",
+        "Simultaneous communication in both directions is needed.",
+        "Communication efficiency is not a priority."
+      ],
+      "answer": "Only one device needs to transmit data at a time."
+    },
+    {
+      "id": "7",
+      "question": "In Manchester encoding, how is a binary (1) represented? A high-to-low transition in the middle of the bit period.",
+      "options": [
+        "A low-to-high transition in the middle of the bit period.",
+        "A constant high signal for the entire bit period.",
+        "A constant low signal for the entire bit period."
+      ],
+      "answer": "A low-to-high transition in the middle of the bit period."
+    },
+    {
+      "id": "8",
+      "question": "When should you use Cyclic Redundancy Check (CRC) over Checksum?",
+      "options": [
+        "When the primary concern is the computational efficiency of error detection.",
+        "When a high level of error detection accuracy is required, especially for burst errors.",
+        "When the data packet is small and simple to manage.",
+        "When data transmission speed is the primary concern."
+      ],
+      "answer": "When a high level of error detection accuracy is required, especially for burst errors."
+    },
+    {
+      "id": "9",
+      "question": "Which of the following is most suitable for packet switching?",
+      "options": [
+        "Real-time voice communication that requires constant connection.",
+        "Applications that need a dedicated, continuous path for the entire communication session.",
+        "Data communication, where messages are broken into smaller packets and sent through different routes.",
+        "Long-distance communication with minimal delays."
+      ],
+      "answer": "Data communication, where messages are broken into smaller packets and sent through different routes."
+    },
+    {
+      "id": "10",
+      "question": "Which of the following is an example of an application layer protocol?",
+      "options": [
+        "IP (Internet Protocol)",
+        "TCP (Transmission Control Protocol)",
+        "DNS (Domain Name System)",
+        "MAC (Media Access Control)"
+      ],
+      "answer": "DNS (Domain Name System)"
+    },
+    {
+      "id": "11",
+      "question": "Class A IP addresses have a first octet that begins with which bit pattern?",
+      "options": [
+        "10",
+        "110",
+        "1110",
+        "0"
+      ],
+      "answer": "0"
+    },
+    {
+      "id": "12",
+      "question": "In Classful Addressing, what is the range of Class B IP addresses?",
+      "options": [
+        "0.0.0.0 to 127.255.255.255",
+        "128.0.0.0 to 191.255.255.255",
+        "192.0.0.0 to 223.255.255.255",
+        "224.0.0.0 to 239.255.255.255"
+      ],
+      "answer": "128.0.0.0 to 191.255.255.255"
+    }
+  ],
+  "Enterprise Systems": [
+    {
+      "id": "13",
+      "question": "Which of the following is NOT considered a key characteristic of Enterprise Systems (ES)?",
+      "options": [
+        "Integration",
+        "Packages",
+        "Best Practices",
+        "Exclusivity"
+      ],
+      "answer": "Exclusivity"
+    },
+    {
+      "id": "14",
+      "question": "What is the primary purpose of Enterprise Application Integration (EAI)?",
+      "options": [
+        "To replace all existing systems with a single unified system.",
+        "To eliminate the need for databases in an organization.",
+        "To interconnect different information systems within a business and facilitate data exchange.",
+        "To create new applications from scratch."
+      ],
+      "answer": "To interconnect different information systems within a business and facilitate data exchange."
+    },
+    {
+      "id": "15",
+      "question": "Which layer of the EAI stack is responsible for ensuring that data is in the correct format for delivery to the next system?",
+      "options": [
+        "Message Storage & Routing",
+        "Business Activity Monitoring",
+        "Data Transformation",
+        "Adapter"
+      ],
+      "answer": "Data Transformation"
+    },
+    {
+      "id": "16",
+      "question": "What is the primary goal of Enterprise Resource Planning (ERP) systems?",
+      "options": [
+        "To automate customer service and marketing processes.",
+        "To replace all existing software systems in an organization with a single vendor's product.",
+        "To integrate all business functions into a single, integrated software program for improved efficiency and information sharing.",
+        "To solely focus on improving manufacturing and production processes."
+      ],
+      "answer": "To integrate all business functions into a single, integrated software program for improved efficiency and information sharing."
+    },
+    {
+      "id": "17",
+      "question": "Which of the following is a characteristic of a successful ERP implementation?",
+      "options": [
+        "Assuming that the ERP package will take care of everything without user input.",
+        "Selecting employees with a negative attitude towards the new implementation for the implementation team.",
+        "Conducting a GAP analysis to understand company requirements before selecting an ERP package.",
+        "Viewing ERP as solely the responsibility of the management team."
+      ],
+      "answer": "Conducting a GAP analysis to understand company requirements before selecting an ERP package."
+    },
+    {
+      "id": "18",
+      "question": "Which of the following is NOT one of the three fundamental components of customer relationship management (CRM)?",
+      "options": [
+        "Operational",
+        "Analytical",
+        "Collaborative",
+        "Financial"
+      ],
+      "answer": "Financial"
+    },
+    {
+      "id": "19",
+      "question": "Which of the following is a key goal of production logistics?",
+      "options": [
+        "Lowering costs of value creation.",
+        "Maximizing marketing expenditure.",
+        "Increasing research and development spending.",
+        "Reducing customer communication."
+      ],
+      "answer": "Lowering costs of value creation."
+    },
+    {
+      "id": "20",
+      "question": "Which of the following is NOT a stage of Production Planning and Control (PPC)?",
+      "options": [
+        "Planning",
+        "Operations",
+        "Marketing",
+        "Control"
+      ],
+      "answer": "Marketing"
+    }
+  ],
+  "Introduction to Information Retrieval": [
+    {
+      "id": "21",
+      "question": "Documents are ranked by their closeness with the given query. Closeness is determined by________",
+      "options": [
+        "Similarity score calculation",
+        "Representing the queries and documents as binary weight and non-binary weight",
+        "Rank the documents based on their closeness with the given query",
+        "B &C",
+        "all"
+      ],
+      "answer": "all"
+    },
+    {
+      "id": "22",
+      "question": "What is true about the tf and idf values of misspelled words like “percision” and “recall”?",
+      "options": [
+        "They have low tf and low idf values.",
+        "They have low tf and high idf values.",
+        "They have high tf and low idf values.",
+        "They have high tf and high idf values."
+      ],
+      "answer": "They have low tf and high idf values."
+    },
+    {
+      "id": "23",
+      "question": "The user is presented with a list of the retrieved documents and, after examining them, marks those that are relevant. This strategy is called as",
+      "options": [
+        "System relevant feedback",
+        "User relevance feedback",
+        "Initiation strategy",
+        "Retrieve and examine strategy"
+      ],
+      "answer": "User relevance feedback"
+    },
+    {
+      "id": "24",
+      "question": "Given a document containing the sentence ‘If there is a question, there is a solution’, what are the number of tokens in the sentence?",
+      "options": [
+        "9",
+        "4",
+        "6",
+        "10"
+      ],
+      "answer": "10"
+    },
+    {
+      "id": "25",
+      "question": "Suppose you have a document containing 500 words, and the term \"multimedia” appears 8 times. Assume the document collection contains 5 million documents, and the term \"multimedia\" appears in 50,000 of these documents. Find TF, IDF, and TF-IDF for the term \"multimedia.\".",
+      "options": [
+        "0.16, 0.106, 0.064",
+        "6.64,0.016,0.10624",
+        "0.016, 6.64, 0.10624",
+        "1.6,1.0624,0.016"
+      ],
+      "answer": "0.016, 6.64, 0.10624"
+    },
+    {
+      "id": "26",
+      "question": "Which term weighting model uses the concept of \"Term Frequency - Inverse Document Frequency\"?",
+      "options": [
+        "Probabilistic Model",
+        "Term Frequency Model",
+        "Vector Space Model",
+        "Boolean Model"
+      ],
+      "answer": "Vector Space Model"
+    },
+    {
+      "id": "27",
+      "question": "If the retrieval system retrieved 40 documents and 25 were relevant, and the total number of relevant documents is 60, calculate the recall:",
+      "options": [
+        "0.625",
+        "0.4167",
+        "6.25",
+        "0.04167"
+      ],
+      "answer": "0.4167"
+    },
+    {
+      "id": "28",
+      "question": "____________ is a data structure technique that is used to quickly locate & access the data in the database.",
+      "options": [
+        "Searching",
+        "Stemming",
+        "Indexing",
+        "Retrieving"
+      ],
+      "answer": "Indexing"
+    }
+  ],
+  "Machine learning/Data Sciences/Data Mining": [
+    {
+      "id": "29",
+      "question": "What is the primary goal of supervised learning?",
+      "options": [
+        "To find patterns in unlabeled data",
+        "To predict outcomes based on labeled data",
+        "To learn by interacting with an environment",
+        "To optimize a system without data"
+      ],
+      "answer": "To predict outcomes based on labeled data"
+    },
+    {
+      "id": "30",
+      "question": "What is the role of a \"feature\" in machine learning?",
+      "options": [
+        "It is the output of the model",
+        "It is an input variable used to make predictions",
+        "It is the algorithm used for training",
+        "It is the evaluation metric"
+      ],
+      "answer": "It is an input variable used to make predictions"
+    },
+    {
+      "id": "31",
+      "question": "What is overfitting in machine learning?",
+      "options": [
+        "When a model performs well on training data but poorly on unseen data",
+        "When a model is too simple to capture patterns in the data",
+        "When a model is trained for too long",
+        "When a model is not trained at all"
+      ],
+      "answer": "When a model performs well on training data but poorly on unseen data"
+    },
+    {
+      "id": "32",
+      "question": "A Facebook company wants to analyze user comments to determine whether they are positive, negative, or neutral. The dataset includes labeled comments. Which natural language processing (NLP) technique is most suitable for this task?",
+      "options": [
+        "Word2Vec",
+        "Latent Dirichlet Allocation (LDA)",
+        "Sentiment Analysis using Recurrent Neural Networks (RNNs)",
+        "Principal Component Analysis (PCA)"
+      ],
+      "answer": "Sentiment Analysis using Recurrent Neural Networks (RNNs)"
+    },
+    {
+      "id": "33",
+      "question": "A healthcare company wants to build a system to classify X-ray images into two categories: \"Normal\" and \"Pneumonia.\" The dataset includes labeled X-ray images. Which deep learning architecture is most suitable for this task?",
+      "options": [
+        "Recurrent Neural Network (RNN)",
+        "Convolutional Neural Network (CNN)",
+        "Autoencoder",
+        "Generative Adversarial Network (GAN)"
+      ],
+      "answer": "Convolutional Neural Network (CNN)"
+    },
+    {
+      "id": "34",
+      "question": "Which of the following is an example of a regression problem?",
+      "options": [
+        "Predicting whether an email is spam or not",
+        "Predicting the price of a house",
+        "Classifying images of cats and dogs",
+        "Grouping customers into segments"
+      ],
+      "answer": "Predicting the price of a house"
+    },
+    {
+      "id": "35",
+      "question": "What is the main difference between classification and regression?",
+      "options": [
+        "Classification predicts continuous values, while regression predicts discrete values",
+        "Classification predicts discrete labels, while regression predicts continuous values",
+        "Classification is unsupervised, while regression is supervised",
+        "Classification uses clustering, while regression uses decision trees"
+      ],
+      "answer": "Classification predicts discrete labels, while regression predicts continuous values"
+    },
+    {
+      "id": "36",
+      "question": "Which of the following is a common technique to reduce overfitting?",
+      "options": [
+        "Increasing model complexity",
+        "Using less training data",
+        "Reducing the number of features",
+        "Both b and c"
+      ],
+      "answer": "Reducing the number of features"
+    }
+  ],
+  "Database Systems": [
+    {
+      "id": "37",
+      "question": "For designing a normal RDBMS, which of the following normal forms is considered adequate?",
+      "options": [
+        "4NF",
+        "3NF",
+        "2NF",
+        "BCNF"
+      ],
+      "answer": "3NF"
+    },
+    {
+      "id": "38",
+      "question": "Which database level is closest to the users?",
+      "options": [
+        "External",
+        "Internal",
+        "Physical",
+        "Conceptual"
+      ],
+      "answer": "External"
+    },
+    {
+      "id": "39",
+      "question": "In E-R Diagram, relationship type is represented by",
+      "options": [
+        "Ellipse",
+        "Rectangle",
+        "Oval",
+        "Diamond"
+      ],
+      "answer": "Diamond"
+    },
+    {
+      "id": "40",
+      "question": "Which of the following statements is incorrect about the database?",
+      "options": [
+        "It represents some aspects of the real world.",
+        "It can be at varying size and complexity.",
+        "It is designed for specific purpose and intended users.",
+        "It can be generated and maintained manually."
+      ],
+      "answer": "It can be generated and maintained manually."
+    },
+    {
+      "id": "41",
+      "question": "The entity integrity rule states that",
+      "options": [
+        "Primary key attribute cannot be null.",
+        "No primary key can be composite.",
+        "Primary key attribute cannot be unique.",
+        "No primary key may be equal to a value in a foreign key."
+      ],
+      "answer": "Primary key attribute cannot be null."
+    },
+    {
+      "id": "42",
+      "question": "What is the purpose of the COMMIT command in a transaction?",
+      "options": [
+        "To cancel the transaction",
+        "To rollback the transaction",
+        "To temporarily save the transaction",
+        "To save all changes made by the transaction permanently"
+      ],
+      "answer": "To save all changes made by the transaction permanently"
+    },
+    {
+      "id": "43",
+      "question": "What is the main goal of query optimization?",
+      "options": [
+        "To find the most efficient way to execute a query",
+        "To prevent deadlocks",
+        "To ensure atomicity of transactions",
+        "To improve normalization"
+      ],
+      "answer": "To find the most efficient way to execute a query"
+    },
+    {
+      "id": "44",
+      "question": "Which of the following is NOT a common security measure for databases?",
+      "options": [
+        "Access control",
+        "Data encryption",
+        "Denormalization",
+        "User authentication"
+      ],
+      "answer": "Denormalization"
+    },
+    {
+      "id": "45",
+      "question": "Which of the following is not a suggestion for improving quality for IT projects?",
+      "options": [
+        "Understand the cost of quality",
+        "Focus on organizational influences and workplace factors that affect quality",
+        "Establish leadership that promotes quality",
+        "Follow maturity models",
+        "None"
+      ],
+      "answer": "None"
+    },
+    {
+      "id": "46",
+      "question": "Which type of contract is used to pay direct and indirect costs for sellers?",
+      "options": [
+        "Fixed-price or lump-sum contracts",
+        "Cost-reimbursable contracts",
+        "Time and material contracts",
+        "Unit price contracts"
+      ],
+      "answer": "Cost-reimbursable contracts"
+    },
+    {
+      "id": "47",
+      "question": "__________________causes people to do something for a reward or to avoid a penalty.",
+      "options": [
+        "Influence",
+        "Power",
+        "Intrinsic motivation",
+        "Extrinsic motivation"
+      ],
+      "answer": "Extrinsic motivation"
+    },
+    {
+      "id": "48",
+      "question": "________________ is a comprehensive and flexible system that is used to produce near defect-free products and services consistently.",
+      "options": [
+        "Quality audits",
+        "Design of experiments",
+        "Six Sigma",
+        "Benchmarking"
+      ],
+      "answer": "Six Sigma"
+    }
+  ],
+  "Systems Analysis and Design": [
+    {
+      "id": "49",
+      "question": "Which one of the following is the correct order for performing testing on IT projects?",
+      "options": [
+        "Unit testing, system testing, integration testing, user acceptance testing",
+        "Unit testing, integration testing, system testing, user acceptance testing",
+        "Unit testing, system testing, user acceptance testing, integration testing",
+        "Unit testing, integration testing, user acceptance testing, system testing"
+      ],
+      "answer": "Unit testing, integration testing, system testing, user acceptance testing"
+    },
+    {
+      "id": "50",
+      "question": "Which of the following statement is correct about cost of quality?",
+      "options": [
+        "Prevention and appraisal cost of quality are categorized under non-conformance cost",
+        "Internal and External failure cost of quality are categorized under conformance cost",
+        "Measurement and test equipment costs of quality are categorized under conformance cost",
+        "All"
+      ],
+      "answer": "Measurement and test equipment costs of quality are categorized under conformance cost"
+    },
+    {
+      "id": "51",
+      "question": "Which of the following activity is not included under conducting procurement process?",
+      "options": [
+        "Sending appropriate documentation to potential sellers",
+        "Ensuring that the seller’s performance meets contractual requirements",
+        "Obtaining proposals or bids",
+        "Awarding a contract"
+      ],
+      "answer": "Ensuring that the seller’s performance meets contractual requirements"
+    },
+    {
+      "id": "52",
+      "question": "_______ is a column chart that shows the number of resources assigned to a project over time.",
+      "options": [
+        "Project organizational charts",
+        "Staffing management plan",
+        "Responsibility assignment matrixes",
+        "Resource histograms"
+      ],
+      "answer": "Resource histograms"
+    },
+    {
+      "id": "93",
+      "question": "What does the ‘X’ symbol at the bottom of a method invocation box in a sequence diagram indicate?",
+      "options": [
+        "User Interface elements",
+        "Object have been removed",
+        "signature of the method invoked in response to the message",
+        "exception of cards that represent actors"
+      ],
+      "answer": "Object have been removed"
+    },
+    {
+      "id": "94",
+      "question": "Which one of the following could be business class in the student information system domain?",
+      "options": [
+        "Transcript UI",
+        "External organization",
+        "Registration page",
+        "Course class"
+      ],
+      "answer": "Course class"
+    },
+    {
+      "id": "95",
+      "question": "Which one is not a construct in a state chart diagram?",
+      "options": [
+        "Final state",
+        "Guard",
+        "Initial state",
+        "Transition"
+      ],
+      "answer": "Guard"
+    },
+    {
+      "id": "96",
+      "question": "Which OOSAD principle allows a child class to inherit behavior from a parent class?",
+      "options": [
+        "Encapsulation",
+        "Abstraction",
+        "Polymorphism",
+        "Inheritance"
+      ],
+      "answer": "Inheritance"
+    }
+  ],
+  "Knowledge Management": [
+    {
+      "id": "61",
+      "question": "\"Learning by doing\" and documenting experiences to convert explicit knowledge into tacit knowledge is known as:",
+      "options": [
+        "Socialization",
+        "Externalization",
+        "Combination",
+        "Internalization"
+      ],
+      "answer": "Externalization"
+    },
+    {
+      "id": "62",
+      "question": "What is a negative consequence of organizational biases in knowledge filtering?",
+      "options": [
+        "Improved decision-making",
+        "Enhanced filtering of relevant knowledge",
+        "Closed-mindedness and limited exposure to diverse knowledge",
+        "Faster knowledge retention"
+      ],
+      "answer": "Closed-mindedness and limited exposure to diverse knowledge"
+    },
+    {
+      "id": "63",
+      "question": "How should a knowledge management strategy be aligned?",
+      "options": [
+        "Based on short-term goals only",
+        "Independent of corporate strategy",
+        "Dependent on corporate strategy to meet tactical and strategic needs",
+        "Focused only on technology implementation"
+      ],
+      "answer": "Dependent on corporate strategy to meet tactical and strategic needs"
+    },
+    {
+      "id": "64",
+      "question": "What is a key difference between information management (IM) and knowledge management (KM)?",
+      "options": [
+        "IM focuses on know-how, while KM focuses on know-what",
+        "IM deals with structured and unstructured facts, while KM deals with codified and uncodified knowledge",
+        "IM is harder to copy, while KM is easily transferable",
+        "IM requires personal interactions, while KM relies entirely on technology"
+      ],
+      "answer": "IM deals with structured and unstructured facts, while KM deals with codified and uncodified knowledge"
+    },
+    {
+      "id": "65",
+      "question": "Which method of eliciting anecdotes provides a common reference for the group to a commonly known story, cartoon, or movie?",
+      "options": [
+        "Dit-spinning",
+        "Metaphor",
+        "Alternative histories",
+        "Indirect stories"
+      ],
+      "answer": "Alternative histories"
+    },
+    {
+      "id": "66",
+      "question": "The process of indexing lessons, formatting them, and incorporating them into the repository is called____________.",
+      "options": [
+        "Disseminate the lesson",
+        "Store the lesson",
+        "Verify the lesson",
+        "Collect the lesson"
+      ],
+      "answer": "Store the lesson"
+    },
+    {
+      "id": "67",
+      "question": "The area following extensive written reports, rules, and procedures is said to be:",
+      "options": [
+        "Craft technology",
+        "Routine technology",
+        "Non-routine technology",
+        "Rule governed technology"
+      ],
+      "answer": "Routine technology"
+    },
+    {
+      "id": "68",
+      "question": "The most successful solutions or problem-solving methods that have been developed by a specific organization or industry best describe:",
+      "options": [
+        "Organizational memory",
+        "Knowledge management",
+        "Best practices",
+        "Standard operating procedures"
+      ],
+      "answer": "Best practices"
+    },
+    {
+      "id": "69",
+      "question": "Which of the following refers to rule-based AI tolerates imprecision by using nonspecific terms called membership functions to solve problems?",
+      "options": [
+        "Genetic algorithms",
+        "Expert system",
+        "Hybrid system",
+        "Fuzzy logic"
+      ],
+      "answer": "Fuzzy logic"
+    }
+  ],
+  "Multimedia System": [
+    {
+      "id": "70",
+      "question": "What is a key characteristic of non-linear multimedia?",
+      "options": [
+        "Fixed sequence of content",
+        "User control over navigation",
+        "Limited interactivity",
+        "Simple text-based presentation"
+      ],
+      "answer": "User control over navigation"
+    },
+    {
+      "id": "71",
+      "question": "Which one of the following image file formats is great for static images, logos, and print with a transparent background?",
+      "options": [
+        "PNG (Portable Network Graphics)",
+        "GIF (Graphics Interchange Format)",
+        "JPEG/JPG (Joint Photographic Experts Group)",
+        "TIFF (Tagged Image File Format)"
+      ],
+      "answer": "GIF (Graphics Interchange Format)"
+    },
+    {
+      "id": "72",
+      "question": "What is the main purpose of quantization in audio digitization?",
+      "options": [
+        "Convert sound into binary",
+        "Map discrete samples to amplitude values",
+        "Record live audio",
+        "Store audio on a hard drive"
+      ],
+      "answer": "Map discrete samples to amplitude values"
+    },
+    {
+      "id": "73",
+      "question": "Which type of bitmap/raster image requires Color Look-Up Tables (CLUTs)?",
+      "options": [
+        "Monochrome image",
+        "Gray scale image",
+        "8-bit color image",
+        "24-bit color image"
+      ],
+      "answer": "8-bit color image"
+    },
+    {
+      "id": "74",
+      "question": "Which format is commonly used for high-quality, lossless images?",
+      "options": [
+        "JPEG",
+        "GIF",
+        "TIFF",
+        "BMP"
+      ],
+      "answer": "TIFF"
+    },
+    {
+      "id": "75",
+      "question": "What is the frame rate commonly used to simulate smooth motion in video?",
+      "options": [
+        "12 fps",
+        "24 fps",
+        "30 fps",
+        "60 fps"
+      ],
+      "answer": "24 fps"
+    },
+    {
+      "id": "76",
+      "question": "What does interlaced scanning do during video display?",
+      "options": [
+        "Writes every line of the picture sequentially.",
+        "Writes every second line of the picture in alternating sweeps.",
+        "Updates all lines on the screen at once.",
+        "Only displays the odd lines of the picture."
+      ],
+      "answer": "Writes every second line of the picture in alternating sweeps."
+    },
+    {
+      "id": "77",
+      "question": "video signal type combines color and luminance signals into one carrier wave?",
+      "options": [
+        "Component Video",
+        "S-Video",
+        "Digital Video",
+        "Composite Video"
+      ],
+      "answer": "Composite Video"
+    },
+    {
+      "id": "78",
+      "question": "From the following, which one is incorrect about Huffman's coding data compression technique?",
+      "options": [
+        "It is an encoding algorithm using priority queue.",
+        "It can be constructed based on frequency of occurrence of letters in text documents.",
+        "The original content of the data is lost to certain degree when compressed.",
+        "It is one of the lossless data compression techniques."
+      ],
+      "answer": "The original content of the data is lost to certain degree when compressed."
+    },
+    {
+      "id": "79",
+      "question": "One of the following is not a design goal of multimedia databases (MMDB).",
+      "options": [
+        "Handle a variety of data compression and storage formats.",
+        "Designed for only one computing platform and operating system.",
+        "Handle different kinds of indices.",
+        "Synchronize different media types while presenting to user."
+      ],
+      "answer": "Designed for only one computing platform and operating system."
+    },
+    {
+      "id": "80",
+      "question": "Which one is a correct inheritance between the following built-in classes?",
+      "options": [
+        "BufferedWriter extends Object",
+        "FileOutputStream extends OutputStream",
+        "BufferedWriter extends Writer",
+        "All"
+      ],
+      "answer": "All"
+    },
+    {
+      "id": "81",
+      "question": "Which input output class is used to read characters from the input stream?",
+      "options": [
+        "BufferedReader",
+        "FileReader",
+        "BufferedWriter",
+        "FileWriter"
+      ],
+      "answer": "BufferedReader"
+    }
+  ],
+  "Management Information Systems": [
+    {
+      "id": "97",
+      "question": "Which one of the following is not the actual process of management information systems?",
+      "options": [
+        "Collection",
+        "Organization",
+        "Distribution",
+        "Management control and analysis of data",
+        "None"
+      ],
+      "answer": "Management control and analysis of data"
+    },
+    {
+      "id": "98",
+      "question": "Which one of the following is unique from the others?",
+      "options": [
+        "Capturing data",
+        "Processing data",
+        "Information dissemination",
+        "Information retrieval",
+        "None"
+      ],
+      "answer": "Information retrieval"
+    },
+    {
+      "id": "99",
+      "question": "Which one of the following is not features Management Information Systems?",
+      "options": [
+        "Accuracy",
+        "Information dissemination",
+        "Completeness",
+        "Relevance",
+        "Consistency"
+      ],
+      "answer": "Consistency"
+    },
+    {
+      "id": "100",
+      "question": "Which one of the following is not importance of MIS?",
+      "options": [
+        "It improves personal efficiency",
+        "It facilitates interpersonal communication",
+        "It promotes learning or training",
+        "It helps automate the managerial processes",
+        "It decreases organizational control"
+      ],
+      "answer": "It decreases organizational control"
+    },
+    {
+      "id": "101",
+      "question": "Which one of the following is not features of distributed systems?",
+      "options": [
+        "No shared memory (massage based communication)",
+        "Heterogeneity",
+        "Each runs its own local operating system",
+        "All",
+        "None"
+      ],
+      "answer": "None"
+    },
+    {
+      "id": "102",
+      "question": "Which one of the following statement is incorrect?",
+      "options": [
+        "Clustering software allows independent computers to work together closely.",
+        "Middleware supports seamless access to remote services.",
+        "Too much emphasis on transparency may prevent user from understanding system behavior",
+        "Interoperability is the ability of two different systems or applications to work together.",
+        "None"
+      ],
+      "answer": "None"
+    },
+    {
+      "id": "103",
+      "question": "Which one of the following do not support communication across a network?",
+      "options": [
+        "Remote procedure call(RPC)",
+        "Remote Method Invocation(RMI)",
+        "Simple Object Access Protocol(SOAP)",
+        "Common Object Request Broker Architecture(CORBA)",
+        "None"
+      ],
+      "answer": "None"
+    },
+    {
+      "id": "104",
+      "question": "Which one of the following is true statement?",
+      "options": [
+        "Breakeven analysis determines the amount of time required for the cumulative cash flow from a development project to equal its initial and ongoing investment.",
+        "Return on investment is the ratio of the net cash inflows from a project divided by the cash outflows of the project.",
+        "The net present value is the net amount by which project savings exceed project expenses, after allowing for the cost of capital and the time value of money.",
+        "The cost of capital is the minimum desired rate of return on an investment and is the average cost of funds used to finance the operations of the business.",
+        "All"
+      ],
+      "answer": "All"
+    }
+  ],
+  "Internet Programming": [
+    {
+      "id": "105",
+      "question": "Which of the following CSS property defines the different properties of all four sides of an element’s border in a single declaration?",
+      "options": [
+        "border-collapse",
+        "border-width",
+        "padding",
+        "border"
+      ],
+      "answer": "border-width"
+    },
+    {
+      "id": "106",
+      "question": "What will be the output of the following CSS code snippet?",
+      "options": [
+        "All span elements will have a green thick border and a red outline",
+        "All span elements will have a red border and a green dotted outline",
+        "All span elements will have a outer green dotted border and an inner red border",
+        "All span elements will have an outer red border and inner green dotted border"
+      ],
+      "answer": "All span elements will have a outer green dotted border and an inner red border"
+    },
+    {
+      "id": "107",
+      "question": "Which of the following function is used to sort an array in descending order?",
+      "options": [
+        "sort()",
+        "asrot()",
+        "dsort()",
+        "rsort()"
+      ],
+      "answer": "rsort()"
+    },
+    {
+      "id": "108",
+      "question": "Which of the following HTML code will make an image clickable?",
+      "options": [
+        "<a href=\"https://www.sanfoundry.com/\">Sanfoundry Home Page</a>",
+        "<img src=\"https://www.sanfoundry.com/sanfoundry-logo\"> <a href=\"https://www.sanfoundry.com/\">Sanfoundry Home Page</a> </img>",
+        "<a href=\"https://www.sanfoundry.com/\">Sanfoundry Home Page</a> <img src=\"https://www.sanfoundry.com/sanfoundry-logo\" />",
+        "<a href=\"https://www.sanfoundry.com/\"> <img src=\"https://www.sanfoundry.com/sanfoundry-logo\" /></a>"
+      ],
+      "answer": "<a href=\"https://www.sanfoundry.com/\"> <img src=\"https://www.sanfoundry.com/sanfoundry-logo\" /></a>"
+    },
+    {
+      "id": "109",
+      "question": "Which of the following is the correct way to create an array in PHP?",
+      "options": [
+        "$season = array[\"summer\" , \"winter\" , \"spring\" , \"autumn\"];",
+        "$season = array(\"summer\" , \"winter\" , \"spring\" , \"autumn\");",
+        "$season = \"summer\" , \"winter\" , \"spring\" , \"autumn\";",
+        "All of the above"
+      ],
+      "answer": "$season = array(\"summer\" , \"winter\" , \"spring\" , \"autumn\");"
+    },
+    {
+      "id": "110",
+      "question": "In HTML, which attribute is used to create a link that opens in a new window tab?",
+      "options": [
+        "src=”_blank”",
+        "alt=”_blank”",
+        "target=”_self”",
+        "target=”_blank”"
+      ],
+      "answer": "target=”_blank”"
+    }
+  ],
+  "Fundamentals of Artificial Intelligence": [
+    {
+      "id": "111",
+      "question": "Backpropagation in neural networks primarily focuses on:",
+      "options": [
+        "Increasing the learning rate",
+        "Eliminating hidden layers",
+        "Increasing the number of training samples",
+        "Adjusting weights to minimize error"
+      ],
+      "answer": "Adjusting weights to minimize error"
+    },
+    {
+      "id": "112",
+      "question": "What is the function of the activation function in a neural network?",
+      "options": [
+        "Store training data",
+        "Adjust weights randomly",
+        "Compute output based on input",
+        "Eliminate unnecessary nodes"
+      ],
+      "answer": "Compute output based on input"
+    },
+    {
+      "id": "113",
+      "question": "A medical expert system helps doctors diagnose diseases by asking questions about symptoms and matching them with a database of known conditions. What is the role of the knowledge base in this system?",
+      "options": [
+        "To store patient medical records",
+        "To process natural language input",
+        "To store rules and facts for reasoning",
+        "To analyze images of medical scans"
+      ],
+      "answer": "To store rules and facts for reasoning"
+    },
+    {
+      "id": "114",
+      "question": "Which of the following statements about a knowledge base (KB) is true?",
+      "options": [
+        "It stores a set of sentences expressed in a knowledge representation language",
+        "It contains numerical data only",
+        "It does not support inference mechanisms",
+        "It does not require any updates"
+      ],
+      "answer": "It stores a set of sentences expressed in a knowledge representation language"
+    },
+    {
+      "id": "115",
+      "question": "What is the primary function of the learning element in a learning agent?",
+      "options": [
+        "To perform actions based on input",
+        "To improve the agent’s performance based on experience",
+        "To interact with the environment",
+        "To directly control the inference engine"
+      ],
+      "answer": "To interact with the environment"
+    },
+    {
+      "id": "116",
+      "question": "A hospital wants to develop a system to assist doctors in diagnosing diseases based on patient symptoms and medical history. The system should provide recommendations and justify its reasoning to doctors. Which component of an expert system will handle the reasoning process using the stored medical knowledge?",
+      "options": [
+        "Knowledge Base",
+        "User Interface",
+        "Inference Engine",
+        "Working Memory"
+      ],
+      "answer": "Inference Engine"
+    },
+    {
+      "id": "117",
+      "question": "Sarah is developing a chatbot that can understand and respond to human queries. She wants the chatbot to interact naturally, process language, and provide meaningful answers. Which approach to AI best aligns with Sarah’s goal?",
+      "options": [
+        "Thinking Humanly",
+        "Acting Humanly",
+        "Thinking Rationally",
+        "Acting Rationally"
+      ],
+      "answer": "Acting Humanly"
+    }
+  ],
+  "Information System Security": [
+    {
+      "id": "118",
+      "question": "Which of the following a cryptographic techniques that used to provide authentication, integrity, and non-repudiation for digital documents or messages.",
+      "options": [
+        "Hashing function",
+        "Digital signature",
+        "Encryption",
+        "Key exchange authentication"
+      ],
+      "answer": "Digital signature"
+    },
+    {
+      "id": "119",
+      "question": "An organization plan to provide a security service that detect and providing a real-time action of attempts to access system resources in an unauthorized manner. Which of the following security techniques an organization can use?",
+      "options": [
+        "Intrusion detection system",
+        "Cryptography",
+        "Digital signature",
+        "Intrusion prevention system"
+      ],
+      "answer": "Intrusion prevention system"
+    },
+    {
+      "id": "120",
+      "question": "Two parties are exchanging messages to ensure authenticity using public key cryptography. Which of the following statements describes the proper procedure for transmitting an encrypted message?",
+      "options": [
+        "The sender encrypts the message using the recipient's public key, and the recipient decrypts the message using the recipient's private key.",
+        "The sender encrypts the message using the sender's public key, and the recipient decrypts the message using the recipient's public key.",
+        "The sender encrypts the message using the sender's private key, and the recipient decrypts the message using the recipient's private key.",
+        "The sender encrypts the message using the sender's private key, and the recipient decrypts the message using the sender's public key."
+      ],
+      "answer": "The sender encrypts the message using the sender's private key, and the recipient decrypts the message using the sender's public key."
+    }
+  ]
+}
